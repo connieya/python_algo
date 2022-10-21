@@ -15,6 +15,7 @@
 |Lv.0| [피자 나눠먹기 (1)](https://programmers.co.kr/learn/courses/30/lessons/120814) | 삼항 연산자 , ceil 쓰지 않고 수학적으로 접근 | [코드](programmers/level00/피자나눠먹기.md) |
 |Lv.0| [배열의 평균 값](https://programmers.co.kr/learn/courses/30/lessons/120817) | sum , len 함수 | [코드](programmers/level00/배열의평균값.md) |
 |Lv.0| [나이 출력](https://programmers.co.kr/learn/courses/30/lessons/120820) | 덧셈 연산 | [코드](programmers/level00/나이출력.md) |
+|Lv.0| [배열 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/120821) | [::-1] ,list(reversed(str) , append & pop , .reverse() | [코드](programmers/level00/배열뒤집기.md) |
 |Lv.0| [문자열 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/120822) | [::-1]  , join(list(reversed(str)) | [코드](programmers/level00/문자열뒤집기.md) |
 |Lv.0| [짝수 홀수 개수](https://programmers.co.kr/learn/courses/30/lessons/120824) | 짝수 홀수 개수 | [코드](programmers/level00/짝수홀수.md) |
 |Lv.0| [각도기](https://programmers.co.kr/learn/courses/30/lessons/120829) | 조건문 | [코드](programmers/level00/각도기.md) |
