@@ -30,5 +30,7 @@
 |Lv.1| [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) | unordered_set | [코드](programmers/level01/폰켓몬.md) |
 |Lv.1| [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) |` substr 활용하기 | [코드](programmers/level01/가운데글자.md) |
 |Lv.1| [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) | sum() , for in range | [코드](programmers/level01/약수의합.md) |
+|Lv.1| [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931) | sum() ,int() , str() | [코드](programmers/level01/자릿수더하기.md) |
 |Lv.1| [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) | 삼항 연산자 | [코드](programmers/level01/짝수와홀수.md) |
 |Lv.1| [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) | sum() , len() | [코드](programmers/level01/평균구하기.md) |
+|Lv.1| [삼총사](https://programmers.co.kr/learn/courses/30/lessons/131705) | Combinations 조합 | [코드](programmers/level01/삼총사.md) |
