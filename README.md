@@ -34,3 +34,10 @@
 |Lv.1| [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) | 삼항 연산자 | [코드](programmers/level01/짝수와홀수.md) |
 |Lv.1| [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) | sum() , len() | [코드](programmers/level01/평균구하기.md) |
 |Lv.1| [삼총사](https://programmers.co.kr/learn/courses/30/lessons/131705) | Combinations 조합 | [코드](programmers/level01/삼총사.md) |
+
+## 🎃 LeetCode
+
+| # |  Title | Difficulty | Comment| Solution |
+|:---|:---------------------:|:-----:|:-----:|:----|
+|1|[ Two Sum ](https://leetcode.com/problems/two-sum/) | Easy | 해시 사용해서 O(n)에 해결 |[Solution](leetcode/easy/1.md)
+|125|[ Valid Palindrome ](https://leetcode.com/problems/valid-palindrome/) | Easy | isalnum() , deque popleft() ,문자열 슬라이싱  |[Solution](leetcode/easy/125.md)
