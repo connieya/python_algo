@@ -11,6 +11,7 @@
 |2739|[구구단](https://www.acmicpc.net/problem/2739) |🥉 브론즈 5 | 반복문, 문자열 포매팅 |[코드](baekjoon/bronze5/2739.md)
 |10869|[사칙연산](https://www.acmicpc.net/problem/10869) |🥉 브론즈 5 | 사칙연산 |[코드](baekjoon/bronze5/10869.md)
 |10926|[??!](https://www.acmicpc.net/problem/10926) |🥉 브론즈 5 |구현  |[코드](baekjoon/bronze5/10926.md)
+|10950|[A+B-3](https://www.acmicpc.net/problem/10950) |🥉 브론즈 5 | 반복문 , 덧셈  |[코드](baekjoon/bronze5/10950.md)
 |18108|[1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108) |🥉 브론즈 5 | 사칙연산 |[코드](baekjoon/bronze5/18108.md)
 
 ## 👻 프로그래머스
