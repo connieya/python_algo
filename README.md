@@ -1,5 +1,16 @@
 # Python algorithm
 
+## ✨ BOJ
+
+| 번호 |  문제 이름 | 난이도  | 코멘트|  코드 |
+|:---|:-------------------:|:-----------:|:-----:|:------|
+|1000|[A+B](https://www.acmicpc.net/problem/1000) |🥉 브론즈 5 | sum() , map() |[코드](baekjoon/bronze5/1000.md)
+|1001|[A-B](https://www.acmicpc.net/problem/1001) |🥉 브론즈 5 | 사칙연산 , 출력 |[코드](baekjoon/bronze5/1001.md)
+|1008|[A/B](https://www.acmicpc.net/problem/1008) |🥉 브론즈 5 | 나누기 연산 |[코드](baekjoon/bronze5/1008.md)
+|10869|[사칙연산](https://www.acmicpc.net/problem/10869) |🥉 브론즈 5 | 사칙연산 |[코드](baekjoon/bronze5/10869.md)
+|10926|[??!](https://www.acmicpc.net/problem/10926) |🥉 브론즈 5 |  |[코드](baekjoon/bronze5/10926.md)
+|2557|[Hello World](https://www.acmicpc.net/problem/2557) |🥉 브론즈 5 | 출력 |[코드](baekjoon/bronze5/2557.md)
+
 ## 👻 프로그래머스
 
 |레벨 | 문제 | 코멘트 |코드|
