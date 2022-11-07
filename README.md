@@ -9,6 +9,7 @@
 |1008|[A/B](https://www.acmicpc.net/problem/1008) |🥉 브론즈 5 | 나누기 연산 |[코드](baekjoon/bronze5/1008.md)
 |2557|[Hello World](https://www.acmicpc.net/problem/2557) |🥉 브론즈 5 | 출력 |[코드](baekjoon/bronze5/2557.md)
 |2739|[구구단](https://www.acmicpc.net/problem/2739) |🥉 브론즈 5 | 반복문, 문자열 포매팅 |[코드](baekjoon/bronze5/2739.md)
+|3003|[킹,퀸,룩,비숍,나이트,폰](https://www.acmicpc.net/problem/3003) |🥉 브론즈 5 | 사칙연산 ,구현 |[코드](baekjoon/bronze5/3003.md)
 |8393|[합](https://www.acmicpc.net/problem/8393) |🥉 브론즈 5 |반복문 |[코드](baekjoon/bronze5/8393.md)
 |10869|[사칙연산](https://www.acmicpc.net/problem/10869) |🥉 브론즈 5 | 사칙연산 |[코드](baekjoon/bronze5/10869.md)
 |10926|[??!](https://www.acmicpc.net/problem/10926) |🥉 브론즈 5 |구현  |[코드](baekjoon/bronze5/10926.md)
@@ -60,3 +61,16 @@
 |344|[ Reverse String ](https://leetcode.com/problems/reverse-string/) | Easy | 투포인터, reverse()  |[Solution](leetcode/easy/344.md)
 |819|[ Most Common Word ](https://leetcode.com/problems/most-common-word/) | Easy | 정규식 , Counter 모듈  |[Solution](leetcode/easy/819.md)
 |937|[ Reorder Data in Log Files ](https://leetcode.com/problems/reorder-data-in-log-files/) | Medium |람다 표현식| [Solution](leetcode/medium/937.md)
+
+## 👨‍🎓 동빈북
+
+|문제 | 설명 |
+| :---- | :----
+|[거스름돈](동빈북/chapter03_그리디/거스름돈.py) | 그리디 알고리즘 |
+|[큰 수의 법칙](동빈북/chapter03_그리디/큰수의법칙.py)| 그리디 알고리즘|
+|[숫자 카드 게임](동빈북/chapter03_그리디/숫자카드게임.py)|그리디 알고리즘|
+|[1이 될 때까지](동빈북/chapter03_그리디/1이될때까지.py)| 그리디 알고리즘|
+|[상하좌우](동빈북/chapter04_구현/상하좌우.py) | 구현 |
+|[시각](동빈북/chapter04_구현/시각.py) |구현 |
+|[왕실의 나이트](동빈북/chapter04_구현/왕실의나이트.py) | 구현|
+| [게임 개발](동빈북/chapter04_구현/게임개발.py) | 구현|
