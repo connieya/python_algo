@@ -13,6 +13,7 @@
 |3003|[킹,퀸,룩,비숍,나이트,폰](https://www.acmicpc.net/problem/3003) |🥉 브론즈 5 | 사칙연산 ,구현 |[코드](baekjoon/bronze5/3003.md)
 |4101|[크냐?](https://www.acmicpc.net/problem/4101) |🥉 브론즈 5 | 사칙연산 ,입출력 |[코드](solved/bronze5/4101.py)
 |8393|[합](https://www.acmicpc.net/problem/8393) |🥉 브론즈 5 |반복문 |[코드](baekjoon/bronze5/8393.md)
+|10156|[과자](https://www.acmicpc.net/problem/10156) |🥉 브론즈 4 | 사칙연산, 삼항연산자 |[코드](solved/bronze4/10156.py)
 |10807|[개수 세기](https://www.acmicpc.net/problem/10807) |🥉 브론즈 5 | 배열 , count() |[코드](baekjoon/bronze5/10807.md)
 |10869|[사칙연산](https://www.acmicpc.net/problem/10869) |🥉 브론즈 5 | 사칙연산 |[코드](baekjoon/bronze5/10869.md)
 |10926|[??!](https://www.acmicpc.net/problem/10926) |🥉 브론즈 5 |구현  |[코드](baekjoon/bronze5/10926.md)
