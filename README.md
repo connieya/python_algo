@@ -11,6 +11,7 @@
 |2476|[주사위 게임](https://www.acmicpc.net/problem/2476) |🥉 브론즈 3 | 구현 |[코드](baekjoon/bronze3/2476.md)
 |2557|[Hello World](https://www.acmicpc.net/problem/2557) |🥉 브론즈 5 | 출력 |[코드](baekjoon/bronze5/2557.md)
 |2739|[구구단](https://www.acmicpc.net/problem/2739) |🥉 브론즈 5 | 반복문, 문자열 포매팅 |[코드](baekjoon/bronze5/2739.md)
+|2754|[학점계산](https://www.acmicpc.net/problem/2754) |🥉 브론즈 5 | 조건문 |[코드](baekjoon/bronze5/2754.md)
 |3003|[킹,퀸,룩,비숍,나이트,폰](https://www.acmicpc.net/problem/3003) |🥉 브론즈 5 | 사칙연산 ,구현 |[코드](baekjoon/bronze5/3003.md)
 |4101|[크냐?](https://www.acmicpc.net/problem/4101) |🥉 브론즈 5 | 사칙연산 ,입출력 |[코드](solved/bronze5/4101.py)
 |8393|[합](https://www.acmicpc.net/problem/8393) |🥉 브론즈 5 |반복문 |[코드](baekjoon/bronze5/8393.md)
