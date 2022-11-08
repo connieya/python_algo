@@ -8,6 +8,7 @@
 |1001|[A-B](https://www.acmicpc.net/problem/1001) |🥉 브론즈 5 | 사칙연산 , 출력 |[코드](baekjoon/bronze5/1001.md)
 |1008|[A/B](https://www.acmicpc.net/problem/1008) |🥉 브론즈 5 | 나누기 연산 |[코드](baekjoon/bronze5/1008.md)
 |1110|[더하기 사이클](https://www.acmicpc.net/problem/1110) |🥉 브론즈 1 | 수학,구현 |[코드](baekjoon/bronze1/1110.md)
+|2476|[주사위 게임](https://www.acmicpc.net/problem/2476) |🥉 브론즈 3 | 구현 |[코드](baekjoon/bronze3/2476.md)
 |2557|[Hello World](https://www.acmicpc.net/problem/2557) |🥉 브론즈 5 | 출력 |[코드](baekjoon/bronze5/2557.md)
 |2739|[구구단](https://www.acmicpc.net/problem/2739) |🥉 브론즈 5 | 반복문, 문자열 포매팅 |[코드](baekjoon/bronze5/2739.md)
 |3003|[킹,퀸,룩,비숍,나이트,폰](https://www.acmicpc.net/problem/3003) |🥉 브론즈 5 | 사칙연산 ,구현 |[코드](baekjoon/bronze5/3003.md)
