@@ -73,20 +73,29 @@
 
 ## 👨‍🎓 동빈북
 
-|문제 | 설명 |
-| :---- | :----
-|[거스름돈](동빈북/chapter03_그리디/거스름돈.py) | 그리디 알고리즘 |
-|[큰 수의 법칙](동빈북/chapter03_그리디/큰수의법칙.py)| 그리디 알고리즘|
-|[숫자 카드 게임](동빈북/chapter03_그리디/숫자카드게임.py)|그리디 알고리즘|
-|[1이 될 때까지](동빈북/chapter03_그리디/1이될때까지.py)| 그리디 알고리즘|
-|[상하좌우](동빈북/chapter04_구현/상하좌우.py) | 구현 |
-|[시각](동빈북/chapter04_구현/시각.py) |구현 |
-|[왕실의 나이트](동빈북/chapter04_구현/왕실의나이트.py) | 구현|
-|[게임 개발](동빈북/chapter04_구현/게임개발.py) | 구현|
-|[스택 예제](동빈북/chapter05_dfs_bfs/스택예제.py)| 리스트로 스택 자료 구조 구현 |
-|[큐 예제](동빈북/chapter05_dfs_bfs/큐예제.py)| collections 모듈 deque 자료구조 |
-|[인접리스트 예제](동빈북/chapter05_dfs_bfs/인접리스트방식.py)| 인접리스트 예제 |
-|[DFS 예제](동빈북/chapter05_dfs_bfs/DFS예제.py)| DFS 예제 |
-|[BFS 예제](동빈북/chapter05_dfs_bfs/BFS예제.py)| BFS 예제 |
-|[음료수 얼려먹기](동빈북/chapter05_dfs_bfs/음료수얼려먹기.py)| DFS 사용 |
-|[미로탈출](동빈북/chapter05_dfs_bfs/미로탈출.py)| BFS 사용 |
+|번호|문제 | 설명 |
+|:---- |:---- | :----
+|charter03 그리디|[거스름돈](동빈북/chapter03_그리디/거스름돈.py) | 그리디 알고리즘 |
+|charter03 그리디|[큰 수의 법칙](동빈북/chapter03_그리디/큰수의법칙.py)| 그리디 알고리즘|
+|charter03 그리디|[숫자 카드 게임](동빈북/chapter03_그리디/숫자카드게임.py)|그리디 알고리즘|
+|charter03 그리디|[1이 될 때까지](동빈북/chapter03_그리디/1이될때까지.py)| 그리디 알고리즘|
+|charter04 구현|[상하좌우](동빈북/chapter04_구현/상하좌우.py) | 구현 |
+|charter04 구현|[시각](동빈북/chapter04_구현/시각.py) |구현 |
+|charter04 구현|[왕실의 나이트](동빈북/chapter04_구현/왕실의나이트.py) | 구현|
+|charter04 구현|[게임 개발](동빈북/chapter04_구현/게임개발.py) | 구현|
+|charter05 BFS & DFS|[스택 예제](동빈북/chapter05_dfs_bfs/스택예제.py)| 리스트로 스택 자료 구조 구현 |
+|charter05 BFS & DFS|[큐 예제](동빈북/chapter05_dfs_bfs/큐예제.py)| collections 모듈 deque 자료구조 |
+|charter05 BFS & DFS|[인접리스트 예제](동빈북/chapter05_dfs_bfs/인접리스트방식.py)| 인접리스트 예제 |
+|charter05 BFS & DFS|[DFS 예제](동빈북/chapter05_dfs_bfs/DFS예제.py)| DFS 예제 |
+|charter05 BFS & DFS|[BFS 예제](동빈북/chapter05_dfs_bfs/BFS예제.py)| BFS 예제 |
+|charter05 BFS & DFS|[음료수 얼려먹기](동빈북/chapter05_dfs_bfs/음료수얼려먹기.py)| DFS 사용 |
+|charter05 BFS & DFS|[미로탈출](동빈북/chapter05_dfs_bfs/미로탈출.py)| BFS 사용 |
+|charter06 정렬|[선택 정렬](동빈북/chapter06_정렬/선택정렬.py)| 선택 정렬 소스코드 |
+|charter06 정렬|[삽입 정렬](동빈북/chapter06_정렬/삽입정렬.py)| 삽입 정렬 소스코드 |
+|charter06 정렬|[계수 정렬](동빈북/chapter06_정렬/계수정렬.py)| 계수 정렬 소스코드 |
+|charter06 정렬|[sorted](동빈북/chapter06_정렬/sorted.py)| sorted |
+|charter06 정렬|[sort](동빈북/chapter06_정렬/sort.py)| sort() |
+|charter06 정렬|[key를 활용한 정렬 라이브러리](동빈북/chapter06_정렬/key_sort.md)| key를 활용한 정렬  |
+|charter06 정렬|[위에서 아래로](동빈북/chapter06_정렬/위에서아래로.py)| sort(reverse = True) |
+|charter06 정렬|[성적이 낮은 순서로 학생 출력하기](동빈북/chapter06_정렬/성적.py)| sort() 람다 |
+|charter06 정렬|[두 배열의 원소 교체](동빈북/chapter06_정렬/원소교체.py)| sort() |
