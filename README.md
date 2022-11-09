@@ -16,6 +16,7 @@
 |4101|[크냐?](https://www.acmicpc.net/problem/4101) |🥉 브론즈 5 | 사칙연산 ,입출력 |[코드](solved/bronze5/4101.py)
 |5063|[TGN](https://www.acmicpc.net/problem/5063) |🥉 브론즈 3 | 사칙연산 ,조건문 |[코드](baekjoon/bronze3/5063.md)
 |8393|[합](https://www.acmicpc.net/problem/8393) |🥉 브론즈 5 |반복문 |[코드](baekjoon/bronze5/8393.md)
+|10102|[개표](https://www.acmicpc.net/problem/10102) |🥉 브론즈 3 |반복문, 조건문 |[코드](solved/bronze3/10102.py)
 |10156|[과자](https://www.acmicpc.net/problem/10156) |🥉 브론즈 4 | 사칙연산, 삼항연산자 |[코드](solved/bronze4/10156.py)
 |10807|[개수 세기](https://www.acmicpc.net/problem/10807) |🥉 브론즈 5 | 배열 , count() |[코드](baekjoon/bronze5/10807.md)
 |10869|[사칙연산](https://www.acmicpc.net/problem/10869) |🥉 브론즈 5 | 사칙연산 |[코드](baekjoon/bronze5/10869.md)
@@ -80,4 +81,11 @@
 |[상하좌우](동빈북/chapter04_구현/상하좌우.py) | 구현 |
 |[시각](동빈북/chapter04_구현/시각.py) |구현 |
 |[왕실의 나이트](동빈북/chapter04_구현/왕실의나이트.py) | 구현|
-| [게임 개발](동빈북/chapter04_구현/게임개발.py) | 구현|
+|[게임 개발](동빈북/chapter04_구현/게임개발.py) | 구현|
+|[스택 예제](동빈북/chapter05_dfs_bfs/스택예제.py)| 리스트로 스택 자료 구조 구현 |
+|[큐 예제](동빈북/chapter05_dfs_bfs/큐예제.py)| collections 모듈 deque 자료구조 |
+|[인접리스트 예제](동빈북/chapter05_dfs_bfs/인접리스트방식.py)| 인접리스트 예제 |
+|[DFS 예제](동빈북/chapter05_dfs_bfs/DFS예제.py)| DFS 예제 |
+|[BFS 예제](동빈북/chapter05_dfs_bfs/BFS예제.py)| BFS 예제 |
+|[음료수 얼려먹기](동빈북/chapter05_dfs_bfs/음료수얼려먹기.py)| DFS 사용 |
+|[미로탈출](동빈북/chapter05_dfs_bfs/미로탈출.py)| BFS 사용 |
