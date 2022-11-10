@@ -72,6 +72,7 @@
 |49|[ Group Anagrams ](https://leetcode.com/problems/group-anagrams/) | Medium | 딕셔너리 , 정렬 |[Solution](leetcode/medium/49.md)
 |125|[ Valid Palindrome ](https://leetcode.com/problems/valid-palindrome/) | Easy | isalnum() , deque popleft() ,문자열 슬라이싱  |[Solution](leetcode/easy/125.md)
 |344|[ Reverse String ](https://leetcode.com/problems/reverse-string/) | Easy | 투포인터, reverse()  |[Solution](leetcode/easy/344.md)
+|561|[ Array Partition ](https://leetcode.com/problems/array-partition/) | Easy | 정렬 |[Solution](leetcode/easy/561.md)
 |819|[ Most Common Word ](https://leetcode.com/problems/most-common-word/) | Easy | 정규식 , Counter 모듈  |[Solution](leetcode/easy/819.md)
 |937|[ Reorder Data in Log Files ](https://leetcode.com/problems/reorder-data-in-log-files/) | Medium |람다 표현식| [Solution](leetcode/medium/937.md)
 
