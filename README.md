@@ -70,6 +70,7 @@
 |15|[ 3Sum](https://leetcode.com/problems/3sum/) | Medium | 투포인터 |[Solution](leetcode/medium/15.md)
 |42|[  Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | 투포인터, 스택 |[Solution](leetcode/hard/42.md)
 |49|[ Group Anagrams ](https://leetcode.com/problems/group-anagrams/) | Medium | 딕셔너리 , 정렬 |[Solution](leetcode/medium/49.md)
+|121|[ Best Time to Buy ans Sell Stock ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy |   |[Solution](leetcode/easy/121.md)
 |125|[ Valid Palindrome ](https://leetcode.com/problems/valid-palindrome/) | Easy | isalnum() , deque popleft() ,문자열 슬라이싱  |[Solution](leetcode/easy/125.md)
 |238|[ Product of Array Except Self ](https://leetcode.com/problems/product-of-array-except-self/) | Medium | 왼쪽의 곱셈 결과 * 오른쪽의 곱셈 결과  |[Solution](leetcode/medium/238.md)
 |344|[ Reverse String ](https://leetcode.com/problems/reverse-string/) | Easy | 투포인터, reverse()  |[Solution](leetcode/easy/344.md)
