@@ -60,6 +60,7 @@
 |Lv.1| [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931) | sum() ,int() , str() | [코드](programmers/level01/자릿수더하기.md) |
 |Lv.1| [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) | 삼항 연산자 | [코드](programmers/level01/짝수와홀수.md) |
 |Lv.1| [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) | sum() , len() | [코드](programmers/level01/평균구하기.md) |
+|Lv.1| [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389) | 나머지 연산 | [코드](programmers/level01/나머지1.md) |
 |Lv.1| [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334) | 딕셔너리 , 리스트 , Set , index | [코드](programmers/level01/신고결과받기.md) |
 |Lv.1| [성격 유형 검사 ](https://programmers.co.kr/learn/courses/30/lessons/118666) | 딕셔너리 | [코드](programmers/level01/성격유형검사.md) |
 |Lv.1| [숫자 짝꿍 ](https://programmers.co.kr/learn/courses/30/lessons/131128) | count , 문자열 | [코드](programmers/level01/숫자짝꿍.md) |
@@ -68,7 +69,7 @@
 |Lv.1| [옹알이 (2) ](https://programmers.co.kr/learn/courses/30/lessons/133499) | not in , replace , strip() | [코드](programmers/level01/옹알이.md) |
 |Lv.1| [햄버거 만들기](https://programmers.co.kr/learn/courses/30/lessons/133502) | 스택 , 슬라이싱 이용하기| [코드](programmers/level01/햄버거.md) |
 |Lv.1| [푸드 파이트 대회](https://programmers.co.kr/learn/courses/30/lessons/134240) | 문자열 구현 | [코드](programmers/level01/푸드파이터.md) |
-|Lv.1| [과일 장수](https://programmers.co.kr/learn/courses/30/lessons/135808) | 정렬 ,   | [코드](programmers/level01/과일장수.md) |
+|Lv.1| [과일 장수](https://programmers.co.kr/learn/courses/30/lessons/135808) | 정렬   | [코드](programmers/level01/과일장수.md) |
 
 ## 🎃 LeetCode
 
