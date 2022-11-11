@@ -60,6 +60,7 @@
 |Lv.1| [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931) | sum() ,int() , str() | [코드](programmers/level01/자릿수더하기.md) |
 |Lv.1| [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) | 삼항 연산자 | [코드](programmers/level01/짝수와홀수.md) |
 |Lv.1| [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) | sum() , len() | [코드](programmers/level01/평균구하기.md) |
+|Lv.1| [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334) | 딕셔너리 , 리스트 , Set , index | [코드](programmers/level01/신고결과받기.md) |
 |Lv.1| [성격 유형 검사 ](https://programmers.co.kr/learn/courses/30/lessons/118666) | 딕셔너리 | [코드](programmers/level01/성격유형검사.md) |
 |Lv.1| [숫자 짝꿍 ](https://programmers.co.kr/learn/courses/30/lessons/131128) | count , 문자열 | [코드](programmers/level01/숫자짝꿍.md) |
 |Lv.1| [삼총사](https://programmers.co.kr/learn/courses/30/lessons/131705) | Combinations 조합 | [코드](programmers/level01/삼총사.md) |
