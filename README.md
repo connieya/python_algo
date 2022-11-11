@@ -53,6 +53,8 @@
 |Lv.0| [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/120906) | 나머지 연산 | [코드](programmers/level00/자릿수더하기.md) |
 |Lv.0| [문자열 안에 문자열](https://programmers.co.kr/learn/courses/30/lessons/120908) | count , in , 삼항 연산자| [코드](programmers/level00/문자열안에문자열.md) |
 |Lv.0| [제곱 수 판별하기](https://programmers.co.kr/learn/courses/30/lessons/120909) | math.sqrt | [코드](programmers/level00/제곱수판별.md) |
+|Lv.0| [햄버거 만들기](https://programmers.co.kr/learn/courses/30/lessons/133502) | 스택 , 슬라이싱 이용하기| [코드](programmers/level00/햄버거.md) |
+|Lv.0| [푸드 파이트 대회](https://programmers.co.kr/learn/courses/30/lessons/134240) | 문자열 구현 | [코드](programmers/level00/푸드파이터.md) |
 |Lv.0| [과일 장수](https://programmers.co.kr/learn/courses/30/lessons/135808) | 정렬 ,   | [코드](programmers/level00/과일장수.md) |
 |Lv.1| [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) | unordered_set | [코드](programmers/level01/폰켓몬.md) |
 |Lv.1| [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) |` substr 활용하기 | [코드](programmers/level01/가운데글자.md) |
