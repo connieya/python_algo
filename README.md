@@ -53,6 +53,7 @@
 |Lv.0| [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/120906) | 나머지 연산 | [코드](programmers/level00/자릿수더하기.md) |
 |Lv.0| [문자열 안에 문자열](https://programmers.co.kr/learn/courses/30/lessons/120908) | count , in , 삼항 연산자| [코드](programmers/level00/문자열안에문자열.md) |
 |Lv.0| [제곱 수 판별하기](https://programmers.co.kr/learn/courses/30/lessons/120909) | math.sqrt | [코드](programmers/level00/제곱수판별.md) |
+|Lv.0| [과일 장수](https://programmers.co.kr/learn/courses/30/lessons/135808) | 정렬 ,   | [코드](programmers/level00/과일장수.md) |
 |Lv.1| [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) | unordered_set | [코드](programmers/level01/폰켓몬.md) |
 |Lv.1| [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) |` substr 활용하기 | [코드](programmers/level01/가운데글자.md) |
 |Lv.1| [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) | sum() , for in range | [코드](programmers/level01/약수의합.md) |
@@ -66,6 +67,7 @@
 | # |  Title | Difficulty | Comment| Solution |
 |:---|:---------------------:|:-----:|:-----:|:----|
 |1|[ Two Sum ](https://leetcode.com/problems/two-sum/) | Easy | 딕셔너리 사용해서 O(n)에 해결 |[Solution](leetcode/easy/1.md)
+|2|[ Add Two Numbers ](https://leetcode.com/problems/add-two-numbers/) | Medium |  |[Solution](leetcode/medium/2.md)
 |5|[ Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | 투포인터 |[Solution](leetcode/medium/5.md)
 |15|[ 3Sum](https://leetcode.com/problems/3sum/) | Medium | 투포인터 |[Solution](leetcode/medium/15.md)
 |21|[ Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | 연결리스트, 재귀 |[Solution](leetcode/easy/21.md)
