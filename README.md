@@ -54,19 +54,20 @@
 |Lv.0| [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/120906) | 나머지 연산 | [코드](programmers/level00/자릿수더하기.md) |
 |Lv.0| [문자열 안에 문자열](https://programmers.co.kr/learn/courses/30/lessons/120908) | count , in , 삼항 연산자| [코드](programmers/level00/문자열안에문자열.md) |
 |Lv.0| [제곱 수 판별하기](https://programmers.co.kr/learn/courses/30/lessons/120909) | math.sqrt | [코드](programmers/level00/제곱수판별.md) |
-|Lv.0| [숫자 짝꿍 ](https://programmers.co.kr/learn/courses/30/lessons/131128) | count , 문자열 | [코드](programmers/level00/숫자짝꿍.md) |
-|Lv.0| [콜라 문제 ](https://programmers.co.kr/learn/courses/30/lessons/132267) | 수학 | [코드](programmers/level00/콜라문제.md) |
-|Lv.0| [옹알이 (2) ](https://programmers.co.kr/learn/courses/30/lessons/133499) | not in , replace , strip() | [코드](programmers/level00/옹알이.md) |
-|Lv.0| [햄버거 만들기](https://programmers.co.kr/learn/courses/30/lessons/133502) | 스택 , 슬라이싱 이용하기| [코드](programmers/level00/햄버거.md) |
-|Lv.0| [푸드 파이트 대회](https://programmers.co.kr/learn/courses/30/lessons/134240) | 문자열 구현 | [코드](programmers/level00/푸드파이터.md) |
-|Lv.0| [과일 장수](https://programmers.co.kr/learn/courses/30/lessons/135808) | 정렬 ,   | [코드](programmers/level00/과일장수.md) |
 |Lv.1| [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) | unordered_set | [코드](programmers/level01/폰켓몬.md) |
 |Lv.1| [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) |` substr 활용하기 | [코드](programmers/level01/가운데글자.md) |
 |Lv.1| [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) | sum() , for in range | [코드](programmers/level01/약수의합.md) |
 |Lv.1| [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931) | sum() ,int() , str() | [코드](programmers/level01/자릿수더하기.md) |
 |Lv.1| [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) | 삼항 연산자 | [코드](programmers/level01/짝수와홀수.md) |
 |Lv.1| [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) | sum() , len() | [코드](programmers/level01/평균구하기.md) |
+|Lv.1| [성격 유형 검사 ](https://programmers.co.kr/learn/courses/30/lessons/118666) | 딕셔너리 | [코드](programmers/level01/성격유형검사.md) |
+|Lv.1| [숫자 짝꿍 ](https://programmers.co.kr/learn/courses/30/lessons/131128) | count , 문자열 | [코드](programmers/level01/숫자짝꿍.md) |
 |Lv.1| [삼총사](https://programmers.co.kr/learn/courses/30/lessons/131705) | Combinations 조합 | [코드](programmers/level01/삼총사.md) |
+|Lv.1| [콜라 문제 ](https://programmers.co.kr/learn/courses/30/lessons/132267) | 수학 | [코드](programmers/level01/콜라문제.md) |
+|Lv.1| [옹알이 (2) ](https://programmers.co.kr/learn/courses/30/lessons/133499) | not in , replace , strip() | [코드](programmers/level01/옹알이.md) |
+|Lv.1| [햄버거 만들기](https://programmers.co.kr/learn/courses/30/lessons/133502) | 스택 , 슬라이싱 이용하기| [코드](programmers/level01/햄버거.md) |
+|Lv.1| [푸드 파이트 대회](https://programmers.co.kr/learn/courses/30/lessons/134240) | 문자열 구현 | [코드](programmers/level01/푸드파이터.md) |
+|Lv.1| [과일 장수](https://programmers.co.kr/learn/courses/30/lessons/135808) | 정렬 ,   | [코드](programmers/level01/과일장수.md) |
 
 ## 🎃 LeetCode
 
@@ -79,7 +80,7 @@
 |21|[ Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | 연결리스트, 재귀 |[Solution](leetcode/easy/21.md)
 |42|[  Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | 투포인터, 스택 |[Solution](leetcode/hard/42.md)
 |49|[ Group Anagrams ](https://leetcode.com/problems/group-anagrams/) | Medium | 딕셔너리 , 정렬 |[Solution](leetcode/medium/49.md)
-|121|[ Best Time to Buy ans Sell Stock ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy |   |[Solution](leetcode/easy/121.md)
+|121|[ Best Time to Buy ans Sell Stock ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy |  min , max  |[Solution](leetcode/easy/121.md)
 |125|[ Valid Palindrome ](https://leetcode.com/problems/valid-palindrome/) | Easy | isalnum() , deque popleft() ,문자열 슬라이싱  |[Solution](leetcode/easy/125.md)
 |206|[ Reverse Linked List ](https://leetcode.com/problems/reverse-linked-list/) | Easy | 연결 리스트 |[Solution](leetcode/easy/206.md)
 |234|[ Palindrome Linked List ](https://leetcode.com/problems/palindrome-linked-list/) | Easy | 연결 리스트 |[Solution](leetcode/easy/234.md)
