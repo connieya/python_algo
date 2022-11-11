@@ -68,6 +68,7 @@
 |1|[ Two Sum ](https://leetcode.com/problems/two-sum/) | Easy | 딕셔너리 사용해서 O(n)에 해결 |[Solution](leetcode/easy/1.md)
 |5|[ Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | 투포인터 |[Solution](leetcode/medium/5.md)
 |15|[ 3Sum](https://leetcode.com/problems/3sum/) | Medium | 투포인터 |[Solution](leetcode/medium/15.md)
+|21|[ Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | dd |[Solution](leetcode/easy/21.md)
 |42|[  Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | 투포인터, 스택 |[Solution](leetcode/hard/42.md)
 |49|[ Group Anagrams ](https://leetcode.com/problems/group-anagrams/) | Medium | 딕셔너리 , 정렬 |[Solution](leetcode/medium/49.md)
 |121|[ Best Time to Buy ans Sell Stock ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy |   |[Solution](leetcode/easy/121.md)
