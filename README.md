@@ -54,6 +54,7 @@
 |Lv.0| [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/120906) | 나머지 연산 | [코드](programmers/level00/자릿수더하기.md) |
 |Lv.0| [문자열 안에 문자열](https://programmers.co.kr/learn/courses/30/lessons/120908) | count , in , 삼항 연산자| [코드](programmers/level00/문자열안에문자열.md) |
 |Lv.0| [제곱 수 판별하기](https://programmers.co.kr/learn/courses/30/lessons/120909) | math.sqrt | [코드](programmers/level00/제곱수판별.md) |
+|Lv.0| [숫자 짝꿍 ](https://programmers.co.kr/learn/courses/30/lessons/131128) | count , 문자열 | [코드](programmers/level00/숫자짝꿍.md) |
 |Lv.0| [콜라 문제 ](https://programmers.co.kr/learn/courses/30/lessons/132267) | 수학 | [코드](programmers/level00/콜라문제.md) |
 |Lv.0| [옹알이 (2) ](https://programmers.co.kr/learn/courses/30/lessons/133499) | not in , replace , strip() | [코드](programmers/level00/옹알이.md) |
 |Lv.0| [햄버거 만들기](https://programmers.co.kr/learn/courses/30/lessons/133502) | 스택 , 슬라이싱 이용하기| [코드](programmers/level00/햄버거.md) |
@@ -87,6 +88,10 @@
 |561|[ Array Partition ](https://leetcode.com/problems/array-partition/) | Easy | 정렬 |[Solution](leetcode/easy/561.md)
 |819|[ Most Common Word ](https://leetcode.com/problems/most-common-word/) | Easy | 정규식 , Counter 모듈  |[Solution](leetcode/easy/819.md)
 |937|[ Reorder Data in Log Files ](https://leetcode.com/problems/reorder-data-in-log-files/) | Medium |람다 표현식| [Solution](leetcode/medium/937.md)
+
+## ✍️시간 복잡도
+
+- [시간 복잡도](study/시간복잡도.md)
 
 ## 👨‍🎓 동빈북
 
