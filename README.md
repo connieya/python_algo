@@ -8,6 +8,7 @@
 |1001|[A-B](https://www.acmicpc.net/problem/1001) |🥉 브론즈 5 | 사칙연산 , 출력 |[코드](baekjoon/bronze5/1001.md)
 |1008|[A/B](https://www.acmicpc.net/problem/1008) |🥉 브론즈 5 | 나누기 연산 |[코드](baekjoon/bronze5/1008.md)
 |1110|[더하기 사이클](https://www.acmicpc.net/problem/1110) |🥉 브론즈 1 | 수학,구현 |[코드](baekjoon/bronze1/1110.md)
+|2217|[로프](https://www.acmicpc.net/problem/2217) |🥈 실버 4 | 정렬 |[코드](baekjoon/silver4/2217.md)
 |2476|[주사위 게임](https://www.acmicpc.net/problem/2476) |🥉 브론즈 3 | 구현 |[코드](baekjoon/bronze3/2476.md)
 |2557|[Hello World](https://www.acmicpc.net/problem/2557) |🥉 브론즈 5 | 출력 |[코드](baekjoon/bronze5/2557.md)
 |2739|[구구단](https://www.acmicpc.net/problem/2739) |🥉 브론즈 5 | 반복문, 문자열 포매팅 |[코드](baekjoon/bronze5/2739.md)
@@ -53,6 +54,7 @@
 |Lv.0| [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/120906) | 나머지 연산 | [코드](programmers/level00/자릿수더하기.md) |
 |Lv.0| [문자열 안에 문자열](https://programmers.co.kr/learn/courses/30/lessons/120908) | count , in , 삼항 연산자| [코드](programmers/level00/문자열안에문자열.md) |
 |Lv.0| [제곱 수 판별하기](https://programmers.co.kr/learn/courses/30/lessons/120909) | math.sqrt | [코드](programmers/level00/제곱수판별.md) |
+|Lv.0| [옹알이 (2) ](https://programmers.co.kr/learn/courses/30/lessons/133499) | not in , replace , strip() | [코드](programmers/level00/옹알이.md) |
 |Lv.0| [햄버거 만들기](https://programmers.co.kr/learn/courses/30/lessons/133502) | 스택 , 슬라이싱 이용하기| [코드](programmers/level00/햄버거.md) |
 |Lv.0| [푸드 파이트 대회](https://programmers.co.kr/learn/courses/30/lessons/134240) | 문자열 구현 | [코드](programmers/level00/푸드파이터.md) |
 |Lv.0| [과일 장수](https://programmers.co.kr/learn/courses/30/lessons/135808) | 정렬 ,   | [코드](programmers/level00/과일장수.md) |
