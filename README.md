@@ -51,6 +51,7 @@
 |Lv.0| [짝수의합](https://programmers.co.kr/learn/courses/30/lessons/120831) | for 문 , sum 함수 | [코드](programmers/level00/짝수의합.md) |
 |Lv.0| [점의 위치 구하기](https://programmers.co.kr/learn/courses/30/lessons/120841) | 조건문 | [코드](programmers/level00/점의위치.md) |
 |Lv.0| [편지](https://programmers.co.kr/learn/courses/30/lessons/120898) | 문자열의 길이 | [코드](programmers/level00/편지.md) |
+|Lv.0| [n의 배수 구하기](https://programmers.co.kr/learn/courses/30/lessons/120905) | list , 조건문 | [코드](programmers/level00/배수고르기.md) |
 |Lv.0| [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/120906) | 나머지 연산 | [코드](programmers/level00/자릿수더하기.md) |
 |Lv.0| [문자열 안에 문자열](https://programmers.co.kr/learn/courses/30/lessons/120908) | count , in , 삼항 연산자| [코드](programmers/level00/문자열안에문자열.md) |
 |Lv.0| [제곱 수 판별하기](https://programmers.co.kr/learn/courses/30/lessons/120909) | math.sqrt | [코드](programmers/level00/제곱수판별.md) |
