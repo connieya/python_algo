@@ -60,6 +60,7 @@
 |Lv.1| [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931) | sum() ,int() , str() | [코드](programmers/level01/자릿수더하기.md) |
 |Lv.1| [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) | 삼항 연산자 | [코드](programmers/level01/짝수와홀수.md) |
 |Lv.1| [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) | sum() , len() | [코드](programmers/level01/평균구하기.md) |
+|Lv.1| [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) |이진법 연산 | [코드](programmers/level01/비밀지도.md) |
 |Lv.1| [1차 다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682) | 구현, 스택 | [코드](programmers/level01/다트게임.md) |
 |Lv.1| [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) |  정렬,람다, 예외처리| [코드](programmers/level01/실패율.md) |
 |Lv.1| [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) | 반복문 ,구현 | [코드](programmers/level01/크레인.md) |
