@@ -95,6 +95,7 @@
 |2|[ Add Two Numbers ](https://leetcode.com/problems/add-two-numbers/) | Medium |  |[Solution](leetcode/medium/2.md)
 |5|[ Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | 투포인터 |[Solution](leetcode/medium/5.md)
 |15|[ 3Sum](https://leetcode.com/problems/3sum/) | Medium | 투포인터 |[Solution](leetcode/medium/15.md)
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | 딕셔너리 ,스택 |[Solution](leetcode/easy/20.md)
 |21|[ Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | 연결리스트, 재귀 |[Solution](leetcode/easy/21.md)
 |24|[Swap Nodes in Pairs ](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | 연결리스트 swap |[Solution](leetcode/medium/24.md)
 |42|[  Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | 투포인터, 스택 |[Solution](leetcode/hard/42.md)
