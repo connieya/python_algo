@@ -51,6 +51,7 @@
 |Lv.0| [짝수의합](https://programmers.co.kr/learn/courses/30/lessons/120831) | for 문 , sum 함수 | [코드](programmers/level00/짝수의합.md) |
 |Lv.0| [점의 위치 구하기](https://programmers.co.kr/learn/courses/30/lessons/120841) | 조건문 | [코드](programmers/level00/점의위치.md) |
 |Lv.0| [평행](https://programmers.co.kr/learn/courses/30/lessons/120875) | 직선의 기울기 , 반복문 | [코드](programmers/level00/평행.md) |
+|Lv.0| [겹치는 선분의 길이](https://programmers.co.kr/learn/courses/30/lessons/120876) | 겹치는 선 배열로 체크 | [코드](programmers/level00/겹치는선분의길이.md) |
 |Lv.0| [편지](https://programmers.co.kr/learn/courses/30/lessons/120898) | 문자열의 길이 | [코드](programmers/level00/편지.md) |
 |Lv.0| [n의 배수 구하기](https://programmers.co.kr/learn/courses/30/lessons/120905) | list , 조건문 | [코드](programmers/level00/배수고르기.md) |
 |Lv.0| [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/120906) | 나머지 연산 | [코드](programmers/level00/자릿수더하기.md) |
@@ -58,7 +59,7 @@
 |Lv.0| [제곱 수 판별하기](https://programmers.co.kr/learn/courses/30/lessons/120909) | math.sqrt | [코드](programmers/level00/제곱수판별.md) |
 |Lv.0| [옹알이(1)](https://programmers.co.kr/learn/courses/30/lessons/120956) | replace() , strip() | [코드](programmers/level00/옹알이.md) |
 |Lv.1| [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) | unordered_set | [코드](programmers/level01/폰켓몬.md) |
-|Lv.1| [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) |` substr 활용하기 | [코드](programmers/level01/가운데글자.md) |
+|Lv.1| [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) |substr 활용하기 | [코드](programmers/level01/가운데글자.md) |
 |Lv.1| [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) | sum() , for in range | [코드](programmers/level01/약수의합.md) |
 |Lv.1| [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931) | sum() ,int() , str() | [코드](programmers/level01/자릿수더하기.md) |
 |Lv.1| [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) | 삼항 연산자 | [코드](programmers/level01/짝수와홀수.md) |
