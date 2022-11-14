@@ -50,6 +50,7 @@
 |Lv.0| [양꼬치](https://programmers.co.kr/learn/courses/30/lessons/120830) | 수학 | [코드](programmers/level00/양꼬치.md) |
 |Lv.0| [짝수의합](https://programmers.co.kr/learn/courses/30/lessons/120831) | for 문 , sum 함수 | [코드](programmers/level00/짝수의합.md) |
 |Lv.0| [점의 위치 구하기](https://programmers.co.kr/learn/courses/30/lessons/120841) | 조건문 | [코드](programmers/level00/점의위치.md) |
+|Lv.0| [안전지대](https://programmers.co.kr/learn/courses/30/lessons/120866) | ㅇ | [코드](programmers/level00/안전지대.md) |
 |Lv.0| [평행](https://programmers.co.kr/learn/courses/30/lessons/120875) | 직선의 기울기 , 반복문 | [코드](programmers/level00/평행.md) |
 |Lv.0| [겹치는 선분의 길이](https://programmers.co.kr/learn/courses/30/lessons/120876) | 겹치는 선 배열로 체크 | [코드](programmers/level00/겹치는선분의길이.md) |
 |Lv.0| [편지](https://programmers.co.kr/learn/courses/30/lessons/120898) | 문자열의 길이 | [코드](programmers/level00/편지.md) |
