@@ -21,10 +21,12 @@
 |10102|[개표](https://www.acmicpc.net/problem/10102) |🥉 브론즈 3 |반복문, 조건문 |[코드](solved/bronze3/10102.py)
 |10156|[과자](https://www.acmicpc.net/problem/10156) |🥉 브론즈 4 | 사칙연산, 삼항연산자 |[코드](solved/bronze4/10156.py)
 |10807|[개수 세기](https://www.acmicpc.net/problem/10807) |🥉 브론즈 5 | 배열 , count() |[코드](baekjoon/bronze5/10807.md)
+|10809|[알파벳 찾기](https://www.acmicpc.net/problem/10809) |🥉 브론즈 5 |문자열 find() 함수 ,chr() 함수 |[코드](baekjoon/bronze5/10807.md)
 |10869|[사칙연산](https://www.acmicpc.net/problem/10869) |🥉 브론즈 5 | 사칙연산 |[코드](baekjoon/bronze5/10869.md)
 |10926|[??!](https://www.acmicpc.net/problem/10926) |🥉 브론즈 5 |구현  |[코드](baekjoon/bronze5/10926.md)
 |10950|[A+B-3](https://www.acmicpc.net/problem/10950) |🥉 브론즈 5 | 반복문 , 덧셈  |[코드](baekjoon/bronze5/10950.md)
 |11654|[아스키 코드](https://www.acmicpc.net/problem/11654) |🥉 브론즈 5 | 아스키 코드 , ord()  |[코드](baekjoon/bronze5/11654.md)
+|11720|[숫자의 합](https://www.acmicpc.net/problem/11720) |🥉 브론즈 4 | map() 함수 이해하기  |[코드](baekjoon/bronze5/11654.md)
 |18108|[1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108) |🥉 브론즈 5 | 사칙연산 |[코드](baekjoon/bronze5/18108.md)
 |25304|[영수증](https://www.acmicpc.net/problem/25304) |🥉 브론즈 5 | 반복문, 삼항연산자 |[코드](baekjoon/bronze5/25304.md)
 
