@@ -88,6 +88,7 @@
 |Lv.1| [과일 장수](https://programmers.co.kr/learn/courses/30/lessons/135808) | 정렬   | [코드](programmers/level01/과일장수.md) |
 |Lv.2| [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) |  split , min , max | [코드](programmers/level02/최대최소.md) |
 |Lv.2| [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | split() , split(" ") 구분하기 | [코드](programmers/level02/JadenCase.md) |
+|Lv.2| [연속 부분 수열 합의 개수](https://programmers.co.kr/learn/courses/30/lessons/131701) |   | [코드](programmers/level02/연속부분.md) |
 |Lv.2| [롤케이크 자르기](https://programmers.co.kr/learn/courses/30/lessons/132265) | dictionary 문법 익히기 ⭐  | [코드](programmers/level02/롤케이크.md) |
 |Lv.2| [야간 전술 보행](https://programmers.co.kr/learn/courses/30/lessons/133501) | 다시 풀기| [코드](programmers/level02/야간전술보행.md) |
 |Lv.2| [숫자 카드 나누기](https://programmers.co.kr/learn/courses/30/lessons/135807) | 최대공약수 | [코드](programmers/level02/숫자카드.md) |
