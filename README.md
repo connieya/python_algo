@@ -95,7 +95,7 @@
 | # |  Title | Difficulty | Comment| Solution |
 |:---|:---------------------:|:-----:|:-----:|:----|
 |1|[ Two Sum ](https://leetcode.com/problems/two-sum/) | Easy | 딕셔너리 사용해서 O(n)에 해결 |[Solution](leetcode/easy/1.md)
-|2|[ Add Two Numbers ](https://leetcode.com/problems/add-two-numbers/) | Medium |  |[Solution](leetcode/medium/2.md)
+|2|[ Add Two Numbers ](https://leetcode.com/problems/add-two-numbers/) | Medium | 연결리스트 사용 |[Solution](leetcode/medium/2.md)
 |5|[ Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | 투포인터 |[Solution](leetcode/medium/5.md)
 |15|[ 3Sum](https://leetcode.com/problems/3sum/) | Medium | 투포인터 |[Solution](leetcode/medium/15.md)
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | 딕셔너리 ,스택 |[Solution](leetcode/easy/20.md)
@@ -106,6 +106,7 @@
 |121|[ Best Time to Buy ans Sell Stock ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy |  min , max  |[Solution](leetcode/easy/121.md)
 |125|[ Valid Palindrome ](https://leetcode.com/problems/valid-palindrome/) | Easy | isalnum() , deque popleft() ,문자열 슬라이싱  |[Solution](leetcode/easy/125.md)
 |206|[ Reverse Linked List ](https://leetcode.com/problems/reverse-linked-list/) | Easy | 연결 리스트 |[Solution](leetcode/easy/206.md)
+|225|[ Implement Stack using Queues ](https://leetcode.com/problems/implement-stack-using-queues/) | Easy | 큐를 이용해서 스택 구현하기 |[Solution](leetcode/easy/225.md)
 |234|[ Palindrome Linked List ](https://leetcode.com/problems/palindrome-linked-list/) | Easy | 연결 리스트 |[Solution](leetcode/easy/234.md)
 |238|[ Product of Array Except Self ](https://leetcode.com/problems/product-of-array-except-self/) | Medium | 왼쪽의 곱셈 결과 * 오른쪽의 곱셈 결과  |[Solution](leetcode/medium/238.md)
 |316|[ Remove Duplicate Letters ](https://leetcode.com/problems/remove-duplicate-letters/) | Medium | 스택 |[Solution](leetcode/medium/316.md)
