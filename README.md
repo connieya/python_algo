@@ -113,6 +113,7 @@
 |316|[ Remove Duplicate Letters ](https://leetcode.com/problems/remove-duplicate-letters/) | Medium | 스택 |[Solution](leetcode/medium/316.md)
 |344|[ Reverse String ](https://leetcode.com/problems/reverse-string/) | Easy | 투포인터, reverse()  |[Solution](leetcode/easy/344.md)
 |561|[ Array Partition ](https://leetcode.com/problems/array-partition/) | Easy | 정렬 |[Solution](leetcode/easy/561.md)
+|622|[ Design Circular Queue ](https://leetcode.com/problems/design-circular-queue/) | Medium | 배열로 원형 큐 구현하기 (front , rear)  |[Solution](leetcode/medium/622.md)
 |739|[ Daily Temperatures ](https://leetcode.com/problems/daily-temperatures/) | Medium | 스택  |[Solution](leetcode/medium/739.md)
 |819|[ Most Common Word ](https://leetcode.com/problems/most-common-word/) | Easy | 정규식 , Counter 모듈  |[Solution](leetcode/easy/819.md)
 |937|[ Reorder Data in Log Files ](https://leetcode.com/problems/reorder-data-in-log-files/) | Medium |람다 표현식| [Solution](leetcode/medium/937.md)
