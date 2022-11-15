@@ -107,6 +107,7 @@
 |125|[ Valid Palindrome ](https://leetcode.com/problems/valid-palindrome/) | Easy | isalnum() , deque popleft() ,문자열 슬라이싱  |[Solution](leetcode/easy/125.md)
 |206|[ Reverse Linked List ](https://leetcode.com/problems/reverse-linked-list/) | Easy | 연결 리스트 |[Solution](leetcode/easy/206.md)
 |225|[ Implement Stack using Queues ](https://leetcode.com/problems/implement-stack-using-queues/) | Easy | 큐를 이용해서 스택 구현하기 |[Solution](leetcode/easy/225.md)
+|232|[ Implement Queue using Stacks ](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | 스택을 이용해서 큐 구현하기 |[Solution](leetcode/easy/232.md)
 |234|[ Palindrome Linked List ](https://leetcode.com/problems/palindrome-linked-list/) | Easy | 연결 리스트 |[Solution](leetcode/easy/234.md)
 |238|[ Product of Array Except Self ](https://leetcode.com/problems/product-of-array-except-self/) | Medium | 왼쪽의 곱셈 결과 * 오른쪽의 곱셈 결과  |[Solution](leetcode/medium/238.md)
 |316|[ Remove Duplicate Letters ](https://leetcode.com/problems/remove-duplicate-letters/) | Medium | 스택 |[Solution](leetcode/medium/316.md)
