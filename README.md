@@ -53,7 +53,7 @@
 |Lv.0| [양꼬치](https://programmers.co.kr/learn/courses/30/lessons/120830) | 수학 | [코드](programmers/level00/양꼬치.md) |
 |Lv.0| [짝수의합](https://programmers.co.kr/learn/courses/30/lessons/120831) | for 문 , sum 함수 | [코드](programmers/level00/짝수의합.md) |
 |Lv.0| [점의 위치 구하기](https://programmers.co.kr/learn/courses/30/lessons/120841) | 조건문 | [코드](programmers/level00/점의위치.md) |
-|Lv.0| [안전지대](https://programmers.co.kr/learn/courses/30/lessons/120866) | ㅇ | [코드](programmers/level00/안전지대.md) |
+|Lv.0| [안전지대](https://programmers.co.kr/learn/courses/30/lessons/120866) | 반복문  | [코드](programmers/level00/안전지대.md) |
 |Lv.0| [평행](https://programmers.co.kr/learn/courses/30/lessons/120875) | 직선의 기울기 , 반복문 | [코드](programmers/level00/평행.md) |
 |Lv.0| [겹치는 선분의 길이](https://programmers.co.kr/learn/courses/30/lessons/120876) | 겹치는 선 배열로 체크 | [코드](programmers/level00/겹치는선분의길이.md) |
 |Lv.0| [편지](https://programmers.co.kr/learn/courses/30/lessons/120898) | 문자열의 길이 | [코드](programmers/level00/편지.md) |
@@ -88,6 +88,8 @@
 |Lv.1| [과일 장수](https://programmers.co.kr/learn/courses/30/lessons/135808) | 정렬   | [코드](programmers/level01/과일장수.md) |
 |Lv.2| [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) |  split , min , max | [코드](programmers/level02/최대최소.md) |
 |Lv.2| [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | split() , split(" ") 구분하기 | [코드](programmers/level02/JadenCase.md) |
+|Lv.2| [롤케이크 자르기](https://programmers.co.kr/learn/courses/30/lessons/132265) | dictionary 문법 익히기 ⭐  | [코드](programmers/level02/롤케이크.md) |
+|Lv.2| [야간 전술 보행](https://programmers.co.kr/learn/courses/30/lessons/133501) | 다시 풀기| [코드](programmers/level02/야간전술보행.md) |
 |Lv.2| [숫자 카드 나누기](https://programmers.co.kr/learn/courses/30/lessons/135807) | 최대공약수 | [코드](programmers/level02/숫자카드.md) |
 
 ## 🎃 LeetCode
@@ -118,9 +120,10 @@
 |819|[ Most Common Word ](https://leetcode.com/problems/most-common-word/) | Easy | 정규식 , Counter 모듈  |[Solution](leetcode/easy/819.md)
 |937|[ Reorder Data in Log Files ](https://leetcode.com/problems/reorder-data-in-log-files/) | Medium |람다 표현식| [Solution](leetcode/medium/937.md)
 
-## ✍️시간 복잡도
+## ✍️문법 정리
 
 - [시간 복잡도](study/시간복잡도.md)
+
 
 ## 👨‍🎓 동빈북
 
