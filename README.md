@@ -102,6 +102,7 @@
 |:---|:---------------------:|:-----:|:-----:|:----|
 |1|[ Two Sum ](https://leetcode.com/problems/two-sum/) | Easy | 딕셔너리 사용해서 O(n)에 해결 |[Solution](leetcode/easy/1.md)
 |2|[ Add Two Numbers ](https://leetcode.com/problems/add-two-numbers/) | Medium | 연결리스트 사용 |[Solution](leetcode/medium/2.md)
+|3|[ Longest Substring Without Repeating Characters ](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | 슬라이싱 윈도우|[Solution](leetcode/medium/3.md)
 |5|[ Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | 투포인터 |[Solution](leetcode/medium/5.md)
 |15|[ 3Sum](https://leetcode.com/problems/3sum/) | Medium | 투포인터 |[Solution](leetcode/medium/15.md)
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | 딕셔너리 ,스택 |[Solution](leetcode/easy/20.md)
