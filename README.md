@@ -90,6 +90,7 @@
 |Lv.2| [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | split() , split(" ") 구분하기 | [코드](programmers/level02/JadenCase.md) |
 |Lv.2| [할인 행사](https://programmers.co.kr/learn/courses/30/lessons/131127) | 딕셔너리 , Counter| [코드](programmers/level02/할인행사.md) |
 |Lv.2| [연속 부분 수열 합의 개수](https://programmers.co.kr/learn/courses/30/lessons/131701) | for 문| [코드](programmers/level02/연속부분.md) |
+|Lv.2| [택배상자](https://programmers.co.kr/learn/courses/30/lessons/131704) | 스택 ⭐| [코드](programmers/level02/택배상자.md) |
 |Lv.2| [롤케이크 자르기](https://programmers.co.kr/learn/courses/30/lessons/132265) | dictionary 문법 익히기 ⭐  | [코드](programmers/level02/롤케이크.md) |
 |Lv.2| [야간 전술 보행](https://programmers.co.kr/learn/courses/30/lessons/133501) | 다시 풀기| [코드](programmers/level02/야간전술보행.md) |
 |Lv.2| [숫자 카드 나누기](https://programmers.co.kr/learn/courses/30/lessons/135807) | 최대공약수 | [코드](programmers/level02/숫자카드.md) |
