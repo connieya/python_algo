@@ -120,6 +120,7 @@
 |238|[ Product of Array Except Self ](https://leetcode.com/problems/product-of-array-except-self/) | Medium | 왼쪽의 곱셈 결과 * 오른쪽의 곱셈 결과  |[Solution](leetcode/medium/238.md)
 |316|[ Remove Duplicate Letters ](https://leetcode.com/problems/remove-duplicate-letters/) | Medium | 스택 |[Solution](leetcode/medium/316.md)
 |344|[ Reverse String ](https://leetcode.com/problems/reverse-string/) | Easy | 투포인터, reverse()  |[Solution](leetcode/easy/344.md)
+|347|[ Top K Frequent Elements ](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | 우선순위큐, 딕셔너리  |[Solution](leetcode/medium/347.md)
 |561|[ Array Partition ](https://leetcode.com/problems/array-partition/) | Easy | 정렬 |[Solution](leetcode/easy/561.md)
 |622|[ Design Circular Queue ](https://leetcode.com/problems/design-circular-queue/) | Medium | 배열로 원형 큐 구현하기 (front , rear)  |[Solution](leetcode/medium/622.md)
 |641|[ Design Circular Deque ](https://leetcode.com/problems/design-circular-deque/) | Medium | 연결리스트로 원형 데크 구현하기 |[Solution](leetcode/medium/641.md)
