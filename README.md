@@ -20,6 +20,7 @@
 |8393|[합](https://www.acmicpc.net/problem/8393) |🥉 브론즈 5 |반복문 |[코드](baekjoon/bronze5/8393.md)
 |10102|[개표](https://www.acmicpc.net/problem/10102) |🥉 브론즈 3 |반복문, 조건문 |[코드](solved/bronze3/10102.py)
 |10156|[과자](https://www.acmicpc.net/problem/10156) |🥉 브론즈 4 | 사칙연산, 삼항연산자 |[코드](solved/bronze4/10156.py)
+|10430|[나머지](https://www.acmicpc.net/problem/10430) |🥉 브론즈 5 | 수학, 사칙 연산 |[코드](solved/bronze5/10430.py)
 |10807|[개수 세기](https://www.acmicpc.net/problem/10807) |🥉 브론즈 5 | 배열 , count() |[코드](baekjoon/bronze5/10807.md)
 |10809|[알파벳 찾기](https://www.acmicpc.net/problem/10809) |🥉 브론즈 5 |문자열 find() 함수 ,chr() 함수 |[코드](baekjoon/bronze5/10807.md)
 |10869|[사칙연산](https://www.acmicpc.net/problem/10869) |🥉 브론즈 5 | 사칙연산 |[코드](baekjoon/bronze5/10869.md)
