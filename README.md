@@ -12,6 +12,7 @@
 |1929|[소수 구하기](https://www.acmicpc.net/problem/1929) |🥈 실버 3| 에라토스테네스의 체 |[코드](baekjoon/silver3/1929.md)
 |1978|[소수 찾기](https://www.acmicpc.net/problem/1978) |🥈 실버 5| 에라토스테네스의 체 |[코드](baekjoon/silver5/1978.md)
 |2217|[로프](https://www.acmicpc.net/problem/2217) |🥈 실버 4 | 정렬 |[코드](baekjoon/silver4/2217.md)
+|2309|[난쟁이](https://www.acmicpc.net/problem/2309) |🥉 브론즈 1 | 조합 , 브루트포스 |[코드](baekjoon/bronze1/2309.md)
 |2476|[주사위 게임](https://www.acmicpc.net/problem/2476) |🥉 브론즈 3 | 구현 |[코드](baekjoon/bronze3/2476.md)
 |2557|[Hello World](https://www.acmicpc.net/problem/2557) |🥉 브론즈 5 | 출력 |[코드](baekjoon/bronze5/2557.md)
 |2609|[최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) |🥉 브론즈 1 | 유클리드 호제법 |[코드](baekjoon/bronze1/2609.md)
