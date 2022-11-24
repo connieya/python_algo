@@ -1,0 +1,21 @@
+import sys, math
+
+MAX_NUM = 1000001
+prime = [True] * MAX_NUM
+i = 2
+for i in range(2, int(math.sqrt(MAX_NUM))):
+    if not prime[i]: continue
+    for j in range(i + i, MAX_NUM, i):
+        prime[j] = False
+
+while True:
+    n = int(sys.stdin.readline())
+    if n == 0 :break
+    flag = False
+    for i in range(3,n+1):
+        if prime[i] and prime[n-i]:
+            flag = True
+            print(f'{n} = {i} + {n-i}')
+            break
+    if flag: continue
+    print( "Goldbach's conjecture is wrong.")
