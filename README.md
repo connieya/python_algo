@@ -111,6 +111,7 @@
 |23|[ Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | 우선순위 큐 |[Solution](leetcode/hard/23.md)
 |24|[Swap Nodes in Pairs ](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | 연결리스트 swap|[Solution](leetcode/medium/24.md)
 |42|[  Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | 투포인터, 스택 |[Solution](leetcode/hard/42.md)
+|46|[  Permutations](https://leetcode.com/problems/permutations/) | Medium | DFS |[Solution](leetcode/medium/46.md)
 |49|[ Group Anagrams ](https://leetcode.com/problems/group-anagrams/) | Medium | 딕셔너리 , 정렬 |[Solution](leetcode/medium/49.md)
 |121|[ Best Time to Buy ans Sell Stock ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy |  min , max  |[Solution](leetcode/easy/121.md)
 |125|[ Valid Palindrome ](https://leetcode.com/problems/valid-palindrome/) | Easy | isalnum() , deque popleft() ,문자열 슬라이싱  |[Solution](leetcode/easy/125.md)
