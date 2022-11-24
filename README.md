@@ -113,6 +113,7 @@
 |49|[ Group Anagrams ](https://leetcode.com/problems/group-anagrams/) | Medium | 딕셔너리 , 정렬 |[Solution](leetcode/medium/49.md)
 |121|[ Best Time to Buy ans Sell Stock ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy |  min , max  |[Solution](leetcode/easy/121.md)
 |125|[ Valid Palindrome ](https://leetcode.com/problems/valid-palindrome/) | Easy | isalnum() , deque popleft() ,문자열 슬라이싱  |[Solution](leetcode/easy/125.md)
+|200|[ Number of Islands ](https://leetcode.com/problems/number-of-islands/) | Medium | DFS|[Solution](leetcode/medium/200.md)
 |206|[ Reverse Linked List ](https://leetcode.com/problems/reverse-linked-list/) | Easy | 연결 리스트 |[Solution](leetcode/easy/206.md)
 |225|[ Implement Stack using Queues ](https://leetcode.com/problems/implement-stack-using-queues/) | Easy | 큐를 이용해서 스택 구현하기 |[Solution](leetcode/easy/225.md)
 |232|[ Implement Queue using Stacks ](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | 스택을 이용해서 큐 구현하기 |[Solution](leetcode/easy/232.md)
