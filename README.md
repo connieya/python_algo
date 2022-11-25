@@ -102,8 +102,10 @@
 |Lv.1| [과일 장수](https://programmers.co.kr/learn/courses/30/lessons/135808) | 정렬   | [코드](programmers/level01/과일장수.md) |
 |Lv.2| [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) |  split , min , max | [코드](programmers/level02/최대최소.md) |
 |Lv.2| [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | split() , split(" ") 구분하기 | [코드](programmers/level02/JadenCase.md) |
+|Lv.2| [k진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335) | 소수 구하기 , split() | [코드](programmers/level02/k진수.md) |
 |Lv.2| [두 큐 합 같게 만들기](https://programmers.co.kr/learn/courses/30/lessons/118667) | deque 사용 | [코드](programmers/level02/두큐합.md) |
 |Lv.2| [할인 행사](https://programmers.co.kr/learn/courses/30/lessons/131127) | 딕셔너리 , Counter| [코드](programmers/level02/할인행사.md) |
+|Lv.2| [혼자 놀기의 달인](https://programmers.co.kr/learn/courses/30/lessons/131130) | union & find , 딕셔너리| [코드](programmers/level02/혼자놀기의달인.md) |
 |Lv.2| [연속 부분 수열 합의 개수](https://programmers.co.kr/learn/courses/30/lessons/131701) | for 문| [코드](programmers/level02/연속부분.md) |
 |Lv.2| [택배상자](https://programmers.co.kr/learn/courses/30/lessons/131704) | 스택 ⭐| [코드](programmers/level02/택배상자.md) |
 |Lv.2| [롤케이크 자르기](https://programmers.co.kr/learn/courses/30/lessons/132265) | dictionary 문법 익히기 ⭐  | [코드](programmers/level02/롤케이크.md) |
@@ -183,3 +185,5 @@
 |charter06 정렬|[위에서 아래로](동빈북/chapter06_정렬/위에서아래로.py)| sort(reverse = True) |
 |charter06 정렬|[성적이 낮은 순서로 학생 출력하기](동빈북/chapter06_정렬/성적.py)| sort() 람다 |
 |charter06 정렬|[두 배열의 원소 교체](동빈북/chapter06_정렬/원소교체.py)| sort() |
+|charter10 그래프 이론|[기본적인 서로소 집합](동빈북/chapter10_그래프이론/기본적인서로소집합.py)| Union & find |
+|charter10 그래프 이론|[개선돤 서로소 집합](동빈북/chapter10_그래프이론/개선된서로소집합.py)| Union & find |
