@@ -3,11 +3,13 @@ input = sys.stdin.readline
 n, m = map(int, input().split())
 board = [list(map(int, input().split())) for _ in range(n)]
 visited = [[False] * m for _ in range(n)]
+max_v = max(map(max,board))
 ans = 0
 dx = [-1, 0, 1, 0]
 dy = [0, 1, 0, -1]
 def dfs(idx, x, y, s):
     global ans
+    if ans > s + (3-idx)*max_v: return
     if idx == 3:
         ans = max(ans, s)
         return
