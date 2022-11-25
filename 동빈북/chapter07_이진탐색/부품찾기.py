@@ -1,7 +1,7 @@
 import sys
 
 def binary_search(array, target , lt , rt):
-    while(lt <= rt):
+    while lt <= rt:
         mid = (lt+rt)//2
         if array[mid] == target:
             return mid

@@ -1,11 +1,11 @@
 import sys
 sys.stdin = open('input.txt')
+# 떡의 개수와 요청한 떡의 길이 입력 받기
 N ,M = map(int,sys.stdin.readline().split())
-
+#  각 떡의 개별 높이 정보 입력받기
 array = list(map(int,sys.stdin.readline().split()))
-array.sort()
 lt = 0
-rt = array[N-1]+M
+rt = max(array)
 while lt <= rt:
     mid = (lt+rt)//2
     sum = 0
