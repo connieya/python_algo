@@ -107,6 +107,7 @@
 |Lv.1| [과일 장수](https://programmers.co.kr/learn/courses/30/lessons/135808) | 정렬   | [코드](programmers/level01/과일장수.md) |
 |Lv.2| [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) |  split , min , max | [코드](programmers/level02/최대최소.md) |
 |Lv.2| [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | split() , split(" ") 구분하기 | [코드](programmers/level02/JadenCase.md) |
+|Lv.2| [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) | 스택, deque , 인덱스 슬라이싱 | [코드](programmers/level02/괄호회전.md) |
 |Lv.2| [전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971) | DFS , 그래프 | [코드](programmers/level02/전력망.md) |
 |Lv.2| [k진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335) | 소수 구하기 , split() | [코드](programmers/level02/k진수.md) |
 |Lv.2| [두 큐 합 같게 만들기](https://programmers.co.kr/learn/courses/30/lessons/118667) | deque 사용 | [코드](programmers/level02/두큐합.md) |
