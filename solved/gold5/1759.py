@@ -1,0 +1,17 @@
+L, C = map(int, input().split())
+arr = list(input().split())
+arr.sort()
+
+def solve(depth, start, alpha, a, b):
+    if depth == L:
+        if a > 0 and b > 1:
+            print(alpha)
+        return
+    for idx in range(start, len(arr)):
+        if arr[idx] in ['a', 'e', 'i', 'o', 'u']:
+            solve(depth + 1, idx + 1, alpha + arr[idx], a + 1, b)
+        else:
+            solve(depth + 1, idx + 1, alpha + arr[idx], a, b + 1)
+
+
+solve(0, 0, "", 0, 0)
