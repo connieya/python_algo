@@ -10,6 +10,7 @@
 |1037|[약수](https://www.acmicpc.net/problem/1037) |🥉 브론즈 1 | 수학 |[코드](baekjoon/bronze1/1037.md)
 |1107|[리모컨](https://www.acmicpc.net/problem/1107) |🥇 골드 5 | 브루트포스 |[코드](baekjoon/gold5/1107.md)
 |1110|[더하기 사이클](https://www.acmicpc.net/problem/1110) |🥉 브론즈 1 | 수학,구현 |[코드](baekjoon/bronze1/1110.md)
+|1439|[뒤집기](https://www.acmicpc.net/problem/1439) |🥈 실버 5| 구현 |[코드](baekjoon/silver5/1439.md)
 |1476|[날짜 계산](https://www.acmicpc.net/problem/1476) |🥈 실버 5 | 브루트포스 |[코드](baekjoon/silver5/1476.md)
 |1748|[수 이어 쓰기1](https://www.acmicpc.net/problem/1748) |🥈 실버 4 | 수학 , 구현|[코드](baekjoon/silver4/1748.md)
 |1759|[암호 만들기](https://www.acmicpc.net/problem/1759) |🥇 골드 5 | 백트래킹 |[코드](baekjoon/gold5/1759.md)
@@ -17,6 +18,7 @@
 |1978|[소수 찾기](https://www.acmicpc.net/problem/1978) |🥈 실버 5| 에라토스테네스의 체 |[코드](baekjoon/silver5/1978.md)
 |2217|[로프](https://www.acmicpc.net/problem/2217) |🥈 실버 4 | 정렬 |[코드](baekjoon/silver4/2217.md)
 |2309|[난쟁이](https://www.acmicpc.net/problem/2309) |🥉 브론즈 1 | 조합 , 브루트포스 |[코드](baekjoon/bronze1/2309.md)
+|2437|[저울](https://www.acmicpc.net/problem/2437) |🥇  골드 2| 그리디 ,정렬 |[코드](baekjoon/gold2/2437.md)
 |2476|[주사위 게임](https://www.acmicpc.net/problem/2476) |🥉 브론즈 3 | 구현 |[코드](baekjoon/bronze3/2476.md)
 |2557|[Hello World](https://www.acmicpc.net/problem/2557) |🥉 브론즈 5 | 출력 |[코드](baekjoon/bronze5/2557.md)
 |2609|[최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) |🥉 브론즈 1 | 유클리드 호제법 |[코드](baekjoon/bronze1/2609.md)
@@ -200,3 +202,6 @@
 |charter07 이진 탐색|[떡볶이 떡 만들기](동빈북/chapter07_이진탐색/떡볶이떡만들기.py)| 파마메트릭 서치 |
 |charter10 그래프 이론|[기본적인 서로소 집합](동빈북/chapter10_그래프이론/기본적인서로소집합.py)| Union & find |
 |charter10 그래프 이론|[개선돤 서로소 집합](동빈북/chapter10_그래프이론/개선된서로소집합.py)| Union & find |
+|charter11 그리디|[모험가 길드](동빈북/chapter11_그리디/모험가.py)| 그리디 |
+|charter11 그리디|[곱하기 혹은 더하기](동빈북/chapter11_그리디/곱하기혹은더하기.py)| 그리디 |
+|charter11 그리디|[만들 수 없는 금액](동빈북/chapter11_그리디/만들수없는금액.py)| 그리디 |
