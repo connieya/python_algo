@@ -46,6 +46,7 @@
 |14499|[주사위 굴리기](https://www.acmicpc.net/problem/14499) |🥇 골드 4 | 시뮬레이션  |[코드](baekjoon/gold4/14499.md)
 |14500|[테트로미노](https://www.acmicpc.net/problem/14500) |🥇 골드 4 | DFS, 브루트포스  |[코드](baekjoon/gold4/14500.md)
 |14890|[경사로](https://www.acmicpc.net/problem/14890) |🥇 골드 3 | 시뮬레이션 ,구현  |[코드](baekjoon/gold3/14890.md)
+|15649|[N과M(1)](https://www.acmicpc.net/problem/15649) |🥈 실버 3 | 백트래킹  |[코드](baekjoon/silver3/15649.md)
 |17425|[약수의 합](https://www.acmicpc.net/problem/17425) |🥇 골드 4 | 수학 , 에라토스테네스의 체  |[코드](baekjoon/gold4/17425.md)
 |17427|[약수의 합2](https://www.acmicpc.net/problem/17427) |🥈 실버 2 | 수학,정수론  |[코드](baekjoon/silver2/17427.md)
 |18108|[1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108) |🥉 브론즈 5 | 사칙연산 |[코드](baekjoon/bronze5/18108.md)
