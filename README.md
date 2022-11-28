@@ -142,6 +142,7 @@
 |46|[  Permutations](https://leetcode.com/problems/permutations/) | Medium | DFS |[Solution](leetcode/medium/46.md)
 |49|[ Group Anagrams ](https://leetcode.com/problems/group-anagrams/) | Medium | 딕셔너리 , 정렬 |[Solution](leetcode/medium/49.md)
 |77|[  Combinations ](https://leetcode.com/problems/combinations/) | Medium | DFS , 조합 |[Solution](leetcode/medium/77.md)
+|78|[  Subsets ](https://leetcode.com/problems/subsets/) | Medium | DFS |[Solution](leetcode/medium/78.md)
 |121|[ Best Time to Buy ans Sell Stock ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy |  min , max  |[Solution](leetcode/easy/121.md)
 |125|[ Valid Palindrome ](https://leetcode.com/problems/valid-palindrome/) | Easy | isalnum() , deque popleft() ,문자열 슬라이싱  |[Solution](leetcode/easy/125.md)
 |200|[ Number of Islands ](https://leetcode.com/problems/number-of-islands/) | Medium | DFS|[Solution](leetcode/medium/200.md)
