@@ -122,6 +122,7 @@
 |Lv.2| [야간 전술 보행](https://programmers.co.kr/learn/courses/30/lessons/133501) | 다시 풀기| [코드](programmers/level02/야간전술보행.md) |
 |Lv.2| [숫자 카드 나누기](https://programmers.co.kr/learn/courses/30/lessons/135807) | 최대공약수 | [코드](programmers/level02/숫자카드.md) |
 |Lv.2| [귤 고르기](https://programmers.co.kr/learn/courses/30/lessons/138476) | Counter , most_common() | [코드](programmers/level02/귤고르기.md) |
+|Lv.3| [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | DFS | [코드](programmers/level03/여행경로.md) |
 
 ## 🎃 LeetCode
 
@@ -147,11 +148,13 @@
 |125|[ Valid Palindrome ](https://leetcode.com/problems/valid-palindrome/) | Easy | isalnum() , deque popleft() ,문자열 슬라이싱  |[Solution](leetcode/easy/125.md)
 |200|[ Number of Islands ](https://leetcode.com/problems/number-of-islands/) | Medium | DFS|[Solution](leetcode/medium/200.md)
 |206|[ Reverse Linked List ](https://leetcode.com/problems/reverse-linked-list/) | Easy | 연결 리스트 |[Solution](leetcode/easy/206.md)
+|207|[ Course Schedule ](https://leetcode.com/problems/course-schedule/) | Medium | 그래프의 Cycle 판별 |[Solution](leetcode/medium/207.md)
 |225|[ Implement Stack using Queues ](https://leetcode.com/problems/implement-stack-using-queues/) | Easy | 큐를 이용해서 스택 구현하기 |[Solution](leetcode/easy/225.md)
 |232|[ Implement Queue using Stacks ](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | 스택을 이용해서 큐 구현하기 |[Solution](leetcode/easy/232.md)
 |234|[ Palindrome Linked List ](https://leetcode.com/problems/palindrome-linked-list/) | Easy | 연결 리스트 |[Solution](leetcode/easy/234.md)
 |238|[ Product of Array Except Self ](https://leetcode.com/problems/product-of-array-except-self/) | Medium | 왼쪽의 곱셈 결과 * 오른쪽의 곱셈 결과  |[Solution](leetcode/medium/238.md)
 |316|[ Remove Duplicate Letters ](https://leetcode.com/problems/remove-duplicate-letters/) | Medium | 스택 |[Solution](leetcode/medium/316.md)
+|332|[ Reconstruct Itinerary  ](https://leetcode.com/problems/reconstruct-itinerary/) | Hard |defaultdict,  DFS ,스택 |[Solution](leetcode/hard/332.md)
 |344|[ Reverse String ](https://leetcode.com/problems/reverse-string/) | Easy | 투포인터, reverse()  |[Solution](leetcode/easy/344.md)
 |347|[ Top K Frequent Elements ](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | 우선순위큐, 딕셔너리  |[Solution](leetcode/medium/347.md)
 |561|[ Array Partition ](https://leetcode.com/problems/array-partition/) | Easy | 정렬 |[Solution](leetcode/easy/561.md)
