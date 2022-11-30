@@ -1,2 +1,5 @@
-print("2101"[0])
-print(type("2101"[0]))
+print(int(4**0.5))
+print(int(6**0.5))
+print(int(16**0.5))
+print(int(25**0.5))
+print(int(28**0.5))
