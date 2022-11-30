@@ -109,6 +109,7 @@
 |Lv.1| [햄버거 만들기](https://programmers.co.kr/learn/courses/30/lessons/133502) | 스택 , 슬라이싱 이용하기| [코드](programmers/level01/햄버거.md) |
 |Lv.1| [푸드 파이트 대회](https://programmers.co.kr/learn/courses/30/lessons/134240) | 문자열 구현 | [코드](programmers/level01/푸드파이터.md) |
 |Lv.1| [과일 장수](https://programmers.co.kr/learn/courses/30/lessons/135808) | 정렬   | [코드](programmers/level01/과일장수.md) |
+|Lv.1| [명예의 전당(1)](https://programmers.co.kr/learn/courses/30/lessons/138477) | 우선순위 큐   | [코드](programmers/level01/명예의전당.md) |
 |Lv.2| [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) |  split , min , max | [코드](programmers/level02/최대최소.md) |
 |Lv.2| [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | split() , split(" ") 구분하기 | [코드](programmers/level02/JadenCase.md) |
 |Lv.2| [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) | 스택, deque , 인덱스 슬라이싱 | [코드](programmers/level02/괄호회전.md) |
@@ -211,3 +212,4 @@
 |charter11 그리디|[모험가 길드](동빈북/chapter11_그리디/모험가.py)| 그리디 |
 |charter11 그리디|[곱하기 혹은 더하기](동빈북/chapter11_그리디/곱하기혹은더하기.py)| 그리디 |
 |charter11 그리디|[만들 수 없는 금액](동빈북/chapter11_그리디/만들수없는금액.py)| 그리디 |
+|charter11 그리디|[볼링공 고르기](동빈북/chapter11_그리디/볼링공.py)| 그리디 |
