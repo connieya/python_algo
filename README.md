@@ -113,6 +113,7 @@
 |Lv.1| [명예의 전당(1)](https://programmers.co.kr/learn/courses/30/lessons/138477) | 우선순위 큐   | [코드](programmers/level01/명예의전당.md) |
 |Lv.2| [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) |  split , min , max | [코드](programmers/level02/최대최소.md) |
 |Lv.2| [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | split() , split(" ") 구분하기 | [코드](programmers/level02/JadenCase.md) |
+|Lv.2| [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) | deque ( maxlen) , LRU 알고리즘 | [코드](programmers/level02/캐시.md) |
 |Lv.2| [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) | 스택, deque , 인덱스 슬라이싱 | [코드](programmers/level02/괄호회전.md) |
 |Lv.2| [전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971) | DFS , 그래프 | [코드](programmers/level02/전력망.md) |
 |Lv.2| [k진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335) | 소수 구하기 , split() | [코드](programmers/level02/k진수.md) |
@@ -208,7 +209,12 @@
 |charter07 이진 탐색|[부품 찾기 - 계수 정렬](동빈북/chapter07_이진탐색/부품찾기_계수정렬.py)| 계수 정렬 |
 |charter07 이진 탐색|[부품 찾기 - 집합 자료형](동빈북/chapter07_이진탐색/부품_집합.py)| 집합 set |
 |charter07 이진 탐색|[떡볶이 떡 만들기](동빈북/chapter07_이진탐색/떡볶이떡만들기.py)| 파마메트릭 서치 |
+|charter09 최단 경로|[간단한 다익스트라 알고리즘](동빈북/chapter09_최단경로/간단한다익스트라알고리즘.py)| 다익스트라 알고리즘 |
+|charter09 최단 경로|[개선된 다익스트라 알고리즘](동빈북/chapter09_최단경로/개선된다익스트라알고리즘.py)| 다익스트라 알고리즘 |
+|charter09 최단 경로|[플로이드 와샬](동빈북/chapter09_최단경로/플로이드.py)| 플로이드 와샬 |
+|charter09 최단 경로|[미래 도시](동빈북/chapter09_최단경로/미래도시.py)| 플로이드 와샬 |
 |charter10 그래프 이론|[기본적인 서로소 집합](동빈북/chapter10_그래프이론/기본적인서로소집합.py)| Union & find |
+|charter10 그래프 이론|[개선돤 서로소 집합](동빈북/chapter10_그래프이론/개선된서로소집합.py)| Union & find |
 |charter10 그래프 이론|[개선돤 서로소 집합](동빈북/chapter10_그래프이론/개선된서로소집합.py)| Union & find |
 |charter11 그리디|[모험가 길드](동빈북/chapter11_그리디/모험가.py)| 그리디 |
 |charter11 그리디|[곱하기 혹은 더하기](동빈북/chapter11_그리디/곱하기혹은더하기.py)| 그리디 |

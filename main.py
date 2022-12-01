@@ -1,5 +1,3 @@
-print(int(4**0.5))
-print(int(6**0.5))
-print(int(16**0.5))
-print(int(25**0.5))
-print(int(28**0.5))
+city = "ADD"
+city =  city.lower()
+print(city)
