@@ -127,6 +127,7 @@
 |Lv.2| [야간 전술 보행](https://programmers.co.kr/learn/courses/30/lessons/133501) | 다시 풀기| [코드](programmers/level02/야간전술보행.md) |
 |Lv.2| [숫자 카드 나누기](https://programmers.co.kr/learn/courses/30/lessons/135807) | 최대공약수 | [코드](programmers/level02/숫자카드.md) |
 |Lv.2| [귤 고르기](https://programmers.co.kr/learn/courses/30/lessons/138476) | Counter , most_common() | [코드](programmers/level02/귤고르기.md) |
+|Lv.3| [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938) | 수학, 구현 | [코드](programmers/level03/최고의집합.md) |
 |Lv.3| [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | DP | [코드](programmers/level03/정수삼각형.md) |
 |Lv.3| [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | DFS | [코드](programmers/level03/여행경로.md) |
 |Lv.3| [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | 우선순위큐, heapq , remove, 예외처리 | [코드](programmers/level03/이중우선순위큐.md) |
