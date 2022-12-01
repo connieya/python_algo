@@ -114,6 +114,7 @@
 |Lv.2| [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) |  split , min , max | [코드](programmers/level02/최대최소.md) |
 |Lv.2| [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | split() , split(" ") 구분하기 | [코드](programmers/level02/JadenCase.md) |
 |Lv.2| [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) | deque ( maxlen) , LRU 알고리즘 | [코드](programmers/level02/캐시.md) |
+|Lv.2| [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | rstrip(),lstrip(), sort 조건 ,람다 | [코드](programmers/level02/튜플.md) |
 |Lv.2| [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) | 스택, deque , 인덱스 슬라이싱 | [코드](programmers/level02/괄호회전.md) |
 |Lv.2| [전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971) | DFS , 그래프 | [코드](programmers/level02/전력망.md) |
 |Lv.2| [k진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335) | 소수 구하기 , split() | [코드](programmers/level02/k진수.md) |
