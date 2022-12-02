@@ -10,6 +10,7 @@
 |1037|[약수](https://www.acmicpc.net/problem/1037) |🥉 브론즈 1 | 수학 |[코드](baekjoon/bronze1/1037.md)
 |1107|[리모컨](https://www.acmicpc.net/problem/1107) |🥇 골드 5 | 브루트포스 |[코드](baekjoon/gold5/1107.md)
 |1110|[더하기 사이클](https://www.acmicpc.net/problem/1110) |🥉 브론즈 1 | 수학,구현 |[코드](baekjoon/bronze1/1110.md)
+|1157|[단어 공부](https://www.acmicpc.net/problem/1157) |🥉 브론즈 1 | upper() , map(chr ,range(65,91 ) |[코드](baekjoon/bronze1/1157.md)
 |1439|[뒤집기](https://www.acmicpc.net/problem/1439) |🥈 실버 5| 구현 |[코드](baekjoon/silver5/1439.md)
 |1476|[날짜 계산](https://www.acmicpc.net/problem/1476) |🥈 실버 5 | 브루트포스 |[코드](baekjoon/silver5/1476.md)
 |1748|[수 이어 쓰기1](https://www.acmicpc.net/problem/1748) |🥈 실버 4 | 수학 , 구현|[코드](baekjoon/silver4/1748.md)
@@ -115,6 +116,7 @@
 |Lv.2| [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | split() , split(" ") 구분하기 | [코드](programmers/level02/JadenCase.md) |
 |Lv.2| [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) | deque ( maxlen) , LRU 알고리즘 | [코드](programmers/level02/캐시.md) |
 |Lv.2| [n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687) | 수학, 구현 | [코드](programmers/level02/n진수.md) |
+|Lv.2| [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | 구현 다양한 풀이 , ord , 슬라이싱 , for-else ... etc | [코드](programmers/level02/스킬트리.md) |
 |Lv.2| [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | rstrip(),lstrip(), sort 조건 ,람다 | [코드](programmers/level02/튜플.md) |
 |Lv.2| [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) | 스택, deque , 인덱스 슬라이싱 | [코드](programmers/level02/괄호회전.md) |
 |Lv.2| [전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971) | DFS , 그래프 | [코드](programmers/level02/전력망.md) |

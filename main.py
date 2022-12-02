@@ -1,8 +1,3 @@
-import heapq
+S = "abc"
 
-q = []
-heapq.heappush(q,10)
-print(q)
-res = heapq.heappop(q)
-print(res)
-print(q)
+print(S[0])
