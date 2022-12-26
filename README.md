@@ -112,6 +112,7 @@
 |Lv.1| [과일 장수](https://programmers.co.kr/learn/courses/30/lessons/135808) | 정렬   | [코드](programmers/level01/과일장수.md) |
 |Lv.1| [기사단원의 무기](https://programmers.co.kr/learn/courses/30/lessons/136798) | 구현, 수학 (약수의 개수) | [코드](programmers/level01/기사단원의무기.md) |
 |Lv.1| [명예의 전당(1)](https://programmers.co.kr/learn/courses/30/lessons/138477) | 우선순위 큐   | [코드](programmers/level01/명예의전당.md) |
+|Lv.1| [크기가 작은 부분 문자열](https://programmers.co.kr/learn/courses/30/lessons/147355) | 이중 for 문  | [코드](programmers/level01/부분문자열.md) |
 |Lv.2| [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) |  split , min , max | [코드](programmers/level02/최대최소.md) |
 |Lv.2| [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | split() , split(" ") 구분하기 | [코드](programmers/level02/JadenCase.md) |
 |Lv.2| [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) | deque ( maxlen) , LRU 알고리즘 | [코드](programmers/level02/캐시.md) |
@@ -172,6 +173,7 @@
 |332|[ Reconstruct Itinerary  ](https://leetcode.com/problems/reconstruct-itinerary/) | Hard |defaultdict,  DFS ,스택 |[Solution](leetcode/hard/332.md)
 |344|[ Reverse String ](https://leetcode.com/problems/reverse-string/) | Easy | 투포인터, reverse()  |[Solution](leetcode/easy/344.md)
 |347|[ Top K Frequent Elements ](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | 우선순위큐, 딕셔너리  |[Solution](leetcode/medium/347.md)
+|543|[ Diameter of Binary Tree ](https://leetcode.com/problems/diameter-of-binary-tree/description/) | Easy | 트리의 직경 |[Solution](leetcode/easy/543.md)
 |561|[ Array Partition ](https://leetcode.com/problems/array-partition/) | Easy | 정렬 |[Solution](leetcode/easy/561.md)
 |622|[ Design Circular Queue ](https://leetcode.com/problems/design-circular-queue/) | Medium | 배열로 원형 큐 구현하기 (front , rear)  |[Solution](leetcode/medium/622.md)
 |641|[ Design Circular Deque ](https://leetcode.com/problems/design-circular-deque/) | Medium | 연결리스트로 원형 데크 구현하기 |[Solution](leetcode/medium/641.md)
