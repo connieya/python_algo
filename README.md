@@ -132,10 +132,11 @@
 |Lv.2| [숫자 카드 나누기](https://programmers.co.kr/learn/courses/30/lessons/135807) | 최대공약수 | [코드](programmers/level02/숫자카드.md) |
 |Lv.2| [귤 고르기](https://programmers.co.kr/learn/courses/30/lessons/138476) | Counter , most_common() | [코드](programmers/level02/귤고르기.md) |
 |Lv.3| [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938) | 수학, 구현 | [코드](programmers/level03/최고의집합.md) |
+|Lv.3| [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | 우선순위큐, heapq , remove, 예외처리 | [코드](programmers/level03/이중우선순위큐.md) |
+|Lv.3| [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) |DP | [코드](programmers/level03/등굣길.md) |
 |Lv.3| [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | DP | [코드](programmers/level03/정수삼각형.md) |
 |Lv.3| [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | DFS , 플로이드 와샬 | [코드](programmers/level03/네트워크.md) |
 |Lv.3| [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | DFS | [코드](programmers/level03/여행경로.md) |
-|Lv.3| [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | 우선순위큐, heapq , remove, 예외처리 | [코드](programmers/level03/이중우선순위큐.md) |
 
 ## 🎃 LeetCode
 
@@ -157,6 +158,7 @@
 |49|[ Group Anagrams ](https://leetcode.com/problems/group-anagrams/) | Medium | 딕셔너리 , 정렬 |[Solution](leetcode/medium/49.md)
 |77|[  Combinations ](https://leetcode.com/problems/combinations/) | Medium | DFS , 조합 |[Solution](leetcode/medium/77.md)
 |78|[  Subsets ](https://leetcode.com/problems/subsets/) | Medium | DFS |[Solution](leetcode/medium/78.md)
+|104|[  Maximum Depth of Binary Tree ](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | Easy |  트리 |[Solution](leetcode/easy/104.md)
 |121|[ Best Time to Buy ans Sell Stock ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy |  min , max  |[Solution](leetcode/easy/121.md)
 |125|[ Valid Palindrome ](https://leetcode.com/problems/valid-palindrome/) | Easy | isalnum() , deque popleft() ,문자열 슬라이싱  |[Solution](leetcode/easy/125.md)
 |200|[ Number of Islands ](https://leetcode.com/problems/number-of-islands/) | Medium | DFS|[Solution](leetcode/medium/200.md)
