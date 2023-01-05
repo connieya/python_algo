@@ -85,6 +85,8 @@
 |Lv.0| [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/120906)          | 나머지 연산                                                 | [코드](programmers/level00/자릿수더하기.md)    |
 |Lv.0| [문자열 안에 문자열](https://programmers.co.kr/learn/courses/30/lessons/120908)       | count , in , 삼항 연산자                                    | [코드](programmers/level00/문자열안에문자열.md)  |
 |Lv.0| [제곱 수 판별하기](https://programmers.co.kr/learn/courses/30/lessons/120909)        | math.sqrt                                              | [코드](programmers/level00/제곱수판별.md)     |
+|Lv.0| [7의 개수 ](https://programmers.co.kr/learn/courses/30/lessons/120912)           | 구현                                                     | [코드](programmers/level00/7의개수.md)      |
+|Lv.0| [다음에 올 숫자 ](https://programmers.co.kr/learn/courses/30/lessons/120924)        | 구현                                                     | [코드](programmers/level00/다음에올숫자.md)    |
 |Lv.0| [옹알이(1)](https://programmers.co.kr/learn/courses/30/lessons/120956)           | replace() , strip()                                    | [코드](programmers/level00/옹알이.md)       |
 |Lv.1| [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)                | unordered_set                                          | [코드](programmers/level01/폰켓몬.md)       |
 |Lv.1| [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)       | substr 활용하기                                            | [코드](programmers/level01/가운데글자.md)     |
