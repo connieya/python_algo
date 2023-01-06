@@ -171,6 +171,7 @@
 | 200 |[ Number of Islands ](https://leetcode.com/problems/number-of-islands/) |   Medium   |                   DFS                   |[Solution](leetcode/medium/200.md)
 | 206 |[ Reverse Linked List ](https://leetcode.com/problems/reverse-linked-list/) |    Easy    |                 연결 리스트                  |[Solution](leetcode/easy/206.md)
 | 207 |[ Course Schedule ](https://leetcode.com/problems/course-schedule/) |   Medium   |              그래프의 Cycle 판별              |[Solution](leetcode/medium/207.md)
+| 208 |[ Implement Trie (Prefix Tree) ](https://leetcode.com/problems/implement-trie-prefix-tree/description/) |   Medium   |                트라이 직접 구현                |[Solution](leetcode/medium/208.md)
 | 215 |[  Kth Largest Element in an Array ](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) |   Medium   |    sort , heapq , heapq.heapify() 이용    |[Solution](leetcode/medium/215.md)
 | 225 |[ Implement Stack using Queues ](https://leetcode.com/problems/implement-stack-using-queues/) |    Easy    |             큐를 이용해서 스택 구현하기             |[Solution](leetcode/easy/225.md)
 | 226 |[  Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) |    Easy    |                이진 트리 반전                 |[Solution](leetcode/easy/226.md)
