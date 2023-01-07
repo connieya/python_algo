@@ -165,6 +165,7 @@
 | 46  |                                   [  Permutations](https://leetcode.com/problems/permutations/)                                   |   Medium   |                   DFS                   |[Solution](leetcode/medium/46.md)
 | 49  |                                 [ Group Anagrams ](https://leetcode.com/problems/group-anagrams/)                                 |   Medium   |                딕셔너리 , 정렬                |[Solution](leetcode/medium/49.md)
 | 56  |                          [ Merge Intervals ](https://leetcode.com/problems/merge-intervals/description/)                          |   Medium   |            파이썬 스러운 그리디 , 정렬             |[Solution](leetcode/medium/56화.md)
+| 75  |                                   [  Sort Colors ](https://leetcode.com/problems/sort-colors/)                                    |   Medium   |            네덜란드 국기 문제, 계수 정렬            |[Solution](leetcode/medium/75.md)
 | 77  |                                  [  Combinations ](https://leetcode.com/problems/combinations/)                                   |   Medium   |                DFS , 조합                 |[Solution](leetcode/medium/77.md)
 | 78  |                                       [  Subsets ](https://leetcode.com/problems/subsets/)                                        |   Medium   |                   DFS                   |[Solution](leetcode/medium/78.md)
 | 104 |            [  Maximum Depth of Binary Tree ](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)             |    Easy    |                   트리                    |[Solution](leetcode/easy/104.md)
@@ -183,6 +184,7 @@
 | 232 |                   [ Implement Queue using Stacks ](https://leetcode.com/problems/implement-queue-using-stacks/)                   |    Easy    |             스택을 이용해서 큐 구현하기             |[Solution](leetcode/easy/232.md)
 | 234 |                         [ Palindrome Linked List ](https://leetcode.com/problems/palindrome-linked-list/)                         |    Easy    |                 연결 리스트                  |[Solution](leetcode/easy/234.md)
 | 238 |                   [ Product of Array Except Self ](https://leetcode.com/problems/product-of-array-except-self/)                   |   Medium   |         왼쪽의 곱셈 결과 * 오른쪽의 곱셈 결과          |[Solution](leetcode/medium/238.md)
+| 242 |                                  [ Valid Anagram ](https://leetcode.com/problems/valid-anagram/)                                  |    Easy    |    collections.defaultdict , sorted     |[Solution](leetcode/medium/242.md)
 | 316 |                       [ Remove Duplicate Letters ](https://leetcode.com/problems/remove-duplicate-letters/)                       |   Medium   |                   스택                    |[Solution](leetcode/medium/316.md)
 | 332 |                         [ Reconstruct Itinerary  ](https://leetcode.com/problems/reconstruct-itinerary/)                          |    Hard    |          defaultdict,  DFS ,스택          |[Solution](leetcode/hard/332.md)
 | 344 |                                 [ Reverse String ](https://leetcode.com/problems/reverse-string/)                                 |    Easy    |             투포인터, reverse()             |[Solution](leetcode/easy/344.md)
@@ -198,6 +200,7 @@
 | 771 |                             [  Jewels and Stones ](https://leetcode.com/problems/jewels-and-stones/)                              |    Easy    | 딕셔너리 , defaultdict, Counter , 리스트 컴프리헨션 |[Solution](leetcode/easy/771.md)
 | 819 |                               [ Most Common Word ](https://leetcode.com/problems/most-common-word/)                               |    Easy    |            정규식 , Counter 모듈             |[Solution](leetcode/easy/819.md)
 | 937 |                      [ Reorder Data in Log Files ](https://leetcode.com/problems/reorder-data-in-log-files/)                      |   Medium   |                 람다 표현식                  | [Solution](leetcode/medium/937.md)
+| 973 |                         [ K. Closet Points to Origin ](https://leetcode.com/problems/k-closet-to-origin/)                         |   Medium   |        정렬 람다식 정의       , 우선순위 큐         | [Solution](leetcode/medium/973.md)
 
 ## ✍️문법 정리
 
