@@ -87,6 +87,7 @@
 |Lv.0| [문자열 안에 문자열](https://programmers.co.kr/learn/courses/30/lessons/120908)       | count , in , 삼항 연산자                                    | [코드](programmers/level00/문자열안에문자열.md)  |
 |Lv.0| [제곱 수 판별하기](https://programmers.co.kr/learn/courses/30/lessons/120909)        | math.sqrt                                              | [코드](programmers/level00/제곱수판별.md)     |
 |Lv.0| [7의 개수 ](https://programmers.co.kr/learn/courses/30/lessons/120912)           | 구현                                                     | [코드](programmers/level00/7의개수.md)      |
+|Lv.0| [연속된 수의 합 ](https://programmers.co.kr/learn/courses/30/lessons/120923)        | 수학                                                     | [코드](programmers/level00/연속된수의합.md)    |
 |Lv.0| [다음에 올 숫자 ](https://programmers.co.kr/learn/courses/30/lessons/120924)        | 구현                                                     | [코드](programmers/level00/다음에올숫자.md)    |
 |Lv.0| [옹알이(1)](https://programmers.co.kr/learn/courses/30/lessons/120956)           | replace() , strip()                                    | [코드](programmers/level00/옹알이.md)       |
 |Lv.1| [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)                | unordered_set                                          | [코드](programmers/level01/폰켓몬.md)       |
@@ -160,6 +161,7 @@
 | 21  |                         [ Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                          |    Easy    |                연결리스트, 재귀                |[Solution](leetcode/easy/21.md)
 | 23  |                           [ Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                            |    Hard    |                 우선순위 큐                  |[Solution](leetcode/hard/23.md)
 | 24  |                            [Swap Nodes in Pairs ](https://leetcode.com/problems/swap-nodes-in-pairs/)                             |   Medium   |               연결리스트 swap                |[Solution](leetcode/medium/24.md)
+| 33  |                  [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                  |   Medium   |              이진 탐색 , 피벗 설정              |[Solution](leetcode/medium/33.md)
 | 39  |                                 [Combination Sum](https://leetcode.com/problems/combination-sum/)                                 |   Medium   |               DFS , 조합의 합               |[Solution](leetcode/medium/39.md)
 | 42  |                            [  Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                            |    Hard    |                투포인터, 스택                 |[Solution](leetcode/hard/42.md)
 | 46  |                                   [  Permutations](https://leetcode.com/problems/permutations/)                                   |   Medium   |                   DFS                   |[Solution](leetcode/medium/46.md)
@@ -194,6 +196,7 @@
 | 622 |                          [ Design Circular Queue ](https://leetcode.com/problems/design-circular-queue/)                          |   Medium   |      배열로 원형 큐 구현하기 (front , rear)       |[Solution](leetcode/medium/622.md)
 | 641 |                          [ Design Circular Deque ](https://leetcode.com/problems/design-circular-deque/)                          |   Medium   |            연결리스트로 원형 데크 구현하기            |[Solution](leetcode/medium/641.md)
 | 687 |                    [Longest Univalue Path ](https://leetcode.com/problems/longest-univalue-path/description/)                     |   Medium   |              가장 긴 동일 값의 경로              |[Solution](leetcode/medium/687.md)
+| 704 |                                  [ Binary Search ](https://leetcode.com/problems/binary-search/)                                  |    Easy    |                  이진 탐색                  |[Solution](leetcode/easy/704.md)
 | 706 |                                 [ Design HashMap ](https://leetcode.com/problems/design-hashmap/)                                 |    Easy    |               체이닝으로 해시 구현               |[Solution](leetcode/easy/706.md)
 | 739 |                             [ Daily Temperatures ](https://leetcode.com/problems/daily-temperatures/)                             |   Medium   |                   스택                    |[Solution](leetcode/medium/739.md)
 | 743 |                             [ Network Delay Time ](https://leetcode.com/problems/network-delay-time/)                             |   Medium   |              다익스트라 구현 1,2               |[Solution](leetcode/medium/743.md)
