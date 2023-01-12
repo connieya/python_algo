@@ -18,3 +18,12 @@ arr2 = ["4","23","1333","87"]
 res = "".join(arr2)
 
 print(res)
+
+
+A  = [2,4,0,5]
+
+print(A)
+
+A.pop(1)
+
+print(A ,A[0],A[1],A[2])
