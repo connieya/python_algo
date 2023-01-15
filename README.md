@@ -11,8 +11,10 @@
 | 1107  |            [리모컨](https://www.acmicpc.net/problem/1107)             | 🥇 골드 5  |              브루트포스               |[코드](baekjoon/gold5/1107.md)
 | 1110  |          [더하기 사이클](https://www.acmicpc.net/problem/1110)           | 🥉 브론즈 1 |              수학,구현               |[코드](baekjoon/bronze1/1110.md)
 | 1157  |           [단어 공부](https://www.acmicpc.net/problem/1157)            | 🥉 브론즈 1 | upper() , map(chr ,range(65,91 ) |[코드](baekjoon/bronze1/1157.md)
+| 1264  |           [모음의 개수](https://www.acmicpc.net/problem/1264)           | 🥉 브론즈 4 |             input()              |[코드](baekjoon/bronze4/1264.md)
 | 1439  |            [뒤집기](https://www.acmicpc.net/problem/1439)             | 🥈 실버 5  |                구현                |[코드](baekjoon/silver5/1439.md)
 | 1476  |           [날짜 계산](https://www.acmicpc.net/problem/1476)            | 🥈 실버 5  |              브루트포스               |[코드](baekjoon/silver5/1476.md)
+| 1543  |           [문서 검색](https://www.acmicpc.net/problem/1543)            | 🥈 실버 4  |              정규 표현식              |[코드](baekjoon/silver4/1543.md)
 | 1748  |          [수 이어 쓰기1](https://www.acmicpc.net/problem/1748)          | 🥈 실버 4  |             수학 , 구현              |[코드](baekjoon/silver4/1748.md)
 | 1759  |           [암호 만들기](https://www.acmicpc.net/problem/1759)           | 🥇 골드 5  |               백트래킹               |[코드](baekjoon/gold5/1759.md)
 | 1929  |           [소수 구하기](https://www.acmicpc.net/problem/1929)           | 🥈 실버 3  |            에라토스테네스의 체            |[코드](baekjoon/silver3/1929.md)
@@ -144,13 +146,14 @@
 |Lv.2| [디펜스 게임](https://programmers.co.kr/learn/courses/30/lessons/142085)           | 최소 힙                                                   | [코드](programmers/level02/디펜스게임.md)     |
 |Lv.3| [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)  | 문자열 슬라이스 인덱싱                                           | [코드](programmers/level03/긴팰린드롬.md)     |
 |Lv.3| [스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971) | DP                                                     | [코드](programmers/level03/스티커모으기.md)    |
-|Lv.3| [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/129388)    | 수학, 구현                                                 | [코드](programmers/level03/최고의집합.md)     |
+|Lv.3| [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)      | 딕셔너리 , sort , 람다 (내림차순, 오름차순)                          | [코드](programmers/level03/베스트앨범.md)     |
 |Lv.3| [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)    | 우선순위큐, heapq , remove, 예외처리                            | [코드](programmers/level03/이중우선순위큐.md)   |
 |Lv.3| [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)        | DP                                                     | [코드](programmers/level03/등굣길.md)       |
 |Lv.3| [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)     | DP                                                     | [코드](programmers/level03/정수삼각형.md)     |
 |Lv.3| [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)       | DFS , 플로이드 와샬                                          | [코드](programmers/level03/네트워크.md)      |
 |Lv.3| [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)       | DFS                                                    | [코드](programmers/level03/여행경로.md)      |
 |Lv.3| [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)     | BFS 응용                                                 | [코드](programmers/level03/아이템줍기.md)     |
+|Lv.3| [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/129388)    | 수학, 구현                                                 | [코드](programmers/level03/최고의집합.md)     |
 
 ## 🎃 LeetCode
 
