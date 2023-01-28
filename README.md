@@ -145,6 +145,7 @@
 |Lv.2| [귤 고르기](https://programmers.co.kr/learn/courses/30/lessons/138476)            | Counter , most_common()                                | [코드](programmers/level02/귤고르기.md)      |
 |Lv.2| [점 찍기](https://programmers.co.kr/learn/courses/30/lessons/140107)             | 원의 방정식, 피타고라스 정리                                       | [코드](programmers/level02/점찍기.md)       |
 |Lv.2| [디펜스 게임](https://programmers.co.kr/learn/courses/30/lessons/142085)           | 최소 힙                                                   | [코드](programmers/level02/디펜스게임.md)     |
+|Lv.2| [숫자 변환하기](https://programmers.co.kr/learn/courses/30/lessons/154538)          | BFS                                                    | [코드](programmers/level02/숫자변환하기.md)    |
 |Lv.3| [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)  | 문자열 슬라이스 인덱싱                                           | [코드](programmers/level03/긴팰린드롬.md)     |
 |Lv.3| [스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971) | DP                                                     | [코드](programmers/level03/스티커모으기.md)    |
 |Lv.3| [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)      | 딕셔너리 , sort , 람다 (내림차순, 오름차순)                          | [코드](programmers/level03/베스트앨범.md)     |
