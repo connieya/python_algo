@@ -1,29 +1,24 @@
-a,b,c = 10,20,30
+arr = [1,23,4,2,3,2,3,2,1]
 
-print(a,b,c)
-
-print(str(31)+str(9))
-
-print("319" >"331")
-
-arr = [1,32,223,113,3]
-
-res = "".join(map(str,arr))
-
-print(res)
+sz = len(arr)
+print(sz)
 
 
-arr2 = ["4","23","1333","87"]
 
-res = "".join(arr2)
-
-print(res)
+arr = arr[0:20] if sz > 20  else arr[0:sz]
+print(arr)
 
 
-A  = [2,4,0,5]
+d = {
+    "a" :15,
+    "b" : 122,
+    "c":23,
+    "d":101
+}
 
-print(A)
+d = dict(sorted(d.items(), key = lambda x: x[1] , reverse=True))
 
-A.pop(1)
+print(d)
 
-print(A ,A[0],A[1],A[2])
+for a in d[:1] :
+    print(a)
