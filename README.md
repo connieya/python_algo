@@ -124,7 +124,7 @@
 |Lv.1| [문자열 나누가](https://programmers.co.kr/learn/courses/30/lessons/140108)          | 구현 , deque 활용                                          | [코드](programmers/level01/문자열나누기.md)    |
 |Lv.1| [가장 가까운 같은 글자](https://programmers.co.kr/learn/courses/30/lessons/142086)     | 룩업 배열 , 딕셔너리                                           | [코드](programmers/level01/가장가까운글자.md)   |
 |Lv.1| [크기가 작은 부분 문자열](https://programmers.co.kr/learn/courses/30/lessons/147355)    | 이중 for 문 , 문자열 인덱싱                                     | [코드](programmers/level01/부분문자열.md)     |
-|Lv.1| [둘만의 암호](https://programmers.co.kr/learn/courses/30/lessons/155652)           |                                                        | [코드](programmers/level01/둘만의암호.md)      |
+|Lv.1| [둘만의 암호](https://programmers.co.kr/learn/courses/30/lessons/155652)           |    ascii_lower ,set() , pythonic                                                    | [코드](programmers/level01/둘만의암호.md)      |
 |Lv.2| [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)          | split , min , max                                      | [코드](programmers/level02/최대최소.md)      |
 |Lv.2| [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | split() , split(" ") 구분하기                              | [코드](programmers/level02/JadenCase.md) |
 |Lv.2| [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)                | deque ( maxlen) , LRU 알고리즘                             | [코드](programmers/level02/캐시.md)        |
