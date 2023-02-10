@@ -124,6 +124,7 @@
 |Lv.1| [문자열 나누가](https://programmers.co.kr/learn/courses/30/lessons/140108)          | 구현 , deque 활용                                          | [코드](programmers/level01/문자열나누기.md)    |
 |Lv.1| [가장 가까운 같은 글자](https://programmers.co.kr/learn/courses/30/lessons/142086)     | 룩업 배열 , 딕셔너리                                           | [코드](programmers/level01/가장가까운글자.md)   |
 |Lv.1| [크기가 작은 부분 문자열](https://programmers.co.kr/learn/courses/30/lessons/147355)    | 이중 for 문 , 문자열 인덱싱                                     | [코드](programmers/level01/부분문자열.md)     |
+|Lv.1| [개인정보 수집 유효기간](https://programmers.co.kr/learn/courses/30/lessons/150370)    | 문자열 구현                                    | [코드](programmers/level01/개인정보수집.md)     |
 |Lv.1| [둘만의 암호](https://programmers.co.kr/learn/courses/30/lessons/155652)           |    ascii_lower ,set() , pythonic                                                    | [코드](programmers/level01/둘만의암호.md)      |
 |Lv.2| [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)          | split , min , max                                      | [코드](programmers/level02/최대최소.md)      |
 |Lv.2| [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | split() , split(" ") 구분하기                              | [코드](programmers/level02/JadenCase.md) |
@@ -148,6 +149,7 @@
 |Lv.2| [디펜스 게임](https://programmers.co.kr/learn/courses/30/lessons/142085)           | 최소 힙                                                   | [코드](programmers/level02/디펜스게임.md)     |
 |Lv.2| [숫자 변환하기](https://programmers.co.kr/learn/courses/30/lessons/154538)          | BFS                                                    | [코드](programmers/level02/숫자변환하기.md)    |
 |Lv.2| [뒤에 있는 큰 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/154539)     | 스택                                                     | [코드](programmers/level02/뒤에큰수찾기.md)    |
+|Lv.2| [호텔 대실](https://programmers.co.kr/learn/courses/30/lessons/155651)     | 우선순위 큐 , 그리디                                                     | [코드](programmers/level02/호텔대실.md)    |
 |Lv.3| [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)  | 문자열 슬라이스 인덱싱                                           | [코드](programmers/level03/긴팰린드롬.md)     |
 |Lv.3| [스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971) | DP                                                     | [코드](programmers/level03/스티커모으기.md)    |
 |Lv.3| [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)      | 딕셔너리 , sort , 람다 (내림차순, 오름차순)                          | [코드](programmers/level03/베스트앨범.md)     |
