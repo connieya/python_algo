@@ -223,6 +223,14 @@
 | 937 |                                  [ Reorder Data in Log Files ](https://leetcode.com/problems/reorder-data-in-log-files/)                                  |   Medium   |                 람다 표현식                  | [Solution](leetcode/medium/937.md)
 | 973 |                                     [ K. Closet Points to Origin ](https://leetcode.com/problems/k-closet-to-origin/)                                     |   Medium   |        정렬 람다식 정의       , 우선순위 큐         | [Solution](leetcode/medium/973.md)
 
+## 🤡 SQL
+
+|레벨 | 문제 | 코멘트 |코드|
+|:-----|:----|:----|:-----
+|Lv.1| [ 특정 옵션이 포함된 자동차 리스트 ️](https://programmers.co.kr/learn/courses/30/lessons/157343) | like 키워드 , order by desc| [코드](SQL/lv_1/특정옵션.md) |
+|Lv.2| [ 자동차 평균 대여 기간 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/157342) |datediff 날짜 일수 구하기 , group by , having| [코드](SQL/lv_2/자동차평균대여.md) |
+|Lv.3| [ 대여 기록이 존재하는 자동차 리스트 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/157341) |inner join , distinct| [코드](SQL/lv_3/대여기록이존재하는.md) |
+
 ## ✍️문법 정리
 
 - [시간 복잡도](study/시간복잡도.md)
