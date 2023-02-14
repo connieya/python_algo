@@ -11,6 +11,7 @@
 | 1107  |            [리모컨](https://www.acmicpc.net/problem/1107)             | 🥇 골드 5  |              브루트포스               |[코드](baekjoon/gold5/1107.md)
 | 1110  |          [더하기 사이클](https://www.acmicpc.net/problem/1110)           | 🥉 브론즈 1 |              수학,구현               |[코드](baekjoon/bronze1/1110.md)
 | 1157  |           [단어 공부](https://www.acmicpc.net/problem/1157)            | 🥉 브론즈 1 | upper() , map(chr ,range(65,91 ) |[코드](baekjoon/bronze1/1157.md)
+| 1182  |           [부분집합의 합](https://www.acmicpc.net/problem/1182)            | 🥈 실버 2 | 비트마스킹 |[코드](baekjoon/silver2/1182.md)
 | 1264  |           [모음의 개수](https://www.acmicpc.net/problem/1264)           | 🥉 브론즈 4 |             input()              |[코드](baekjoon/bronze4/1264.md)
 | 1439  |            [뒤집기](https://www.acmicpc.net/problem/1439)             | 🥈 실버 5  |                구현                |[코드](baekjoon/silver5/1439.md)
 | 1476  |           [날짜 계산](https://www.acmicpc.net/problem/1476)            | 🥈 실버 5  |              브루트포스               |[코드](baekjoon/silver5/1476.md)
@@ -68,6 +69,7 @@
 |Lv.0| [두 수의 곱](https://programmers.co.kr/learn/courses/30/lessons/120804)           | 곱셈 연산                                                  | [코드](programmers/level00/두수의곱.md)      |
 |Lv.0| [몫 구하기](https://programmers.co.kr/learn/courses/30/lessons/120805)            | 몫 연산                                                   | [코드](programmers/level00/몫구하기.md)      |
 |Lv.0| [숫자 비교하기](https://programmers.co.kr/learn/courses/30/lessons/120807)          | 삼항 연산자                                                 | [코드](programmers/level00/숫자비교하기.md)    |
+|Lv.0| [분수의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/120808)       | 최대공약수 ,최소 공배수 , 유클리드 호제법                                            | [코드](programmers/level00/분수의덧셈.md)      |
 |Lv.0| [배열 두 배 만들기](https://programmers.co.kr/learn/courses/30/lessons/120809)       | for 문 탐색                                               | [코드](programmers/level00/배열두배.md)      |
 |Lv.0| [나머지 구하기](https://programmers.co.kr/learn/courses/30/lessons/120810)          | 나머지 연산                                                 | [코드](programmers/level00/나머지.md)       |
 |Lv.0| [피자 나눠먹기 (1)](https://programmers.co.kr/learn/courses/30/lessons/120814)      | 삼항 연산자 , ceil 쓰지 않고 수학적으로 접근                           | [코드](programmers/level00/피자나눠먹기.md)    |
@@ -80,7 +82,9 @@
 |Lv.0| [각도기](https://programmers.co.kr/learn/courses/30/lessons/120829)              | 조건문                                                    | [코드](programmers/level00/각도기.md)       |
 |Lv.0| [양꼬치](https://programmers.co.kr/learn/courses/30/lessons/120830)              | 수학                                                     | [코드](programmers/level00/양꼬치.md)       |
 |Lv.0| [짝수의합](https://programmers.co.kr/learn/courses/30/lessons/120831)             | for 문 , sum 함수                                         | [코드](programmers/level00/짝수의합.md)      |
+|Lv.0| [순서쌍의 개수](https://programmers.co.kr/learn/courses/30/lessons/120836)             |filter                                        | [코드](programmers/level00/순서쌍의개수.md)      |
 |Lv.0| [점의 위치 구하기](https://programmers.co.kr/learn/courses/30/lessons/120841)        | 조건문                                                    | [코드](programmers/level00/점의위치.md)      |
+|Lv.0| [다항식 더하기](https://programmers.co.kr/learn/courses/30/lessons/120863)        | 삼항 연산자                                                | [코드](programmers/level00/다항식.md)      |
 |Lv.0| [안전지대](https://programmers.co.kr/learn/courses/30/lessons/120866)             | 반복문                                                    | [코드](programmers/level00/안전지대.md)      |
 |Lv.0| [평행](https://programmers.co.kr/learn/courses/30/lessons/120875)               | 직선의 기울기 , 반복문                                          | [코드](programmers/level00/평행.md)        |
 |Lv.0| [겹치는 선분의 길이](https://programmers.co.kr/learn/courses/30/lessons/120876)       | 겹치는 선 배열로 체크                                           | [코드](programmers/level00/겹치는선분의길이.md)  |
@@ -130,6 +134,7 @@
 |Lv.2| [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | split() , split(" ") 구분하기                              | [코드](programmers/level02/JadenCase.md) |
 |Lv.2| [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)                | deque ( maxlen) , LRU 알고리즘                             | [코드](programmers/level02/캐시.md)        |
 |Lv.2| [n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)            | 수학, 구현                                                 | [코드](programmers/level02/n진수.md)       |
+|Lv.2| [타켓 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)              | global 키워드 , DFS  , itertools product      | [코드](programmers/level02/타켓넘버.md)      |
 |Lv.2| [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)              | 구현 다양한 풀이 , ord , 슬라이싱 , for-else ... etc              | [코드](programmers/level02/스킬트리.md)      |
 |Lv.2| [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)                | rstrip(),lstrip(), sort 조건 ,람다                         | [코드](programmers/level02/튜플.md)        |
 |Lv.2| [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)           | 스택, deque , 인덱스 슬라이싱                                   | [코드](programmers/level02/괄호회전.md)      |
@@ -229,6 +234,7 @@
 |:-----|:----|:----|:-----
 |Lv.1| [ 특정 옵션이 포함된 자동차 리스트 ️](https://programmers.co.kr/learn/courses/30/lessons/157343) | like 키워드 , order by desc| [코드](SQL/lv_1/특정옵션.md) |
 |Lv.2| [ 자동차 평균 대여 기간 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/157342) |datediff 날짜 일수 구하기 , group by , having| [코드](SQL/lv_2/자동차평균대여.md) |
+|Lv.3| [ 자동차 대여 기록에서 대여중/ 대여 가능 여부 구분하기 ️](https://programmers.co.kr/learn/courses/30/lessons/157340) |서브쿼리 , case when| [코드](SQL/lv_3/대여중.md) |
 |Lv.3| [ 대여 기록이 존재하는 자동차 리스트 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/157341) |inner join , distinct| [코드](SQL/lv_3/대여기록이존재하는.md) |
 
 ## ✍️문법 정리
