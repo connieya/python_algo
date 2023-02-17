@@ -72,6 +72,7 @@
 |Lv.0| [분수의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/120808)       | 최대공약수 ,최소 공배수 , 유클리드 호제법                                            | [코드](programmers/level00/분수의덧셈.md)      |
 |Lv.0| [배열 두 배 만들기](https://programmers.co.kr/learn/courses/30/lessons/120809)       | for 문 탐색                                               | [코드](programmers/level00/배열두배.md)      |
 |Lv.0| [나머지 구하기](https://programmers.co.kr/learn/courses/30/lessons/120810)          | 나머지 연산                                                 | [코드](programmers/level00/나머지.md)       |
+|Lv.0| [최빈값 구하기](https://programmers.co.kr/learn/courses/30/lessons/120812)             | remove , set                                                   | [코드](programmers/level00/최빈값.md)      |
 |Lv.0| [피자 나눠먹기 (1)](https://programmers.co.kr/learn/courses/30/lessons/120814)      | 삼항 연산자 , ceil 쓰지 않고 수학적으로 접근                           | [코드](programmers/level00/피자나눠먹기.md)    |
 |Lv.0| [배열의 평균 값](https://programmers.co.kr/learn/courses/30/lessons/120817)         | sum , len 함수                                           | [코드](programmers/level00/배열의평균값.md)    |
 |Lv.0| [아이스 아메리카노](https://programmers.co.kr/learn/courses/30/lessons/120819)        | 몫 ,나미저 연산                                              | [코드](programmers/level00/아이스아메리카노.md)  |
@@ -91,6 +92,7 @@
 |Lv.0| [편지](https://programmers.co.kr/learn/courses/30/lessons/120898)               | 문자열의 길이                                                | [코드](programmers/level00/편지.md)        |
 |Lv.0| [n의 배수 구하기](https://programmers.co.kr/learn/courses/30/lessons/120905)        | list , 조건문                                             | [코드](programmers/level00/배수고르기.md)     |
 |Lv.0| [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/120906)          | 나머지 연산                                                 | [코드](programmers/level00/자릿수더하기.md)    |
+|Lv.0| [OX퀴즈](https://programmers.co.kr/learn/courses/30/lessons/120907)          | eval , split()                                                | [코드](programmers/level00/OX퀴즈.md)    |
 |Lv.0| [문자열 안에 문자열](https://programmers.co.kr/learn/courses/30/lessons/120908)       | count , in , 삼항 연산자                                    | [코드](programmers/level00/문자열안에문자열.md)  |
 |Lv.0| [제곱 수 판별하기](https://programmers.co.kr/learn/courses/30/lessons/120909)        | math.sqrt                                              | [코드](programmers/level00/제곱수판별.md)     |
 |Lv.0| [7의 개수 ](https://programmers.co.kr/learn/courses/30/lessons/120912)           | 구현                                                     | [코드](programmers/level00/7의개수.md)      |
@@ -130,6 +132,7 @@
 |Lv.1| [크기가 작은 부분 문자열](https://programmers.co.kr/learn/courses/30/lessons/147355)    | 이중 for 문 , 문자열 인덱싱                                     | [코드](programmers/level01/부분문자열.md)     |
 |Lv.1| [개인정보 수집 유효기간](https://programmers.co.kr/learn/courses/30/lessons/150370)    | 문자열 구현                                    | [코드](programmers/level01/개인정보수집.md)     |
 |Lv.1| [둘만의 암호](https://programmers.co.kr/learn/courses/30/lessons/155652)           |    ascii_lower ,set() , pythonic                                                    | [코드](programmers/level01/둘만의암호.md)      |
+|Lv.1| [카드 뭉치](https://programmers.co.kr/learn/courses/30/lessons/159994)    | pop()                                  | [코드](programmers/level01/카드뭉치.md)     |
 |Lv.2| [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)          | split , min , max                                      | [코드](programmers/level02/최대최소.md)      |
 |Lv.2| [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | split() , split(" ") 구분하기                              | [코드](programmers/level02/JadenCase.md) |
 |Lv.2| [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)                | deque ( maxlen) , LRU 알고리즘                             | [코드](programmers/level02/캐시.md)        |
@@ -233,6 +236,8 @@
 |레벨 | 문제 | 코멘트 |코드|
 |:-----|:----|:----|:-----
 |Lv.1| [ 특정 옵션이 포함된 자동차 리스트 ️](https://programmers.co.kr/learn/courses/30/lessons/157343) | like 키워드 , order by desc| [코드](SQL/lv_1/특정옵션.md) |
+|Lv.1| [ 강원도에 위치한 생산공장 목록 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131112) |  | [코드](SQL/lv_1/강원도.md) |
+|Lv.1| [ 나이 정보가 없는 회원 수 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131528) |  | [코드](SQL/lv_1/나이정보.md) |
 |Lv.2| [ 자동차 평균 대여 기간 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/157342) |datediff 날짜 일수 구하기 , group by , having| [코드](SQL/lv_2/자동차평균대여.md) |
 |Lv.3| [ 자동차 대여 기록에서 대여중/ 대여 가능 여부 구분하기 ️](https://programmers.co.kr/learn/courses/30/lessons/157340) |서브쿼리 , case when| [코드](SQL/lv_3/대여중.md) |
 |Lv.3| [ 대여 기록이 존재하는 자동차 리스트 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/157341) |inner join , distinct| [코드](SQL/lv_3/대여기록이존재하는.md) |
