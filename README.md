@@ -87,8 +87,11 @@
 |Lv.0| [점의 위치 구하기](https://programmers.co.kr/learn/courses/30/lessons/120841)        | 조건문                                                    | [코드](programmers/level00/점의위치.md)      |
 |Lv.0| [다항식 더하기](https://programmers.co.kr/learn/courses/30/lessons/120863)        | 삼항 연산자                                                | [코드](programmers/level00/다항식.md)      |
 |Lv.0| [안전지대](https://programmers.co.kr/learn/courses/30/lessons/120866)             | 반복문                                                    | [코드](programmers/level00/안전지대.md)      |
+|Lv.0| [저주의 숫자 3 ](https://programmers.co.kr/learn/courses/30/lessons/120871)        | str()                                                     | [코드](programmers/level00/저주의숫자3.md)    |
 |Lv.0| [평행](https://programmers.co.kr/learn/courses/30/lessons/120875)               | 직선의 기울기 , 반복문                                          | [코드](programmers/level00/평행.md)        |
 |Lv.0| [겹치는 선분의 길이](https://programmers.co.kr/learn/courses/30/lessons/120876)       | 겹치는 선 배열로 체크                                           | [코드](programmers/level00/겹치는선분의길이.md)  |
+|Lv.0| [특이한 정렬](https://programmers.co.kr/learn/courses/30/lessons/120880)           | 람다 정렬 조건 2                                    | [코드](programmers/level00/특이한정렬.md)       |
+|Lv.0| [등수 매기기](https://programmers.co.kr/learn/courses/30/lessons/120882)        | sort  ,dictionary                                              | [코드](programmers/level00/등수매기기.md)      |
 |Lv.0| [편지](https://programmers.co.kr/learn/courses/30/lessons/120898)               | 문자열의 길이                                                | [코드](programmers/level00/편지.md)        |
 |Lv.0| [n의 배수 구하기](https://programmers.co.kr/learn/courses/30/lessons/120905)        | list , 조건문                                             | [코드](programmers/level00/배수고르기.md)     |
 |Lv.0| [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/120906)          | 나머지 연산                                                 | [코드](programmers/level00/자릿수더하기.md)    |
@@ -169,6 +172,7 @@
 |Lv.3| [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)       | DFS                                                    | [코드](programmers/level03/여행경로.md)      |
 |Lv.3| [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)     | BFS 응용                                                 | [코드](programmers/level03/아이템줍기.md)     |
 |Lv.3| [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/129388)    | 수학, 구현                                                 | [코드](programmers/level03/최고의집합.md)     |
+|Lv.?| [체육대회](https://school.programmers.co.kr/learn/courses/30/lessons/121684)    | DFS , 백트래킹 , permutations , enumerate                                               | [코드](programmers/level_기타/체육대회.md)     |
 
 ## 🎃 LeetCode
 
@@ -236,9 +240,11 @@
 |레벨 | 문제 | 코멘트 |코드|
 |:-----|:----|:----|:-----
 |Lv.1| [ 특정 옵션이 포함된 자동차 리스트 ️](https://programmers.co.kr/learn/courses/30/lessons/157343) | like 키워드 , order by desc| [코드](SQL/lv_1/특정옵션.md) |
-|Lv.1| [ 강원도에 위치한 생산공장 목록 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131112) |  | [코드](SQL/lv_1/강원도.md) |
-|Lv.1| [ 나이 정보가 없는 회원 수 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131528) |  | [코드](SQL/lv_1/나이정보.md) |
-|Lv.2| [ 자동차 평균 대여 기간 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/157342) |datediff 날짜 일수 구하기 , group by , having| [코드](SQL/lv_2/자동차평균대여.md) |
+|Lv.1| [ 강원도에 위치한 생산공장 목록 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131112) | like 패턴 매칭 | [코드](SQL/lv_1/강원도.md) |
+|Lv.1| [ 경기도에 위치한 식품창고 목록 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131114) | case when , coalesce() 함수  | [코드](SQL/lv_1/경기도에위치한.md) |
+|Lv.1| [ 나이 정보가 없는 회원 수 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131528) | is not null | [코드](SQL/lv_1/나이정보.md) |
+|Lv.2| [ 자동차 평균 대여 기간 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/157342) |datediff 날짜 일수 구하기 , group by , having ,round| [코드](SQL/lv_2/자동차평균대여.md) |
+|Lv.3| [ 조건별로 분류하여 주문상태 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131113) |date_format , case when| [코드](SQL/lv_3/조건별로주문상태.md) |
 |Lv.3| [ 자동차 대여 기록에서 대여중/ 대여 가능 여부 구분하기 ️](https://programmers.co.kr/learn/courses/30/lessons/157340) |서브쿼리 , case when| [코드](SQL/lv_3/대여중.md) |
 |Lv.3| [ 대여 기록이 존재하는 자동차 리스트 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/157341) |inner join , distinct| [코드](SQL/lv_3/대여기록이존재하는.md) |
 
