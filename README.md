@@ -68,6 +68,7 @@
 |Lv.0| [두 수의 합](https://programmers.co.kr/learn/courses/30/lessons/120802)           | 덧셈 연산                                                  | [코드](programmers/level00/두수의합.md)      |
 |Lv.0| [두 수의 곱](https://programmers.co.kr/learn/courses/30/lessons/120804)           | 곱셈 연산                                                  | [코드](programmers/level00/두수의곱.md)      |
 |Lv.0| [몫 구하기](https://programmers.co.kr/learn/courses/30/lessons/120805)            | 몫 연산                                                   | [코드](programmers/level00/몫구하기.md)      |
+|Lv.0| [두 수의 나눗셈](https://programmers.co.kr/learn/courses/30/lessons/120806)           | 사칙 연산                                                | [코드](programmers/level00/두수의나눗셈.md)      |
 |Lv.0| [숫자 비교하기](https://programmers.co.kr/learn/courses/30/lessons/120807)          | 삼항 연산자                                                 | [코드](programmers/level00/숫자비교하기.md)    |
 |Lv.0| [분수의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/120808)       | 최대공약수 ,최소 공배수 , 유클리드 호제법                                            | [코드](programmers/level00/분수의덧셈.md)      |
 |Lv.0| [배열 두 배 만들기](https://programmers.co.kr/learn/courses/30/lessons/120809)       | for 문 탐색                                               | [코드](programmers/level00/배열두배.md)      |
@@ -80,6 +81,7 @@
 |Lv.0| [배열 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/120821)           | [::-1] ,list(reversed(str) , append & pop , .reverse() | [코드](programmers/level00/배열뒤집기.md)     |
 |Lv.0| [문자열 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/120822)          | [::-1]  , join(list(reversed(str))                     | [코드](programmers/level00/문자열뒤집기.md)    |
 |Lv.0| [짝수 홀수 개수](https://programmers.co.kr/learn/courses/30/lessons/120824)         | 짝수 홀수 개수                                               | [코드](programmers/level00/짝수홀수.md)      |
+|Lv.0| [특정 문자 제거하기](https://programmers.co.kr/learn/courses/30/lessons/120826)          | replace                                               | [코드](programmers/level00/특정문자제거하기.md)    |
 |Lv.0| [각도기](https://programmers.co.kr/learn/courses/30/lessons/120829)              | 조건문                                                    | [코드](programmers/level00/각도기.md)       |
 |Lv.0| [양꼬치](https://programmers.co.kr/learn/courses/30/lessons/120830)              | 수학                                                     | [코드](programmers/level00/양꼬치.md)       |
 |Lv.0| [짝수의합](https://programmers.co.kr/learn/courses/30/lessons/120831)             | for 문 , sum 함수                                         | [코드](programmers/level00/짝수의합.md)      |
@@ -90,6 +92,7 @@
 |Lv.0| [저주의 숫자 3 ](https://programmers.co.kr/learn/courses/30/lessons/120871)        | str()                                                     | [코드](programmers/level00/저주의숫자3.md)    |
 |Lv.0| [평행](https://programmers.co.kr/learn/courses/30/lessons/120875)               | 직선의 기울기 , 반복문                                          | [코드](programmers/level00/평행.md)        |
 |Lv.0| [겹치는 선분의 길이](https://programmers.co.kr/learn/courses/30/lessons/120876)       | 겹치는 선 배열로 체크                                           | [코드](programmers/level00/겹치는선분의길이.md)  |
+|Lv.0| [유한소수 판별하기](https://programmers.co.kr/learn/courses/30/lessons/120878)             | 최대공약수, 소인수                                                   | [코드](programmers/level00/유한소수판별.md)      |
 |Lv.0| [특이한 정렬](https://programmers.co.kr/learn/courses/30/lessons/120880)           | 람다 정렬 조건 2                                    | [코드](programmers/level00/특이한정렬.md)       |
 |Lv.0| [등수 매기기](https://programmers.co.kr/learn/courses/30/lessons/120882)        | sort  ,dictionary                                              | [코드](programmers/level00/등수매기기.md)      |
 |Lv.0| [편지](https://programmers.co.kr/learn/courses/30/lessons/120898)               | 문자열의 길이                                                | [코드](programmers/level00/편지.md)        |
