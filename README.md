@@ -166,6 +166,7 @@
 |Lv.2| [귤 고르기](https://programmers.co.kr/learn/courses/30/lessons/138476)            | Counter , most_common()                                | [코드](programmers/level02/귤고르기.md)      |
 |Lv.2| [점 찍기](https://programmers.co.kr/learn/courses/30/lessons/140107)             | 원의 방정식, 피타고라스 정리                                       | [코드](programmers/level02/점찍기.md)       |
 |Lv.2| [디펜스 게임](https://programmers.co.kr/learn/courses/30/lessons/142085)           | 최소 힙                                                   | [코드](programmers/level02/디펜스게임.md)     |
+|Lv.2| [마법의 엘리베이터](https://programmers.co.kr/learn/courses/30/lessons/148653)   | 백트래킹 ,재귀                                       | [코드](programmers/level02/마법의엘리베이터.md)       |
 |Lv.2| [숫자 변환하기](https://programmers.co.kr/learn/courses/30/lessons/154538)          | BFS                                                    | [코드](programmers/level02/숫자변환하기.md)    |
 |Lv.2| [뒤에 있는 큰 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/154539)     | 스택                                                     | [코드](programmers/level02/뒤에큰수찾기.md)    |
 |Lv.2| [무인도 여행](https://programmers.co.kr/learn/courses/30/lessons/154540)     | deque , BFS                                                   | [코드](programmers/level02/무인도여행.md)    |
