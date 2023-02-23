@@ -89,6 +89,7 @@
 |Lv.0| [순서쌍의 개수](https://programmers.co.kr/learn/courses/30/lessons/120836)             |filter                                        | [코드](programmers/level00/순서쌍의개수.md)      |
 |Lv.0| [점의 위치 구하기](https://programmers.co.kr/learn/courses/30/lessons/120841)        | 조건문                                                    | [코드](programmers/level00/점의위치.md)      |
 |Lv.0| [직사각형 넓이 구하기 ](https://programmers.co.kr/learn/courses/30/lessons/120860)         | 수학                                       | [코드](programmers/level00/직사각형넓이.md)    |
+|Lv.0| [캐릭터의 좌표](https://programmers.co.kr/learn/courses/30/lessons/120861)           | dict ,dx,dy                                 | [코드](programmers/level00/캐릭터의좌표.md)       |
 |Lv.0| [다항식 더하기](https://programmers.co.kr/learn/courses/30/lessons/120863)        | 삼항 연산자                                                | [코드](programmers/level00/다항식.md)      |
 |Lv.0| [안전지대](https://programmers.co.kr/learn/courses/30/lessons/120866)             | 반복문                                                    | [코드](programmers/level00/안전지대.md)      |
 |Lv.0| [저주의 숫자 3 ](https://programmers.co.kr/learn/courses/30/lessons/120871)        | str()                                                     | [코드](programmers/level00/저주의숫자3.md)    |
@@ -255,8 +256,10 @@
 |Lv.1| [ 평균 일일 대여 요금 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/151136) | round , avg  | [코드](SQL/lv_1/일일대여.md) |
 |Lv.2| [ 가격이 제일 비싼 식품의 정보 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131115) | set 변수 , max , subquery| [코드](SQL/lv_2/가격이제일비싼.md) |
 |Lv.2| [ 카테고리 별 상품 개수 구하기️](https://programmers.co.kr/learn/courses/30/lessons/131529) | substr() , left() | [코드](SQL/lv_2/카테고리별.md) |
+|Lv.2| [ 조건에 맞는 도서와 저자 리스트 출력하기️](https://programmers.co.kr/learn/courses/30/lessons/144854) | inner join | [코드](SQL/lv_2/조건에맞는도서..md) |
 |Lv.2| [ 자동차 평균 대여 기간 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/157342) |datediff 날짜 일수 구하기 , group by , having ,round| [코드](SQL/lv_2/자동차평균대여.md) |
 |Lv.3| [ 조건별로 분류하여 주문상태 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131113) |date_format , case when| [코드](SQL/lv_3/조건별로주문상태.md) |
+|Lv.3| [ 카테고리 별 도서 판매량 집계하기 ️](https://programmers.co.kr/learn/courses/30/lessons/144855) |inner join , group by , date_format| [코드](SQL/lv_3/카테고리별.md) |
 |Lv.3| [ 자동차 대여 기록에서 대여중/ 대여 가능 여부 구분하기 ️](https://programmers.co.kr/learn/courses/30/lessons/157340) |서브쿼리 , case when| [코드](SQL/lv_3/대여중.md) |
 |Lv.3| [ 대여 기록이 존재하는 자동차 리스트 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/157341) |inner join , distinct| [코드](SQL/lv_3/대여기록이존재하는.md) |
 |Lv.4| [ 식품 분류별 가장 비싼 식품의 정보 조회하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131116) |self inner join , group by , in , max| [코드](SQL/lv_4/식품분류별.md) |
