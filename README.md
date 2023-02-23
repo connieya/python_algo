@@ -251,6 +251,7 @@
 |Lv.1| [ 강원도에 위치한 생산공장 목록 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131112) | like 패턴 매칭 | [코드](SQL/lv_1/강원도.md) |
 |Lv.1| [ 경기도에 위치한 식품창고 목록 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131114) | case when , coalesce() 함수  | [코드](SQL/lv_1/경기도에위치한.md) |
 |Lv.1| [ 나이 정보가 없는 회원 수 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131528) | is not null | [코드](SQL/lv_1/나이정보.md) |
+|Lv.1| [ 평균 일일 대여 요금 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/151136) | round , avg  | [코드](SQL/lv_1/일일대여.md) |
 |Lv.2| [ 가격이 제일 비싼 식품의 정보 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131115) | set 변수 , max , subquery| [코드](SQL/lv_2/가격이제일비싼.md) |
 |Lv.2| [ 카테고리 별 상품 개수 구하기️](https://programmers.co.kr/learn/courses/30/lessons/131529) | substr() , left() | [코드](SQL/lv_2/카테고리별.md) |
 |Lv.2| [ 자동차 평균 대여 기간 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/157342) |datediff 날짜 일수 구하기 , group by , having ,round| [코드](SQL/lv_2/자동차평균대여.md) |
@@ -259,6 +260,7 @@
 |Lv.3| [ 대여 기록이 존재하는 자동차 리스트 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/157341) |inner join , distinct| [코드](SQL/lv_3/대여기록이존재하는.md) |
 |Lv.4| [ 식품 분류별 가장 비싼 식품의 정보 조회하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131116) |self inner join , group by , in , max| [코드](SQL/lv_4/식품분류별.md) |
 |Lv.4| [ 자동차 대여 기록 별 대여 금액 구하기️](https://programmers.co.kr/learn/courses/30/lessons/151141) |Round , inner join , case when , order by| [코드](SQL/lv_4/자동차대여.md) |
+|Lv.4| [ 특정 기간동안 대여 가능한 자동차들의 대여비용 구하기️](https://programmers.co.kr/learn/courses/30/lessons/157339) |Round , inner join 3개 테이블| [코드](SQL/lv_4/특정기간동안.md) |
 
 ## ✍️문법 정리
 
