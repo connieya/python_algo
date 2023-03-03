@@ -144,6 +144,7 @@
 |Lv.1| [둘만의 암호](https://programmers.co.kr/learn/courses/30/lessons/155652)           |    ascii_lower ,set() , pythonic                                                    | [코드](programmers/level01/둘만의암호.md)      |
 |Lv.1| [카드 뭉치](https://programmers.co.kr/learn/courses/30/lessons/159994)    | pop()                                  | [코드](programmers/level01/카드뭉치.md)     |
 |Lv.1| [대충 만든 자판](https://programmers.co.kr/learn/courses/30/lessons/160586)              | for문,  find()                                       | [코드](programmers/level01/대충만든자판.md)       |
+|Lv.1| [바탕화면 정리](https://programmers.co.kr/learn/courses/30/lessons/161990)              | 구현                                     | [코드](programmers/level01/바탕화면정리.md)       |
 |Lv.2| [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)          | split , min , max                                      | [코드](programmers/level02/최대최소.md)      |
 |Lv.2| [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | split() , split(" ") 구분하기                              | [코드](programmers/level02/JadenCase.md) |
 |Lv.2| [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)                | deque ( maxlen) , LRU 알고리즘                             | [코드](programmers/level02/캐시.md)        |
@@ -173,6 +174,7 @@
 |Lv.2| [뒤에 있는 큰 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/154539)     | 스택                                                     | [코드](programmers/level02/뒤에큰수찾기.md)    |
 |Lv.2| [무인도 여행](https://programmers.co.kr/learn/courses/30/lessons/154540)     | deque , BFS                                                   | [코드](programmers/level02/무인도여행.md)    |
 |Lv.2| [호텔 대실](https://programmers.co.kr/learn/courses/30/lessons/155651)     | 우선순위 큐 , 그리디                                                     | [코드](programmers/level02/호텔대실.md)    |
+|Lv.2| [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)  | 그리드                                      | [코드](programmers/level02/덧칠하기.md)     |
 |Lv.3| [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)  | 문자열 슬라이스 인덱싱                                           | [코드](programmers/level03/긴팰린드롬.md)     |
 |Lv.3| [스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971) | DP                                                     | [코드](programmers/level03/스티커모으기.md)    |
 |Lv.3| [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)      | 딕셔너리 , sort , 람다 (내림차순, 오름차순)                          | [코드](programmers/level03/베스트앨범.md)     |
