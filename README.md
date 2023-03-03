@@ -254,9 +254,11 @@
 |Lv.1| [ 강원도에 위치한 생산공장 목록 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131112) | like 패턴 매칭 | [코드](SQL/lv_1/강원도.md) |
 |Lv.1| [ 경기도에 위치한 식품창고 목록 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131114) | case when , coalesce() 함수  | [코드](SQL/lv_1/경기도에위치한.md) |
 |Lv.1| [ 나이 정보가 없는 회원 수 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131528) | is not null | [코드](SQL/lv_1/나이정보.md) |
+|Lv.1| [ 12세 이하인 여자 환자 목록 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/132201) | coalesce , order by   | [코드](SQL/lv_1/12세이하.md) |
 |Lv.1| [ 평균 일일 대여 요금 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/151136) | round , avg  | [코드](SQL/lv_1/일일대여.md) |
 |Lv.2| [ 가격이 제일 비싼 식품의 정보 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131115) | set 변수 , max , subquery| [코드](SQL/lv_2/가격이제일비싼.md) |
 |Lv.2| [ 카테고리 별 상품 개수 구하기️](https://programmers.co.kr/learn/courses/30/lessons/131529) | substr() , left() | [코드](SQL/lv_2/카테고리별.md) |
+|Lv.2| [ 상품 별 오프라인 매출 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131533) |order by , grouo by  [코드](SQL/lv_2/상품별.md) |
 |Lv.2| [ 조건에 맞는 도서와 저자 리스트 출력하기️](https://programmers.co.kr/learn/courses/30/lessons/144854) | inner join | [코드](SQL/lv_2/조건에맞는도서..md) |
 |Lv.2| [ 자동차 평균 대여 기간 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/157342) |datediff 날짜 일수 구하기 , group by , having ,round| [코드](SQL/lv_2/자동차평균대여.md) |
 |Lv.3| [ 조건별로 분류하여 주문상태 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131113) |date_format , case when| [코드](SQL/lv_3/조건별로주문상태.md) |
