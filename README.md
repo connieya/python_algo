@@ -260,10 +260,12 @@
 |Lv.1| [ 평균 일일 대여 요금 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/151136) | round , avg  | [코드](SQL/lv_1/일일대여.md) |
 |Lv.2| [ 가격이 제일 비싼 식품의 정보 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131115) | set 변수 , max , subquery| [코드](SQL/lv_2/가격이제일비싼.md) |
 |Lv.2| [ 카테고리 별 상품 개수 구하기️](https://programmers.co.kr/learn/courses/30/lessons/131529) | substr() , left() | [코드](SQL/lv_2/카테고리별.md) |
+|Lv.2| [ 가격대 별 상품 개수 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131530) |truncate | [코드](SQL/lv_2/가격대별.md) |
 |Lv.2| [ 상품 별 오프라인 매출 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131533) |order by , grouo by  [코드](SQL/lv_2/상품별.md) |
 |Lv.2| [ 조건에 맞는 도서와 저자 리스트 출력하기️](https://programmers.co.kr/learn/courses/30/lessons/144854) | inner join | [코드](SQL/lv_2/조건에맞는도서..md) |
 |Lv.2| [ 자동차 평균 대여 기간 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/157342) |datediff 날짜 일수 구하기 , group by , having ,round| [코드](SQL/lv_2/자동차평균대여.md) |
 |Lv.3| [ 조건별로 분류하여 주문상태 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131113) |date_format , case when| [코드](SQL/lv_3/조건별로주문상태.md) |
+|Lv.3| [ 즐겨찾기가 가장 많은 식당 정보 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131123) |inner join , group by 주의하기 !!| [코드](SQL/lv_3/즐겨찾기.md) |
 |Lv.3| [ 카테고리 별 도서 판매량 집계하기 ️](https://programmers.co.kr/learn/courses/30/lessons/144855) |inner join , group by , date_format| [코드](SQL/lv_3/카테고리별.md) |
 |Lv.3| [ 대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/151139) |between , month , group by| [코드](SQL/lv_3/대여횟수.md) |
 |Lv.3| [ 자동차 대여 기록에서 대여중/ 대여 가능 여부 구분하기 ️](https://programmers.co.kr/learn/courses/30/lessons/157340) |서브쿼리 , case when| [코드](SQL/lv_3/대여중.md) |
