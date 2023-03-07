@@ -170,11 +170,13 @@
 |Lv.2| [점 찍기](https://programmers.co.kr/learn/courses/30/lessons/140107)             | 원의 방정식, 피타고라스 정리                                       | [코드](programmers/level02/점찍기.md)       |
 |Lv.2| [디펜스 게임](https://programmers.co.kr/learn/courses/30/lessons/142085)           | 최소 힙                                                   | [코드](programmers/level02/디펜스게임.md)     |
 |Lv.2| [마법의 엘리베이터](https://programmers.co.kr/learn/courses/30/lessons/148653)   | 백트래킹 ,재귀                                       | [코드](programmers/level02/마법의엘리베이터.md)       |
+|Lv.2| [택배 배달과 수거하기](https://programmers.co.kr/learn/courses/30/lessons/150369)            | 그리디                                        | [코드](programmers/level02/택배배달.md)      |
 |Lv.2| [숫자 변환하기](https://programmers.co.kr/learn/courses/30/lessons/154538)          | BFS                                                    | [코드](programmers/level02/숫자변환하기.md)    |
 |Lv.2| [뒤에 있는 큰 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/154539)     | 스택                                                     | [코드](programmers/level02/뒤에큰수찾기.md)    |
 |Lv.2| [무인도 여행](https://programmers.co.kr/learn/courses/30/lessons/154540)     | deque , BFS                                                   | [코드](programmers/level02/무인도여행.md)    |
 |Lv.2| [호텔 대실](https://programmers.co.kr/learn/courses/30/lessons/155651)     | 우선순위 큐 , 그리디                                                     | [코드](programmers/level02/호텔대실.md)    |
-|Lv.2| [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)  | 그리드                                      | [코드](programmers/level02/덧칠하기.md)     |
+|Lv.2| [미로 탈출](https://programmers.co.kr/learn/courses/30/lessons/159993)            | BFS 두번                                        | [코드](programmers/level02/미로탈출.md)      |
+|Lv.2| [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)  | 그리디                                      | [코드](programmers/level02/덧칠하기.md)     |
 |Lv.3| [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)  | 문자열 슬라이스 인덱싱                                           | [코드](programmers/level03/긴팰린드롬.md)     |
 |Lv.3| [스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971) | DP                                                     | [코드](programmers/level03/스티커모으기.md)    |
 |Lv.3| [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)      | 딕셔너리 , sort , 람다 (내림차순, 오름차순)                          | [코드](programmers/level03/베스트앨범.md)     |
@@ -183,6 +185,7 @@
 |Lv.3| [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)     | DP                                                     | [코드](programmers/level03/정수삼각형.md)     |
 |Lv.3| [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)       | DFS , 플로이드 와샬                                          | [코드](programmers/level03/네트워크.md)      |
 |Lv.3| [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)       | DFS                                                    | [코드](programmers/level03/여행경로.md)      |
+|Lv.3| [모두 0으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/76503)    | global , sys.setrecursionlimit 재귀 깊이 , 위상 정렬                                               | [코드](programmers/level03/모두0으로만들기.md)     |
 |Lv.3| [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)     | BFS 응용                                                 | [코드](programmers/level03/아이템줍기.md)     |
 |Lv.3| [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/129388)    | 수학, 구현                                                 | [코드](programmers/level03/최고의집합.md)     |
 |Lv.?| [체육대회](https://school.programmers.co.kr/learn/courses/30/lessons/121684)    | DFS , 백트래킹 , permutations , enumerate                                               | [코드](programmers/level_기타/체육대회.md)     |
@@ -262,6 +265,7 @@
 |Lv.2| [ 카테고리 별 상품 개수 구하기️](https://programmers.co.kr/learn/courses/30/lessons/131529) | substr() , left() | [코드](SQL/lv_2/카테고리별.md) |
 |Lv.2| [ 가격대 별 상품 개수 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131530) |truncate | [코드](SQL/lv_2/가격대별.md) |
 |Lv.2| [ 상품 별 오프라인 매출 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131533) |order by , grouo by  [코드](SQL/lv_2/상품별.md) |
+|Lv.2| [ 3월에  태어난 여성 회원 목록 출력하기️](https://programmers.co.kr/learn/courses/30/lessons/131120) |Month , date_format| [코드](SQL/lv_2/3월에.md) |
 |Lv.2| [ 조건에 맞는 도서와 저자 리스트 출력하기️](https://programmers.co.kr/learn/courses/30/lessons/144854) | inner join | [코드](SQL/lv_2/조건에맞는도서..md) |
 |Lv.2| [ 자동차 평균 대여 기간 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/157342) |datediff 날짜 일수 구하기 , group by , having ,round| [코드](SQL/lv_2/자동차평균대여.md) |
 |Lv.3| [ 조건별로 분류하여 주문상태 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131113) |date_format , case when| [코드](SQL/lv_3/조건별로주문상태.md) |
@@ -270,6 +274,7 @@
 |Lv.3| [ 대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/151139) |between , month , group by| [코드](SQL/lv_3/대여횟수.md) |
 |Lv.3| [ 자동차 대여 기록에서 대여중/ 대여 가능 여부 구분하기 ️](https://programmers.co.kr/learn/courses/30/lessons/157340) |서브쿼리 , case when| [코드](SQL/lv_3/대여중.md) |
 |Lv.3| [ 대여 기록이 존재하는 자동차 리스트 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/157341) |inner join , distinct| [코드](SQL/lv_3/대여기록이존재하는.md) |
+|Lv.4| [ 주문량이 많은 아이스크림들 조회하기️](https://programmers.co.kr/learn/courses/30/lessons/133027) |with table as , union distinct | [코드](SQL/lv_4/주문량이많은.md) |
 |Lv.4| [ 식품 분류별 가장 비싼 식품의 정보 조회하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131116) |self inner join , group by , in , max| [코드](SQL/lv_4/식품분류별.md) |
 |Lv.4| [ 자동차 대여 기록 별 대여 금액 구하기️](https://programmers.co.kr/learn/courses/30/lessons/151141) |Round , inner join , case when , order by| [코드](SQL/lv_4/자동차대여.md) |
 |Lv.4| [ 특정 기간동안 대여 가능한 자동차들의 대여비용 구하기️](https://programmers.co.kr/learn/courses/30/lessons/157339) |Round , inner join 3개 테이블| [코드](SQL/lv_4/특정기간동안.md) |
