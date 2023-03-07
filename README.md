@@ -185,6 +185,7 @@
 |Lv.3| [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)     | DP                                                     | [코드](programmers/level03/정수삼각형.md)     |
 |Lv.3| [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)       | DFS , 플로이드 와샬                                          | [코드](programmers/level03/네트워크.md)      |
 |Lv.3| [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)       | DFS                                                    | [코드](programmers/level03/여행경로.md)      |
+|Lv.3| [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)    | 이분 탐색                                                | [코드](programmers/level03/징검다리.md)     |
 |Lv.3| [모두 0으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/76503)    | global , sys.setrecursionlimit 재귀 깊이 , 위상 정렬                                               | [코드](programmers/level03/모두0으로만들기.md)     |
 |Lv.3| [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)     | BFS 응용                                                 | [코드](programmers/level03/아이템줍기.md)     |
 |Lv.3| [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/129388)    | 수학, 구현                                                 | [코드](programmers/level03/최고의집합.md)     |
