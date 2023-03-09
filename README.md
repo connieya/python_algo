@@ -266,6 +266,7 @@
 |Lv.1| [ 나이 정보가 없는 회원 수 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131528) | is not null | [코드](SQL/lv_1/나이정보.md) |
 |Lv.1| [ 12세 이하인 여자 환자 목록 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/132201) | coalesce , order by   | [코드](SQL/lv_1/12세이하.md) |
 |Lv.1| [ 평균 일일 대여 요금 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/151136) | round , avg  | [코드](SQL/lv_1/일일대여.md) |
+|Lv.1| [ 조건에  부합하는 중고거래 댓글 조회하기️](https://programmers.co.kr/learn/courses/30/lessons/164673) | inner join , where  | [코드](SQL/lv_1/조건에.md) |
 |Lv.2| [ 가격이 제일 비싼 식품의 정보 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131115) | set 변수 , max , subquery| [코드](SQL/lv_2/가격이제일비싼.md) |
 |Lv.2| [ 3월에  태어난 여성 회원 목록 출력하기️](https://programmers.co.kr/learn/courses/30/lessons/131120) |Month , date_format| [코드](SQL/lv_2/3월에.md) |
 |Lv.2| [ 카테고리 별 상품 개수 구하기️](https://programmers.co.kr/learn/courses/30/lessons/131529) | substr() , left() | [코드](SQL/lv_2/카테고리별.md) |
@@ -280,6 +281,7 @@
 |Lv.3| [ 대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/151139) |between , month , group by| [코드](SQL/lv_3/대여횟수.md) |
 |Lv.3| [ 자동차 대여 기록에서 대여중/ 대여 가능 여부 구분하기 ️](https://programmers.co.kr/learn/courses/30/lessons/157340) |서브쿼리 , case when| [코드](SQL/lv_3/대여중.md) |
 |Lv.3| [ 대여 기록이 존재하는 자동차 리스트 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/157341) |inner join , distinct| [코드](SQL/lv_3/대여기록이존재하는.md) |
+|Lv.3| [ 조건에 맞는 사용자 정보 조회하기 ️](https://programmers.co.kr/learn/courses/30/lessons/164668) |inner join , group by ,having| [코드](SQL/lv_3/조건에맞는사용자.md) |
 |Lv.4| [ 주문량이 많은 아이스크림들 조회하기️](https://programmers.co.kr/learn/courses/30/lessons/133027) |with table as , union distinct | [코드](SQL/lv_4/주문량이많은.md) |
 |Lv.4| [ 식품 분류별 가장 비싼 식품의 정보 조회하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131116) |self inner join , group by , in , max| [코드](SQL/lv_4/식품분류별.md) |
 |Lv.4| [ 저자 별 카테고리 별 매출액 집계하기️](https://programmers.co.kr/learn/courses/30/lessons/144586) |3개 테이블 inner join , group by , date_format| [코드](SQL/lv_4/저자별카테고리별.md) |
