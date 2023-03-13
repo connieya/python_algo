@@ -92,6 +92,7 @@
 |Lv.0| [직사각형 넓이 구하기 ](https://programmers.co.kr/learn/courses/30/lessons/120860)         | 수학                                       | [코드](programmers/level00/직사각형넓이.md)    |
 |Lv.0| [캐릭터의 좌표](https://programmers.co.kr/learn/courses/30/lessons/120861)           | dict ,dx,dy                                 | [코드](programmers/level00/캐릭터의좌표.md)       |
 |Lv.0| [다항식 더하기](https://programmers.co.kr/learn/courses/30/lessons/120863)        | 삼항 연산자                                                | [코드](programmers/level00/다항식.md)      |
+|Lv.0| [숨어있는 숫자의 덧셈(2) ](https://programmers.co.kr/learn/courses/30/lessons/120864)        | isdigit , split , join                                                     | [코드](programmers/level00/숨어있는숫자2.md)    |
 |Lv.0| [안전지대](https://programmers.co.kr/learn/courses/30/lessons/120866)             | 반복문                                                    | [코드](programmers/level00/안전지대.md)      |
 |Lv.0| [저주의 숫자 3 ](https://programmers.co.kr/learn/courses/30/lessons/120871)        | str()                                                     | [코드](programmers/level00/저주의숫자3.md)    |
 |Lv.0| [평행](https://programmers.co.kr/learn/courses/30/lessons/120875)               | 직선의 기울기 , 반복문                                          | [코드](programmers/level00/평행.md)        |
@@ -101,6 +102,7 @@
 |Lv.0| [등수 매기기](https://programmers.co.kr/learn/courses/30/lessons/120882)        | sort  ,dictionary                                              | [코드](programmers/level00/등수매기기.md)      |
 |Lv.0| [치킨 쿠폰](https://programmers.co.kr/learn/courses/30/lessons/120884)        | 수학      ,divmod                                              | [코드](programmers/level00/치킨쿠폰.md)      |
 |Lv.0| [편지](https://programmers.co.kr/learn/courses/30/lessons/120898)               | 문자열의 길이                                                | [코드](programmers/level00/편지.md)        |
+|Lv.0| [배열의 유사도 ](https://programmers.co.kr/learn/courses/30/lessons/120903)        | list 컴프리핸션                                                     | [코드](programmers/level00/배열의유사도.md)    |
 |Lv.0| [n의 배수 구하기](https://programmers.co.kr/learn/courses/30/lessons/120905)        | list , 조건문                                             | [코드](programmers/level00/배수고르기.md)     |
 |Lv.0| [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/120906)          | 나머지 연산                                                 | [코드](programmers/level00/자릿수더하기.md)    |
 |Lv.0| [OX퀴즈](https://programmers.co.kr/learn/courses/30/lessons/120907)          | eval , split()                                                | [코드](programmers/level00/OX퀴즈.md)    |
@@ -218,7 +220,9 @@
 | 78  |                                                   [  Subsets ](https://leetcode.com/problems/subsets/)                                                    |   Medium   |                   DFS                   |[Solution](leetcode/medium/78.md)
 | 104 |                        [  Maximum Depth of Binary Tree ](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)                         |    Easy    |                   트리                    |[Solution](leetcode/easy/104.md)
 | 121 |                            [ Best Time to Buy ans Sell Stock ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                            |    Easy    |                min , max                |[Solution](leetcode/easy/121.md)
+| 122 |                            [ Best Time to Buy and Sell Stock II ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)                            |    Medium    |               그리디            |[Solution](leetcode/medium/122.md)
 | 125 |                                           [ Valid Palindrome ](https://leetcode.com/problems/valid-palindrome/)                                           |    Easy    |  isalnum() , deque popleft() ,문자열 슬라이싱  |[Solution](leetcode/easy/125.md)
+| 134 |                                           [  Gas Station ](https://leetcode.com/problems/gas-station/)                                           |    Medium    | 그리디  |[Solution](leetcode/medium/134.md)
 | 147 |                                  [ Insertion Sort List ](https://leetcode.com/problems/insertion-sort-list/description/)                                  |   Medium   |                  삽입 정렬                  |[Solution](leetcode/medium/147.md)
 | 148 |                                            [ Sort List ](https://leetcode.com/problems/sort-list/description/)                                            |   Medium   |                   정렬                    |[Solution](leetcode/medium/148.md)
 | 167 |                          [ Two Sum II - Input Array Is Sorted ](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                          |   Medium   |        이진탐색 , bitsect 모듈 , 투포인터         |[Solution](leetcode/medium/167.md)
@@ -241,9 +245,11 @@
 | 344 |                                             [ Reverse String ](https://leetcode.com/problems/reverse-string/)                                             |    Easy    |             투포인터, reverse()             |[Solution](leetcode/easy/344.md)
 | 347 |                                    [ Top K Frequent Elements ](https://leetcode.com/problems/top-k-frequent-elements/)                                    |   Medium   |               우선순위큐, 딕셔너리               |[Solution](leetcode/medium/347.md)
 | 349 |                                 [Intersection of Two Arrays ](https://leetcode.com/problems/intersection-of-two-arrays/)                                  |    Easy    |              이진 탐색 , 투포인터               |[Solution](leetcode/easy/349.md)
+| 406 |                                 [Queue Reconstruction by Height ](https://leetcode.com/problems/queue-reconstruction-by-height/)                                  |    Medium    |              그리디 , 우선순위 큐, 2차원 배열 정렬 lambda        |[Solution](leetcode/medium/406.md)
 | 424 |                                 [Longest Repeating Character Replacement ](https://leetcode.com/problems/longest-repeating-character-replacement/)                                  |    Medium    |              투 포인터     ,Counter , most_common        |[Solution](leetcode/medium/424.md)
 | 543 |                              [ Diameter of Binary Tree ](https://leetcode.com/problems/diameter-of-binary-tree/description/)                              |    Easy    |                 트리의 직경                  |[Solution](leetcode/easy/543.md)
 | 561 |                                            [ Array Partition ](https://leetcode.com/problems/array-partition/)                                            |    Easy    |                   정렬                    |[Solution](leetcode/easy/561.md)
+| 621 |                                      [ Task Scheduler ](https://leetcode.com/problems/task-scheduler/)                                      |   Medium   |      Counter , most_common , substract      |[Solution](leetcode/medium/621.md)
 | 622 |                                      [ Design Circular Queue ](https://leetcode.com/problems/design-circular-queue/)                                      |   Medium   |      배열로 원형 큐 구현하기 (front , rear)       |[Solution](leetcode/medium/622.md)
 | 641 |                                      [ Design Circular Deque ](https://leetcode.com/problems/design-circular-deque/)                                      |   Medium   |            연결리스트로 원형 데크 구현하기            |[Solution](leetcode/medium/641.md)
 | 687 |                                [Longest Univalue Path ](https://leetcode.com/problems/longest-univalue-path/description/)                                 |   Medium   |              가장 긴 동일 값의 경로              |[Solution](leetcode/medium/687.md)
@@ -273,6 +279,7 @@
 |Lv.2| [ 가격대 별 상품 개수 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131530) |truncate | [코드](SQL/lv_2/가격대별.md) |
 |Lv.2| [ 상품 별 오프라인 매출 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131533) |order by , grouo by  [코드](SQL/lv_2/상품별.md) |
 |Lv.2| [ 재구매가 일어난 상품과 회원 리스트 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131536) |group by 복수 컬럼| [코드](SQL/lv_2/재구매.md) |
+|Lv.2| [ 성분으로 구분한 아이스크림 총 주문량 ️](https://programmers.co.kr/learn/courses/30/lessons/133026) |inner join , group by| [코드](SQL/lv_2/성분으로.md) |
 |Lv.2| [ 조건에 맞는 도서와 저자 리스트 출력하기️](https://programmers.co.kr/learn/courses/30/lessons/144854) | inner join | [코드](SQL/lv_2/조건에맞는도서..md) |
 |Lv.2| [ 자동차 평균 대여 기간 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/157342) |datediff 날짜 일수 구하기 , group by , having ,round| [코드](SQL/lv_2/자동차평균대여.md) |
 |Lv.3| [ 조건별로 분류하여 주문상태 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131113) |date_format , case when| [코드](SQL/lv_3/조건별로주문상태.md) |
