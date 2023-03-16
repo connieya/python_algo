@@ -102,6 +102,7 @@
 |Lv.0| [등수 매기기](https://programmers.co.kr/learn/courses/30/lessons/120882)        | sort  ,dictionary                                              | [코드](programmers/level00/등수매기기.md)      |
 |Lv.0| [치킨 쿠폰](https://programmers.co.kr/learn/courses/30/lessons/120884)        | 수학      ,divmod                                              | [코드](programmers/level00/치킨쿠폰.md)      |
 |Lv.0| [편지](https://programmers.co.kr/learn/courses/30/lessons/120898)               | 문자열의 길이                                                | [코드](programmers/level00/편지.md)        |
+|Lv.0| [문자열 계산하기](https://programmers.co.kr/learn/courses/30/lessons/120902)           | eval                                   | [코드](programmers/level00/문자열계산.md)       |
 |Lv.0| [배열의 유사도 ](https://programmers.co.kr/learn/courses/30/lessons/120903)        | list 컴프리핸션                                                     | [코드](programmers/level00/배열의유사도.md)    |
 |Lv.0| [n의 배수 구하기](https://programmers.co.kr/learn/courses/30/lessons/120905)        | list , 조건문                                             | [코드](programmers/level00/배수고르기.md)     |
 |Lv.0| [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/120906)          | 나머지 연산                                                 | [코드](programmers/level00/자릿수더하기.md)    |
@@ -150,7 +151,9 @@
 |Lv.1| [바탕화면 정리](https://programmers.co.kr/learn/courses/30/lessons/161990)              | 구현                                     | [코드](programmers/level01/바탕화면정리.md)       |
 |Lv.2| [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)          | split , min , max                                      | [코드](programmers/level02/최대최소.md)      |
 |Lv.2| [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | split() , split(" ") 구분하기                              | [코드](programmers/level02/JadenCase.md) |
-|Lv.2| [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)                | deque ( maxlen) , LRU 알고리즘                             | [코드](programmers/level02/캐시.md)        |
+|Lv.2| [[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)              | Counter and 연산 , or 연산 , isalpha              | [코드](programmers/level02/뉴스클러스터링.md)      |
+|Lv.2| [[1차] 프렌즈 4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)                | 빡구현                            | [코드](programmers/level02/프렌즈4블록.md)        |
+|Lv.2| [[1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)                | deque ( maxlen) , LRU 알고리즘                             | [코드](programmers/level02/캐시.md)        |
 |Lv.2| [[3차] 방금 그곡](https://programmers.co.kr/learn/courses/30/lessons/17683)              | sort , replace , 인덱싱     | [코드](programmers/level02/방금그곡.md)      |
 |Lv.2| [n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)            | 수학, 구현                                                 | [코드](programmers/level02/n진수.md)       |
 |Lv.2| [타켓 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)              | global 키워드 , DFS  , itertools product      | [코드](programmers/level02/타켓넘버.md)      |
@@ -182,12 +185,14 @@
 |Lv.2| [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)  | 그리디                                      | [코드](programmers/level02/덧칠하기.md)     |
 |Lv.3| [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)  | 문자열 슬라이스 인덱싱                                           | [코드](programmers/level03/긴팰린드롬.md)     |
 |Lv.3| [스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971) | DP                                                     | [코드](programmers/level03/스티커모으기.md)    |
+|Lv.3| [[1차] 셔틀버스 ](https://school.programmers.co.kr/learn/courses/30/lessons/17678)     | ㄴㅇㄴㅇ                                             | [코드](programmers/level03/셔틀버스.md)     |
 |Lv.3| [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)      | 딕셔너리 , sort , 람다 (내림차순, 오름차순)                          | [코드](programmers/level03/베스트앨범.md)     |
 |Lv.3| [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)    | 우선순위큐, heapq , remove, 예외처리                            | [코드](programmers/level03/이중우선순위큐.md)   |
 |Lv.3| [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)        | DP                                                     | [코드](programmers/level03/등굣길.md)       |
 |Lv.3| [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)     | DP                                                     | [코드](programmers/level03/정수삼각형.md)     |
 |Lv.3| [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)       | DFS , 플로이드 와샬                                          | [코드](programmers/level03/네트워크.md)      |
 |Lv.3| [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)       | DFS                                                    | [코드](programmers/level03/여행경로.md)      |
+|Lv.3| [블록 이동하기](https://school.programmers.co.kr/learn/courses/30/lessons/60063)    | 3차원 배열 , BFS , 구현                                              | [코드](programmers/level03/블록이동하기..md)     |
 |Lv.3| [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)    | 이분 탐색                                                | [코드](programmers/level03/징검다리.md)     |
 |Lv.3| [카드 짝 맞추기](https://school.programmers.co.kr/learn/courses/30/lessons/72415)    | brute force , bfs , dp                                                 | [코드](programmers/level03/짝맞추기.md)     |
 |Lv.3| [모두 0으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/76503)    | global , sys.setrecursionlimit 재귀 깊이 , 위상 정렬                                               | [코드](programmers/level03/모두0으로만들기.md)     |
@@ -226,11 +231,13 @@
 | 122 |                            [ Best Time to Buy and Sell Stock II ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)                            |    Medium    |               그리디            |[Solution](leetcode/medium/122.md)
 | 125 |                                           [ Valid Palindrome ](https://leetcode.com/problems/valid-palindrome/)                                           |    Easy    |  isalnum() , deque popleft() ,문자열 슬라이싱  |[Solution](leetcode/easy/125.md)
 | 134 |                                           [  Gas Station ](https://leetcode.com/problems/gas-station/)                                           |    Medium    | 그리디  |[Solution](leetcode/medium/134.md)
+| 136 |                                           [ Single Number ](https://leetcode.com/problems/single-number/)                                           |    Easy    | XOR ,Counter  |[Solution](leetcode/easy/136.md)
 | 147 |                                  [ Insertion Sort List ](https://leetcode.com/problems/insertion-sort-list/description/)                                  |   Medium   |                  삽입 정렬                  |[Solution](leetcode/medium/147.md)
 | 148 |                                            [ Sort List ](https://leetcode.com/problems/sort-list/description/)                                            |   Medium   |                   정렬                    |[Solution](leetcode/medium/148.md)
 | 167 |                          [ Two Sum II - Input Array Is Sorted ](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                          |   Medium   |        이진탐색 , bitsect 모듈 , 투포인터         |[Solution](leetcode/medium/167.md)
 | 169 |                          [ Majority Element ](https://leetcode.com/problems/majority-element/)                          |   Easy   |       Counter , most_common         |[Solution](leetcode/easy/169.md)
 | 179 |                                       [ Largest Number ](https://leetcode.com/problems/largest-number/description)                                        |   Medium   |            정렬 기법 . swap 커스텀             |[Solution](leetcode/medium/179.md)
+| 191 |                                          [Number of 1 Bits ](https://leetcode.com/problems/number-of-1-bits/)                                          |   Easy   |                  bin , and  연산                 |[Solution](leetcode/easy/191.md)
 | 198 |                                          [House Robber ](https://leetcode.com/problems/house-robber/)                                          |   Medium   |                  DP , collections.OrderedDict()                  |[Solution](leetcode/medium/198.md)
 | 200 |                                          [ Number of Islands ](https://leetcode.com/problems/number-of-islands/)                                          |   Medium   |                   DFS                   |[Solution](leetcode/medium/200.md)
 | 206 |                                        [ Reverse Linked List ](https://leetcode.com/problems/reverse-linked-list/)                                        |    Easy    |                 연결 리스트                  |[Solution](leetcode/easy/206.md)
@@ -254,6 +261,7 @@
 | 406 |                                 [Queue Reconstruction by Height ](https://leetcode.com/problems/queue-reconstruction-by-height/)                                  |    Medium    |              그리디 , 우선순위 큐, 2차원 배열 정렬 lambda        |[Solution](leetcode/medium/406.md)
 | 424 |                                 [Longest Repeating Character Replacement ](https://leetcode.com/problems/longest-repeating-character-replacement/)                                  |    Medium    |              투 포인터     ,Counter , most_common        |[Solution](leetcode/medium/424.md)
 | 455 |                                 [Assign Cookies ](https://leetcode.com/problems/assign-cookies/)                                  |    Easy    |              이진탐색 , 그리디 , 정렬      |[Solution](leetcode/easy/455.md)
+| 461 |                                 [Hamming Distance ](https://leetcode.com/problems/hamming-distance/)                                  |    Easy    |              XOR , bin , count()      |[Solution](leetcode/easy/461.md)
 | 509 |                              [  Fibonacci Number ](https://leetcode.com/problems/fibonacci-number/)                              |    Easy    |                 피보나치                  |[Solution](leetcode/easy/509.md)
 | 543 |                              [ Diameter of Binary Tree ](https://leetcode.com/problems/diameter-of-binary-tree/description/)                              |    Easy    |                 트리의 직경                  |[Solution](leetcode/easy/543.md)
 | 561 |                                            [ Array Partition ](https://leetcode.com/problems/array-partition/)                                            |    Easy    |                   정렬                    |[Solution](leetcode/easy/561.md)
@@ -285,7 +293,7 @@
 |Lv.2| [ 3월에  태어난 여성 회원 목록 출력하기️](https://programmers.co.kr/learn/courses/30/lessons/131120) |Month , date_format| [코드](SQL/lv_2/3월에.md) |
 |Lv.2| [ 카테고리 별 상품 개수 구하기️](https://programmers.co.kr/learn/courses/30/lessons/131529) | substr() , left() | [코드](SQL/lv_2/카테고리별.md) |
 |Lv.2| [ 가격대 별 상품 개수 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131530) |truncate | [코드](SQL/lv_2/가격대별.md) |
-|Lv.2| [ 상품 별 오프라인 매출 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131533) |order by , grouo by  [코드](SQL/lv_2/상품별.md) |
+|Lv.2| [ 상품 별 오프라인 매출 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131533) |order by , grouo by|  [코드](SQL/lv_2/상품별.md) |
 |Lv.2| [ 재구매가 일어난 상품과 회원 리스트 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131536) |group by 복수 컬럼| [코드](SQL/lv_2/재구매.md) |
 |Lv.2| [ 성분으로 구분한 아이스크림 총 주문량 ️](https://programmers.co.kr/learn/courses/30/lessons/133026) |inner join , group by| [코드](SQL/lv_2/성분으로.md) |
 |Lv.2| [ 조건에 맞는 도서와 저자 리스트 출력하기️](https://programmers.co.kr/learn/courses/30/lessons/144854) | inner join | [코드](SQL/lv_2/조건에맞는도서..md) |
