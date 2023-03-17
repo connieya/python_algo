@@ -149,10 +149,11 @@
 |Lv.1| [카드 뭉치](https://programmers.co.kr/learn/courses/30/lessons/159994)    | pop()                                  | [코드](programmers/level01/카드뭉치.md)     |
 |Lv.1| [대충 만든 자판](https://programmers.co.kr/learn/courses/30/lessons/160586)              | for문,  find()                                       | [코드](programmers/level01/대충만든자판.md)       |
 |Lv.1| [바탕화면 정리](https://programmers.co.kr/learn/courses/30/lessons/161990)              | 구현                                     | [코드](programmers/level01/바탕화면정리.md)       |
+|Lv.2| [가장 큰 정사각형 만들기](https://programmers.co.kr/learn/courses/30/lessons/12905)          | DP                                    | [코드](programmers/level02/가장큰정사각형.md)      |
 |Lv.2| [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)          | split , min , max                                      | [코드](programmers/level02/최대최소.md)      |
 |Lv.2| [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | split() , split(" ") 구분하기                              | [코드](programmers/level02/JadenCase.md) |
 |Lv.2| [[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)              | Counter and 연산 , or 연산 , isalpha              | [코드](programmers/level02/뉴스클러스터링.md)      |
-|Lv.2| [[1차] 프렌즈 4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)                | 빡구현                            | [코드](programmers/level02/프렌즈4블록.md)        |
+|Lv.2| [[1차] 프렌즈 4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)                | 구현 , 문자열을 중첩리스트로 표현                            | [코드](programmers/level02/프렌즈4블록.md)        |
 |Lv.2| [[1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)                | deque ( maxlen) , LRU 알고리즘                             | [코드](programmers/level02/캐시.md)        |
 |Lv.2| [[3차] 방금 그곡](https://programmers.co.kr/learn/courses/30/lessons/17683)              | sort , replace , 인덱싱     | [코드](programmers/level02/방금그곡.md)      |
 |Lv.2| [n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)            | 수학, 구현                                                 | [코드](programmers/level02/n진수.md)       |
@@ -182,10 +183,12 @@
 |Lv.2| [무인도 여행](https://programmers.co.kr/learn/courses/30/lessons/154540)     | deque , BFS                                                   | [코드](programmers/level02/무인도여행.md)    |
 |Lv.2| [호텔 대실](https://programmers.co.kr/learn/courses/30/lessons/155651)     | 우선순위 큐 , 그리디                                                     | [코드](programmers/level02/호텔대실.md)    |
 |Lv.2| [미로 탈출](https://programmers.co.kr/learn/courses/30/lessons/159993)            | BFS 두번                                        | [코드](programmers/level02/미로탈출.md)      |
+|Lv.2| [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)  | 구현  , all 함수                                    | [코드](programmers/level02/틱택토.md)     |
 |Lv.2| [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)  | 그리디                                      | [코드](programmers/level02/덧칠하기.md)     |
 |Lv.3| [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)  | 문자열 슬라이스 인덱싱                                           | [코드](programmers/level03/긴팰린드롬.md)     |
 |Lv.3| [스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971) | DP                                                     | [코드](programmers/level03/스티커모으기.md)    |
-|Lv.3| [[1차] 셔틀버스 ](https://school.programmers.co.kr/learn/courses/30/lessons/17678)     | ㄴㅇㄴㅇ                                             | [코드](programmers/level03/셔틀버스.md)     |
+|Lv.3| [[1차] 추석 트래픽 ](https://school.programmers.co.kr/learn/courses/30/lessons/17676)     | datetime.strptime()                                       | [코드](programmers/level03/추석트래픽.md)     |
+|Lv.3| [[1차] 셔틀버스 ](https://school.programmers.co.kr/learn/courses/30/lessons/17678)     | divmode , zfill                                        | [코드](programmers/level03/셔틀버스.md)     |
 |Lv.3| [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)      | 딕셔너리 , sort , 람다 (내림차순, 오름차순)                          | [코드](programmers/level03/베스트앨범.md)     |
 |Lv.3| [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)    | 우선순위큐, heapq , remove, 예외처리                            | [코드](programmers/level03/이중우선순위큐.md)   |
 |Lv.3| [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)        | DP                                                     | [코드](programmers/level03/등굣길.md)       |
