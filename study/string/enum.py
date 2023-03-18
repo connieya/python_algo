@@ -1,0 +1,12 @@
+
+
+st = "??????"
+
+arr = st.split("?")
+
+print(arr)
+print(len(arr))
+
+
+s = "<<<<>>?>><<>><><>>??><<>?>"
+print(s.split("?"))

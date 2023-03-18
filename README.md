@@ -150,6 +150,7 @@
 |Lv.1| [대충 만든 자판](https://programmers.co.kr/learn/courses/30/lessons/160586)              | for문,  find()                                       | [코드](programmers/level01/대충만든자판.md)       |
 |Lv.1| [바탕화면 정리](https://programmers.co.kr/learn/courses/30/lessons/161990)              | 구현                                     | [코드](programmers/level01/바탕화면정리.md)       |
 |Lv.2| [가장 큰 정사각형 만들기](https://programmers.co.kr/learn/courses/30/lessons/12905)          | DP                                    | [코드](programmers/level02/가장큰정사각형.md)      |
+|Lv.2| [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)          | 2진법 1의 개수 , bin                                     | [코드](programmers/level02/다음큰숫자.md)      |
 |Lv.2| [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)          | split , min , max                                      | [코드](programmers/level02/최대최소.md)      |
 |Lv.2| [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | split() , split(" ") 구분하기                              | [코드](programmers/level02/JadenCase.md) |
 |Lv.2| [[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)              | Counter and 연산 , or 연산 , isalpha              | [코드](programmers/level02/뉴스클러스터링.md)      |
@@ -201,6 +202,7 @@
 |Lv.3| [모두 0으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/76503)    | global , sys.setrecursionlimit 재귀 깊이 , 위상 정렬                                               | [코드](programmers/level03/모두0으로만들기.md)     |
 |Lv.3| [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)     | BFS 응용                                                 | [코드](programmers/level03/아이템줍기.md)     |
 |Lv.3| [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/129388)    | 수학, 구현                                                 | [코드](programmers/level03/최고의집합.md)     |
+|Lv.3| [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/131129)     | DP                                                 | [코드](programmers/level03/카운트다운.md)     |
 |Lv.?| [체육대회](https://school.programmers.co.kr/learn/courses/30/lessons/121684)    | DFS , 백트래킹 , permutations , enumerate                                               | [코드](programmers/level_기타/체육대회.md)     |
 
 ## 🎃 LeetCode
