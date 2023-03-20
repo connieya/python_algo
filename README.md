@@ -102,6 +102,7 @@
 |Lv.0| [등수 매기기](https://programmers.co.kr/learn/courses/30/lessons/120882)        | sort  ,dictionary                                              | [코드](programmers/level00/등수매기기.md)      |
 |Lv.0| [치킨 쿠폰](https://programmers.co.kr/learn/courses/30/lessons/120884)        | 수학      ,divmod                                              | [코드](programmers/level00/치킨쿠폰.md)      |
 |Lv.0| [편지](https://programmers.co.kr/learn/courses/30/lessons/120898)               | 문자열의 길이                                                | [코드](programmers/level00/편지.md)        |
+|Lv.0| [가장 큰 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/120899)           | sorted , enumerate 활용                                    | [코드](programmers/level00/가장큰수.md)       |
 |Lv.0| [문자열 계산하기](https://programmers.co.kr/learn/courses/30/lessons/120902)           | eval                                   | [코드](programmers/level00/문자열계산.md)       |
 |Lv.0| [배열의 유사도 ](https://programmers.co.kr/learn/courses/30/lessons/120903)        | list 컴프리핸션                                                     | [코드](programmers/level00/배열의유사도.md)    |
 |Lv.0| [n의 배수 구하기](https://programmers.co.kr/learn/courses/30/lessons/120905)        | list , 조건문                                             | [코드](programmers/level00/배수고르기.md)     |
@@ -178,6 +179,7 @@
 |Lv.2| [점 찍기](https://programmers.co.kr/learn/courses/30/lessons/140107)             | 원의 방정식, 피타고라스 정리                                       | [코드](programmers/level02/점찍기.md)       |
 |Lv.2| [디펜스 게임](https://programmers.co.kr/learn/courses/30/lessons/142085)           | 최소 힙                                                   | [코드](programmers/level02/디펜스게임.md)     |
 |Lv.2| [마법의 엘리베이터](https://programmers.co.kr/learn/courses/30/lessons/148653)   | 백트래킹 ,재귀                                       | [코드](programmers/level02/마법의엘리베이터.md)       |
+|Lv.2| [이모티콘 할인 행사](https://programmers.co.kr/learn/courses/30/lessons/150368)            | 브루트 포스  , itertools / product                                     | [코드](programmers/level02/이모티콘할인행사.md)      |
 |Lv.2| [택배 배달과 수거하기](https://programmers.co.kr/learn/courses/30/lessons/150369)            | 그리디                                        | [코드](programmers/level02/택배배달.md)      |
 |Lv.2| [숫자 변환하기](https://programmers.co.kr/learn/courses/30/lessons/154538)          | BFS                                                    | [코드](programmers/level02/숫자변환하기.md)    |
 |Lv.2| [뒤에 있는 큰 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/154539)     | 스택                                                     | [코드](programmers/level02/뒤에큰수찾기.md)    |
@@ -188,6 +190,7 @@
 |Lv.2| [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)  | 그리디                                      | [코드](programmers/level02/덧칠하기.md)     |
 |Lv.3| [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)  | 문자열 슬라이스 인덱싱                                           | [코드](programmers/level03/긴팰린드롬.md)     |
 |Lv.3| [스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971) | DP                                                     | [코드](programmers/level03/스티커모으기.md)    |
+|Lv.3| [기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)     | 그리디 ,구현                                                | [코드](programmers/level03/기지국설치.md)     |
 |Lv.3| [[1차] 추석 트래픽 ](https://school.programmers.co.kr/learn/courses/30/lessons/17676)     | datetime.strptime()                                       | [코드](programmers/level03/추석트래픽.md)     |
 |Lv.3| [[1차] 셔틀버스 ](https://school.programmers.co.kr/learn/courses/30/lessons/17678)     | divmode , zfill                                        | [코드](programmers/level03/셔틀버스.md)     |
 |Lv.3| [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)      | 딕셔너리 , sort , 람다 (내림차순, 오름차순)                          | [코드](programmers/level03/베스트앨범.md)     |
@@ -314,6 +317,7 @@
 |Lv.4| [ 주문량이 많은 아이스크림들 조회하기️](https://programmers.co.kr/learn/courses/30/lessons/133027) |with table as , union distinct | [코드](SQL/lv_4/주문량이많은.md) |
 |Lv.4| [ 식품 분류별 가장 비싼 식품의 정보 조회하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131116) |self inner join , group by , in , max| [코드](SQL/lv_4/식품분류별.md) |
 |Lv.4| [ 5월 식품들의 총매출 조회하기  ️](https://programmers.co.kr/learn/courses/30/lessons/131117) | inner join , date_format , group by| [코드](SQL/lv_4/5월.md) |
+|Lv.4| [ 취소 되지 않은 진료 예약 조회하기 ️](https://programmers.co.kr/learn/courses/30/lessons/132204) | inner join 3개 테이블| [코드](SQL/lv_4/취소.md) |
 |Lv.4| [ 저자 별 카테고리 별 매출액 집계하기️](https://programmers.co.kr/learn/courses/30/lessons/144586) |3개 테이블 inner join , group by , date_format| [코드](SQL/lv_4/저자별카테고리별.md) |
 |Lv.4| [ 자동차 대여 기록 별 대여 금액 구하기️](https://programmers.co.kr/learn/courses/30/lessons/151141) |Round , inner join , case when , order by| [코드](SQL/lv_4/자동차대여.md) |
 |Lv.4| [ 특정 기간동안 대여 가능한 자동차들의 대여비용 구하기️](https://programmers.co.kr/learn/courses/30/lessons/157339) |Round , inner join 3개 테이블| [코드](SQL/lv_4/특정기간동안.md) |
