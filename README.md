@@ -206,6 +206,7 @@
 |Lv.3| [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)     | BFS 응용                                                 | [코드](programmers/level03/아이템줍기.md)     |
 |Lv.3| [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/129388)    | 수학, 구현                                                 | [코드](programmers/level03/최고의집합.md)     |
 |Lv.3| [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/131129)     | DP                                                 | [코드](programmers/level03/카운트다운.md)     |
+|Lv.3| [부대 복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)     | 다익스트라 , heapq                                                 | [코드](programmers/level03/부대복귀..md)     |
 |Lv.4| [단어 퍼즐](https://school.programmers.co.kr/learn/courses/30/lessons/12983)     | DP                                                 | [코드](programmers/level04/단어퍼즐.md)     |
 |Lv.?| [체육대회](https://school.programmers.co.kr/learn/courses/30/lessons/121684)    | DFS , 백트래킹 , permutations , enumerate                                               | [코드](programmers/level_기타/체육대회.md)     |
 
@@ -318,6 +319,7 @@
 |Lv.4| [ 주문량이 많은 아이스크림들 조회하기️](https://programmers.co.kr/learn/courses/30/lessons/133027) |with table as , union distinct | [코드](SQL/lv_4/주문량이많은.md) |
 |Lv.4| [ 식품 분류별 가장 비싼 식품의 정보 조회하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131116) |self inner join , group by , in , max| [코드](SQL/lv_4/식품분류별.md) |
 |Lv.4| [ 5월 식품들의 총매출 조회하기  ️](https://programmers.co.kr/learn/courses/30/lessons/131117) | inner join , date_format , group by| [코드](SQL/lv_4/5월.md) |
+|Lv.4| [  서울에 위치한  식당 목록 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131118) |Round , inner join , Like 패턴 주의!!| [코드](SQL/lv_4/서울에.md) |
 |Lv.4| [ 취소 되지 않은 진료 예약 조회하기 ️](https://programmers.co.kr/learn/courses/30/lessons/132204) | inner join 3개 테이블| [코드](SQL/lv_4/취소.md) |
 |Lv.4| [ 저자 별 카테고리 별 매출액 집계하기️](https://programmers.co.kr/learn/courses/30/lessons/144586) |3개 테이블 inner join , group by , date_format| [코드](SQL/lv_4/저자별카테고리별.md) |
 |Lv.4| [ 자동차 대여 기록 별 대여 금액 구하기️](https://programmers.co.kr/learn/courses/30/lessons/151141) |Round , inner join , case when , order by| [코드](SQL/lv_4/자동차대여.md) |
