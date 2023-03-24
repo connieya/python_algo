@@ -101,6 +101,7 @@
 |Lv.0| [특이한 정렬](https://programmers.co.kr/learn/courses/30/lessons/120880)           | 람다 정렬 조건 2                                    | [코드](programmers/level00/특이한정렬.md)       |
 |Lv.0| [등수 매기기](https://programmers.co.kr/learn/courses/30/lessons/120882)        | sort  ,dictionary                                              | [코드](programmers/level00/등수매기기.md)      |
 |Lv.0| [치킨 쿠폰](https://programmers.co.kr/learn/courses/30/lessons/120884)        | 수학      ,divmod                                              | [코드](programmers/level00/치킨쿠폰.md)      |
+|Lv.0| [한 번만 등장한 문자 ](https://programmers.co.kr/learn/courses/30/lessons/120896)        | Sorted , count , 파이썬 스러운 코드                                                    | [코드](programmers/level00/한번만.md)    |
 |Lv.0| [편지](https://programmers.co.kr/learn/courses/30/lessons/120898)               | 문자열의 길이                                                | [코드](programmers/level00/편지.md)        |
 |Lv.0| [가장 큰 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/120899)           | sorted , enumerate 활용                                    | [코드](programmers/level00/가장큰수.md)       |
 |Lv.0| [문자열 계산하기](https://programmers.co.kr/learn/courses/30/lessons/120902)           | eval                                   | [코드](programmers/level00/문자열계산.md)       |
@@ -150,6 +151,7 @@
 |Lv.1| [카드 뭉치](https://programmers.co.kr/learn/courses/30/lessons/159994)    | pop()                                  | [코드](programmers/level01/카드뭉치.md)     |
 |Lv.1| [대충 만든 자판](https://programmers.co.kr/learn/courses/30/lessons/160586)              | for문,  find()                                       | [코드](programmers/level01/대충만든자판.md)       |
 |Lv.1| [바탕화면 정리](https://programmers.co.kr/learn/courses/30/lessons/161990)              | 구현                                     | [코드](programmers/level01/바탕화면정리.md)       |
+|Lv.1| [공원 산책](https://programmers.co.kr/learn/courses/30/lessons/172928)              | 구현                                     | [코드](programmers/level01/공원산책.md)       |
 |Lv.2| [가장 큰 정사각형 만들기](https://programmers.co.kr/learn/courses/30/lessons/12905)          | DP                                    | [코드](programmers/level02/가장큰정사각형.md)      |
 |Lv.2| [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)          | 2진법 1의 개수 , bin                                     | [코드](programmers/level02/다음큰숫자.md)      |
 |Lv.2| [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)          | split , min , max                                      | [코드](programmers/level02/최대최소.md)      |
@@ -188,9 +190,11 @@
 |Lv.2| [미로 탈출](https://programmers.co.kr/learn/courses/30/lessons/159993)            | BFS 두번                                        | [코드](programmers/level02/미로탈출.md)      |
 |Lv.2| [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)  | 구현  , all 함수                                    | [코드](programmers/level02/틱택토.md)     |
 |Lv.2| [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)  | 그리디                                      | [코드](programmers/level02/덧칠하기.md)     |
+|Lv.2| [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)  | 그리디   ,정렬                                   | [코드](programmers/level02/광물캐기.md)     |
 |Lv.3| [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)  | 문자열 슬라이스 인덱싱                                           | [코드](programmers/level03/긴팰린드롬.md)     |
 |Lv.3| [스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971) | DP                                                     | [코드](programmers/level03/스티커모으기.md)    |
 |Lv.3| [기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)     | 그리디 ,구현                                                | [코드](programmers/level03/기지국설치.md)     |
+|Lv.3| [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)     | deque , bfs ,  그리디                                                 | [코드](programmers/level03/숫자게임.md)     |
 |Lv.3| [[1차] 추석 트래픽 ](https://school.programmers.co.kr/learn/courses/30/lessons/17676)     | datetime.strptime()                                       | [코드](programmers/level03/추석트래픽.md)     |
 |Lv.3| [[1차] 셔틀버스 ](https://school.programmers.co.kr/learn/courses/30/lessons/17678)     | divmode , zfill                                        | [코드](programmers/level03/셔틀버스.md)     |
 |Lv.3| [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)      | 딕셔너리 , sort , 람다 (내림차순, 오름차순)                          | [코드](programmers/level03/베스트앨범.md)     |
@@ -207,7 +211,8 @@
 |Lv.3| [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/129388)    | 수학, 구현                                                 | [코드](programmers/level03/최고의집합.md)     |
 |Lv.3| [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/131129)     | DP                                                 | [코드](programmers/level03/카운트다운.md)     |
 |Lv.3| [부대 복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)     | 다익스트라 , heapq                                                 | [코드](programmers/level03/부대복귀..md)     |
-|Lv.4| [단어 퍼즐](https://school.programmers.co.kr/learn/courses/30/lessons/12983)     | DP                                                 | [코드](programmers/level04/단어퍼즐.md)     |
+|Lv.3| [미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)     | deque , bfs ,  그리디                                                 | [코드](programmers/level03/미로탈출.md)     |
+|Lv.4| [단어 퍼즐](https://school.programmers.co.kr/learn/courses/30/lessons/12983)     | 정렬 , 그리디                                               | [코드](programmers/level04/단어퍼즐.md)     |
 |Lv.?| [체육대회](https://school.programmers.co.kr/learn/courses/30/lessons/121684)    | DFS , 백트래킹 , permutations , enumerate                                               | [코드](programmers/level_기타/체육대회.md)     |
 
 ## 🎃 LeetCode
@@ -292,12 +297,14 @@
 
 |레벨 | 문제 | 코멘트 |코드|
 |:-----|:----|:----|:-----
-|Lv.1| [ 특정 옵션이 포함된 자동차 리스트 ️](https://programmers.co.kr/learn/courses/30/lessons/157343) | like 키워드 , order by desc| [코드](SQL/lv_1/특정옵션.md) |
 |Lv.1| [ 강원도에 위치한 생산공장 목록 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131112) | like 패턴 매칭 | [코드](SQL/lv_1/강원도.md) |
 |Lv.1| [ 경기도에 위치한 식품창고 목록 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131114) | case when , coalesce() 함수  | [코드](SQL/lv_1/경기도에위치한.md) |
 |Lv.1| [ 나이 정보가 없는 회원 수 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131528) | is not null | [코드](SQL/lv_1/나이정보.md) |
+|Lv.1| [ 가장 비싼 상품 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131697) |  max | [코드](SQL/lv_1/가장비싼상품구하기.md) |
 |Lv.1| [ 12세 이하인 여자 환자 목록 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/132201) | coalesce , order by   | [코드](SQL/lv_1/12세이하.md) |
+|Lv.1| [ 과일로 마든 아이스크림 고르기 ️](https://programmers.co.kr/learn/courses/30/lessons/133025) | inner join| [코드](SQL/lv_1/과일로만든.md) |
 |Lv.1| [ 평균 일일 대여 요금 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/151136) | round , avg  | [코드](SQL/lv_1/일일대여.md) |
+|Lv.1| [ 특정 옵션이 포함된 자동차 리스트 ️](https://programmers.co.kr/learn/courses/30/lessons/157343) | like 키워드 , order by desc| [코드](SQL/lv_1/특정옵션.md) |
 |Lv.1| [ 조건에  부합하는 중고거래 댓글 조회하기️](https://programmers.co.kr/learn/courses/30/lessons/164673) | inner join , where  | [코드](SQL/lv_1/조건에.md) |
 |Lv.2| [ 가격이 제일 비싼 식품의 정보 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131115) | set 변수 , max , subquery| [코드](SQL/lv_2/가격이제일비싼.md) |
 |Lv.2| [ 3월에  태어난 여성 회원 목록 출력하기️](https://programmers.co.kr/learn/courses/30/lessons/131120) |Month , date_format| [코드](SQL/lv_2/3월에.md) |
