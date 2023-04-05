@@ -87,6 +87,9 @@
 |Lv.0| [양꼬치](https://programmers.co.kr/learn/courses/30/lessons/120830)              | 수학                                                     | [코드](programmers/level00/양꼬치.md)       |
 |Lv.0| [짝수의합](https://programmers.co.kr/learn/courses/30/lessons/120831)             | for 문 , sum 함수                                         | [코드](programmers/level00/짝수의합.md)      |
 |Lv.0| [순서쌍의 개수](https://programmers.co.kr/learn/courses/30/lessons/120836)             |filter                                        | [코드](programmers/level00/순서쌍의개수.md)      |
+|Lv.0| [개미 군단](https://programmers.co.kr/learn/courses/30/lessons/120837)       | divmod                                    | [코드](programmers/level00/개미군단.md)  |
+|Lv.0| [모스 부호(1)](https://programmers.co.kr/learn/courses/30/lessons/120838)       | split                                          | [코드](programmers/level00/모스부호.md)  |
+|Lv.0| [가위 바위 보 ](https://programmers.co.kr/learn/courses/30/lessons/120839)        | dictionary                                              | [코드](programmers/level00/가위바위보.md)      |
 |Lv.0| [점의 위치 구하기](https://programmers.co.kr/learn/courses/30/lessons/120841)        | 조건문                                                    | [코드](programmers/level00/점의위치.md)      |
 |Lv.0| [컨트롤제트](https://programmers.co.kr/learn/courses/30/lessons/120853)              | 구현                                                     | [코드](programmers/level00/컨트롤제트.md)       |
 |Lv.0| [직사각형 넓이 구하기 ](https://programmers.co.kr/learn/courses/30/lessons/120860)         | 수학                                       | [코드](programmers/level00/직사각형넓이.md)    |
@@ -98,6 +101,9 @@
 |Lv.0| [평행](https://programmers.co.kr/learn/courses/30/lessons/120875)               | 직선의 기울기 , 반복문                                          | [코드](programmers/level00/평행.md)        |
 |Lv.0| [겹치는 선분의 길이](https://programmers.co.kr/learn/courses/30/lessons/120876)       | 겹치는 선 배열로 체크                                           | [코드](programmers/level00/겹치는선분의길이.md)  |
 |Lv.0| [유한소수 판별하기](https://programmers.co.kr/learn/courses/30/lessons/120878)             | 최대공약수, 소인수                                                   | [코드](programmers/level00/유한소수판별.md)      |
+|Lv.0| [구슬을 나누는 경우의 수](https://programmers.co.kr/learn/courses/30/lessons/120840)               | DP ,  조합    , math.comb                                   | [코드](programmers/level00/구슬.md)        |
+|Lv.0| [2차원으로 만들기](https://programmers.co.kr/learn/courses/30/lessons/120842)               | 인덱싱                                  | [코드](programmers/level00/2차원으로만들기.md)        |
+|Lv.0| [공 던지기](https://programmers.co.kr/learn/courses/30/lessons/12083)               | 수학                                  | [코드](programmers/level00/공던지기.md)        |
 |Lv.0| [특이한 정렬](https://programmers.co.kr/learn/courses/30/lessons/120880)           | 람다 정렬 조건 2                                    | [코드](programmers/level00/특이한정렬.md)       |
 |Lv.0| [등수 매기기](https://programmers.co.kr/learn/courses/30/lessons/120882)        | sort  ,dictionary                                              | [코드](programmers/level00/등수매기기.md)      |
 |Lv.0| [치킨 쿠폰](https://programmers.co.kr/learn/courses/30/lessons/120884)        | 수학      ,divmod                                              | [코드](programmers/level00/치킨쿠폰.md)      |
@@ -152,6 +158,7 @@
 |Lv.1| [대충 만든 자판](https://programmers.co.kr/learn/courses/30/lessons/160586)              | for문,  find()                                       | [코드](programmers/level01/대충만든자판.md)       |
 |Lv.1| [바탕화면 정리](https://programmers.co.kr/learn/courses/30/lessons/161990)              | 구현                                     | [코드](programmers/level01/바탕화면정리.md)       |
 |Lv.1| [공원 산책](https://programmers.co.kr/learn/courses/30/lessons/172928)              | 구현                                     | [코드](programmers/level01/공원산책.md)       |
+|Lv.1| [추억 점수](https://programmers.co.kr/learn/courses/30/lessons/176963)              | defaultdict  ,  list comprehension                                   | [코드](programmers/level01/추억점수.md)       |
 |Lv.2| [가장 큰 정사각형 만들기](https://programmers.co.kr/learn/courses/30/lessons/12905)          | DP                                    | [코드](programmers/level02/가장큰정사각형.md)      |
 |Lv.2| [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)          | 2진법 1의 개수 , bin                                     | [코드](programmers/level02/다음큰숫자.md)      |
 |Lv.2| [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)          | split , min , max                                      | [코드](programmers/level02/최대최소.md)      |
