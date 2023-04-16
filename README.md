@@ -159,6 +159,7 @@
 |Lv.1| [바탕화면 정리](https://programmers.co.kr/learn/courses/30/lessons/161990)              | 구현                                     | [코드](programmers/level01/바탕화면정리.md)       |
 |Lv.1| [공원 산책](https://programmers.co.kr/learn/courses/30/lessons/172928)              | 구현                                     | [코드](programmers/level01/공원산책.md)       |
 |Lv.1| [추억 점수](https://programmers.co.kr/learn/courses/30/lessons/176963)              | defaultdict  ,  list comprehension                                   | [코드](programmers/level01/추억점수.md)       |
+|Lv.1| [달리기 경주](https://programmers.co.kr/learn/courses/30/lessons/178871)              | defaultdict  , swap                                    | [코드](programmers/level01/달리기경주.md)       |
 |Lv.2| [가장 큰 정사각형 만들기](https://programmers.co.kr/learn/courses/30/lessons/12905)          | DP                                    | [코드](programmers/level02/가장큰정사각형.md)      |
 |Lv.2| [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)          | 2진법 1의 개수 , bin                                     | [코드](programmers/level02/다음큰숫자.md)      |
 |Lv.2| [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)          | split , min , max                                      | [코드](programmers/level02/최대최소.md)      |
