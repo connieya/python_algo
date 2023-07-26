@@ -224,8 +224,9 @@
 |Lv.3| [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/131129)         | DP                                                     | [코드](programmers/level03/카운트다운.md)     |
 |Lv.3| [부대 복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)          | 다익스트라 , heapq                                          | [코드](programmers/level03/부대복귀..md)     |
 |Lv.3| [미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)      | deque , bfs ,  그리디                                     | [코드](programmers/level03/미로탈출.md)      |
+|Lv.3| [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995)           | 정렬 , 그리디                                               | [코드](programmers/level03/인사고과.md)      |
 |Lv.3| [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988) | DP , 부분합                                               | [코드](programmers/level03/연속펄스.md)      |
-|Lv.4| [단어 퍼즐](https://school.programmers.co.kr/learn/courses/30/lessons/12983)           | 정렬 , 그리디                                               | [코드](programmers/level04/단어퍼즐.md)      |
+|Lv.4| [단어 퍼즐](https://school.programmers.co.kr/learn/courses/30/lessons/12983)           | 정렬 람다 sorted 다중 요소, 그리디                                | [코드](programmers/level04/단어퍼즐.md)      |
 |Lv.?| [체육대회](https://school.programmers.co.kr/learn/courses/30/lessons/121684)           | DFS , 백트래킹 , permutations , enumerate                  | [코드](programmers/level_기타/체육대회.md)     |
 
 ## 🎃 LeetCode
