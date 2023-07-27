@@ -217,6 +217,7 @@
 |Lv.3| [블록 이동하기](https://school.programmers.co.kr/learn/courses/30/lessons/60063)         | 3차원 배열 , BFS , 구현                                      | [코드](programmers/level03/블록이동하기..md)   |
 |Lv.3| [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)        | 이분 탐색                                                  | [코드](programmers/level03/징검다리.md)      |
 |Lv.3| [풍선 터트리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646)         | Stack , 구현                                             | [코드](programmers/level03/풍선.md)        |
+|Lv.3| [스타 수열](https://school.programmers.co.kr/learn/courses/30/lessons/70130)           | Counter , 구현                                           | [코드](programmers/level03/스타수열.md)      |
 |Lv.3| [카드 짝 맞추기](https://school.programmers.co.kr/learn/courses/30/lessons/72415)        | brute force , bfs , dp                                 | [코드](programmers/level03/짝맞추기.md)      |
 |Lv.3| [모두 0으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/76503)      | global , sys.setrecursionlimit 재귀 깊이 , 위상 정렬           | [코드](programmers/level03/모두0으로만들기.md)  |
 |Lv.3| [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)          | BFS 응용                                                 | [코드](programmers/level03/아이템줍기.md)     |
