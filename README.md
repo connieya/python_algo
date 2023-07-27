@@ -125,6 +125,7 @@
 |Lv.0| [옹알이(1)](https://programmers.co.kr/learn/courses/30/lessons/120956)           | replace() , strip()                                    | [코드](programmers/level00/옹알이.md)       |
 |Lv.0| [전국 대회 선발 고사](https://programmers.co.kr/learn/courses/30/lessons/181851)           | sorted , lambda                                   | [코드](programmers/level00/전국대회선발고사.md)       |
 |Lv.0| [뒤에서 5등 위로](https://programmers.co.kr/learn/courses/30/lessons/181852)               |  sorted()  , 슬라이싱 연산                                  | [코드](programmers/level00/뒤에서5등위로.md)        |
+|Lv.0| [a와 b 출력하기](https://programmers.co.kr/learn/courses/30/lessons/181951)               |  입 출력                               | [코드](programmers/level00/a와b출력하기.md)        |
 |Lv.1| [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)                | unordered_set                                          | [코드](programmers/level01/폰켓몬.md)       |
 |Lv.1| [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)       | substr 활용하기                                            | [코드](programmers/level01/가운데글자.md)     |
 |Lv.1| [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928)             | sum() , for in range                                   | [코드](programmers/level01/약수의합.md)      |
