@@ -61,169 +61,173 @@
 
 ## 👻 프로그래머스
 
-|레벨 | 문제                                                                            | 코멘트                                                    | 코드                                     |
-  |:------------------------------------------------------------------------------|:-------------------------------------------------------|:---------------------------------------|:-----
-|Lv.0| [중복된 숫자 개수](https://programmers.co.kr/learn/courses/30/lessons/120583)        | count 함수                                               | [코드](programmers/level00/중복된숫자개수.md)   |
-|Lv.0| [머쓱이 보다 키 큰 사람](https://programmers.co.kr/learn/courses/30/lessons/120585)    | for 문 or sort(reverse = True) , index                  | [코드](programmers/level00/머쓱이보다키큰사람.md) |
-|Lv.0| [두 수의 합](https://programmers.co.kr/learn/courses/30/lessons/120802)           | 덧셈 연산                                                  | [코드](programmers/level00/두수의합.md)      |
-|Lv.0| [두 수의 곱](https://programmers.co.kr/learn/courses/30/lessons/120804)           | 곱셈 연산                                                  | [코드](programmers/level00/두수의곱.md)      |
-|Lv.0| [몫 구하기](https://programmers.co.kr/learn/courses/30/lessons/120805)            | 몫 연산                                                   | [코드](programmers/level00/몫구하기.md)      |
-|Lv.0| [두 수의 나눗셈](https://programmers.co.kr/learn/courses/30/lessons/120806)           | 사칙 연산                                                | [코드](programmers/level00/두수의나눗셈.md)      |
-|Lv.0| [숫자 비교하기](https://programmers.co.kr/learn/courses/30/lessons/120807)          | 삼항 연산자                                                 | [코드](programmers/level00/숫자비교하기.md)    |
-|Lv.0| [분수의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/120808)       | 최대공약수 ,최소 공배수 , 유클리드 호제법                                            | [코드](programmers/level00/분수의덧셈.md)      |
-|Lv.0| [로그인 성공?](https://programmers.co.kr/learn/courses/30/lessons/120883)       | 파이썬 스러운 코드 , dict() , :=                                            | [코드](programmers/level00/로그인성공.md)      |
-|Lv.0| [배열 두 배 만들기](https://programmers.co.kr/learn/courses/30/lessons/120809)       | for 문 탐색                                               | [코드](programmers/level00/배열두배.md)      |
-|Lv.0| [나머지 구하기](https://programmers.co.kr/learn/courses/30/lessons/120810)          | 나머지 연산                                                 | [코드](programmers/level00/나머지.md)       |
-|Lv.0| [최빈값 구하기](https://programmers.co.kr/learn/courses/30/lessons/120812)             | remove , set                                                   | [코드](programmers/level00/최빈값.md)      |
-|Lv.0| [피자 나눠먹기 (1)](https://programmers.co.kr/learn/courses/30/lessons/120814)      | 삼항 연산자 , ceil 쓰지 않고 수학적으로 접근                           | [코드](programmers/level00/피자나눠먹기.md)    |
-|Lv.0| [배열의 평균 값](https://programmers.co.kr/learn/courses/30/lessons/120817)         | sum , len 함수                                           | [코드](programmers/level00/배열의평균값.md)    |
-|Lv.0| [아이스 아메리카노](https://programmers.co.kr/learn/courses/30/lessons/120819)        | 몫 ,나미저 연산                                              | [코드](programmers/level00/아이스아메리카노.md)  |
-|Lv.0| [나이 출력](https://programmers.co.kr/learn/courses/30/lessons/120820)            | 덧셈 연산                                                  | [코드](programmers/level00/나이출력.md)      |
-|Lv.0| [배열 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/120821)           | [::-1] ,list(reversed(str) , append & pop , .reverse() | [코드](programmers/level00/배열뒤집기.md)     |
-|Lv.0| [문자열 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/120822)          | [::-1]  , join(list(reversed(str))                     | [코드](programmers/level00/문자열뒤집기.md)    |
-|Lv.0| [짝수 홀수 개수](https://programmers.co.kr/learn/courses/30/lessons/120824)         | 짝수 홀수 개수                                               | [코드](programmers/level00/짝수홀수.md)      |
-|Lv.0| [특정 문자 제거하기](https://programmers.co.kr/learn/courses/30/lessons/120826)          | replace                                               | [코드](programmers/level00/특정문자제거하기.md)    |
-|Lv.0| [각도기](https://programmers.co.kr/learn/courses/30/lessons/120829)              | 조건문                                                    | [코드](programmers/level00/각도기.md)       |
-|Lv.0| [양꼬치](https://programmers.co.kr/learn/courses/30/lessons/120830)              | 수학                                                     | [코드](programmers/level00/양꼬치.md)       |
-|Lv.0| [짝수의합](https://programmers.co.kr/learn/courses/30/lessons/120831)             | for 문 , sum 함수                                         | [코드](programmers/level00/짝수의합.md)      |
-|Lv.0| [순서쌍의 개수](https://programmers.co.kr/learn/courses/30/lessons/120836)             |filter                                        | [코드](programmers/level00/순서쌍의개수.md)      |
-|Lv.0| [개미 군단](https://programmers.co.kr/learn/courses/30/lessons/120837)       | divmod                                    | [코드](programmers/level00/개미군단.md)  |
-|Lv.0| [모스 부호(1)](https://programmers.co.kr/learn/courses/30/lessons/120838)       | split                                          | [코드](programmers/level00/모스부호.md)  |
-|Lv.0| [가위 바위 보 ](https://programmers.co.kr/learn/courses/30/lessons/120839)        | dictionary                                              | [코드](programmers/level00/가위바위보.md)      |
-|Lv.0| [점의 위치 구하기](https://programmers.co.kr/learn/courses/30/lessons/120841)        | 조건문                                                    | [코드](programmers/level00/점의위치.md)      |
-|Lv.0| [컨트롤제트](https://programmers.co.kr/learn/courses/30/lessons/120853)              | 구현                                                     | [코드](programmers/level00/컨트롤제트.md)       |
-|Lv.0| [직사각형 넓이 구하기 ](https://programmers.co.kr/learn/courses/30/lessons/120860)         | 수학                                       | [코드](programmers/level00/직사각형넓이.md)    |
-|Lv.0| [캐릭터의 좌표](https://programmers.co.kr/learn/courses/30/lessons/120861)           | dict ,dx,dy                                 | [코드](programmers/level00/캐릭터의좌표.md)       |
-|Lv.0| [다항식 더하기](https://programmers.co.kr/learn/courses/30/lessons/120863)        | 삼항 연산자                                                | [코드](programmers/level00/다항식.md)      |
-|Lv.0| [숨어있는 숫자의 덧셈(2) ](https://programmers.co.kr/learn/courses/30/lessons/120864)        | isdigit , split , join                                                     | [코드](programmers/level00/숨어있는숫자2.md)    |
-|Lv.0| [안전지대](https://programmers.co.kr/learn/courses/30/lessons/120866)             | 반복문                                                    | [코드](programmers/level00/안전지대.md)      |
-|Lv.0| [저주의 숫자 3 ](https://programmers.co.kr/learn/courses/30/lessons/120871)        | str()                                                     | [코드](programmers/level00/저주의숫자3.md)    |
-|Lv.0| [평행](https://programmers.co.kr/learn/courses/30/lessons/120875)               | 직선의 기울기 , 반복문                                          | [코드](programmers/level00/평행.md)        |
-|Lv.0| [겹치는 선분의 길이](https://programmers.co.kr/learn/courses/30/lessons/120876)       | 겹치는 선 배열로 체크                                           | [코드](programmers/level00/겹치는선분의길이.md)  |
-|Lv.0| [유한소수 판별하기](https://programmers.co.kr/learn/courses/30/lessons/120878)             | 최대공약수, 소인수                                                   | [코드](programmers/level00/유한소수판별.md)      |
-|Lv.0| [구슬을 나누는 경우의 수](https://programmers.co.kr/learn/courses/30/lessons/120840)               | DP ,  조합    , math.comb                                   | [코드](programmers/level00/구슬.md)        |
-|Lv.0| [2차원으로 만들기](https://programmers.co.kr/learn/courses/30/lessons/120842)               | 인덱싱                                  | [코드](programmers/level00/2차원으로만들기.md)        |
-|Lv.0| [공 던지기](https://programmers.co.kr/learn/courses/30/lessons/12083)               | 수학                                  | [코드](programmers/level00/공던지기.md)        |
-|Lv.0| [특이한 정렬](https://programmers.co.kr/learn/courses/30/lessons/120880)           | 람다 정렬 조건 2                                    | [코드](programmers/level00/특이한정렬.md)       |
-|Lv.0| [등수 매기기](https://programmers.co.kr/learn/courses/30/lessons/120882)        | sort  ,dictionary                                              | [코드](programmers/level00/등수매기기.md)      |
-|Lv.0| [치킨 쿠폰](https://programmers.co.kr/learn/courses/30/lessons/120884)        | 수학      ,divmod                                              | [코드](programmers/level00/치킨쿠폰.md)      |
-|Lv.0| [한 번만 등장한 문자 ](https://programmers.co.kr/learn/courses/30/lessons/120896)        | Sorted , count , 파이썬 스러운 코드                                                    | [코드](programmers/level00/한번만.md)    |
-|Lv.0| [편지](https://programmers.co.kr/learn/courses/30/lessons/120898)               | 문자열의 길이                                                | [코드](programmers/level00/편지.md)        |
-|Lv.0| [가장 큰 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/120899)           | sorted , enumerate 활용                                    | [코드](programmers/level00/가장큰수.md)       |
-|Lv.0| [문자열 계산하기](https://programmers.co.kr/learn/courses/30/lessons/120902)           | eval                                   | [코드](programmers/level00/문자열계산.md)       |
-|Lv.0| [배열의 유사도 ](https://programmers.co.kr/learn/courses/30/lessons/120903)        | list 컴프리핸션                                                     | [코드](programmers/level00/배열의유사도.md)    |
-|Lv.0| [n의 배수 구하기](https://programmers.co.kr/learn/courses/30/lessons/120905)        | list , 조건문                                             | [코드](programmers/level00/배수고르기.md)     |
-|Lv.0| [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/120906)          | 나머지 연산                                                 | [코드](programmers/level00/자릿수더하기.md)    |
-|Lv.0| [OX퀴즈](https://programmers.co.kr/learn/courses/30/lessons/120907)          | eval , split()                                                | [코드](programmers/level00/OX퀴즈.md)    |
-|Lv.0| [문자열 안에 문자열](https://programmers.co.kr/learn/courses/30/lessons/120908)       | count , in , 삼항 연산자                                    | [코드](programmers/level00/문자열안에문자열.md)  |
-|Lv.0| [제곱 수 판별하기](https://programmers.co.kr/learn/courses/30/lessons/120909)        | math.sqrt                                              | [코드](programmers/level00/제곱수판별.md)     |
-|Lv.0| [7의 개수 ](https://programmers.co.kr/learn/courses/30/lessons/120912)           | 구현                                                     | [코드](programmers/level00/7의개수.md)      |
-|Lv.0| [문자열 밀기 ](https://programmers.co.kr/learn/courses/30/lessons/120921)          | 문자열 슬라이스 인덱싱                                           | [코드](programmers/level00/문자열밀기.md)     |
-|Lv.0| [종이 자르기 ](https://programmers.co.kr/learn/courses/30/lessons/120922)          | 수학                                                     | [코드](programmers/level00/종이자르기.md)     |
-|Lv.0| [연속된 수의 합 ](https://programmers.co.kr/learn/courses/30/lessons/120923)        | 수학                                                     | [코드](programmers/level00/연속된수의합.md)    |
-|Lv.0| [다음에 올 숫자 ](https://programmers.co.kr/learn/courses/30/lessons/120924)        | 구현                                                     | [코드](programmers/level00/다음에올숫자.md)    |
-|Lv.0| [옹알이(1)](https://programmers.co.kr/learn/courses/30/lessons/120956)           | replace() , strip()                                    | [코드](programmers/level00/옹알이.md)       |
-|Lv.0| [전국 대회 선발 고사](https://programmers.co.kr/learn/courses/30/lessons/181851)           | sorted , lambda                                   | [코드](programmers/level00/전국대회선발고사.md)       |
-|Lv.0| [뒤에서 5등 위로](https://programmers.co.kr/learn/courses/30/lessons/181852)               |  sorted()  , 슬라이싱 연산                                  | [코드](programmers/level00/뒤에서5등위로.md)        |
-|Lv.1| [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)                | unordered_set                                          | [코드](programmers/level01/폰켓몬.md)       |
-|Lv.1| [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)       | substr 활용하기                                            | [코드](programmers/level01/가운데글자.md)     |
-|Lv.1| [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928)             | sum() , for in range                                   | [코드](programmers/level01/약수의합.md)      |
-|Lv.1| [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)           | sum() ,int() , str()                                   | [코드](programmers/level01/자릿수더하기.md)    |
-|Lv.1| [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)            | 삼항 연산자                                                 | [코드](programmers/level01/짝수와홀수.md)     |
-|Lv.1| [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)            | sum() , len()                                          | [코드](programmers/level01/평균구하기.md)     |
-|Lv.1| [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)              | 이진법 연산                                                 | [코드](programmers/level01/비밀지도.md)      |
-|Lv.1| [1차 다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682)           | 구현, 스택                                                 | [코드](programmers/level01/다트게임.md)      |
-|Lv.1| [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)               | 정렬,람다, 예외처리                                            | [코드](programmers/level01/실패율.md)       |
-|Lv.1| [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)       | 반복문 ,구현                                                | [코드](programmers/level01/크레인.md)       |
-|Lv.1| [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)           | 딕셔너리, 구현                                               | [코드](programmers/level01/키패드.md)       |
-|Lv.1| [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)         | 문자열 구현 , 정규 표현식                                        | [코드](programmers/level01/신규아이디추천.md)   |
-|Lv.1| [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)         | look up 테이블  , 수학                                      | [코드](programmers/level01/없는숫자더하기.md)   |
-|Lv.1| [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)            | min ,max , swap                                        | [코드](programmers/level01/최소직사각형.md)    |
-|Lv.1| [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)   | 나머지 연산                                                 | [코드](programmers/level01/나머지1.md)      |
-|Lv.1| [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)          | 딕셔너리 , 리스트 , Set , index                               | [코드](programmers/level01/신고결과받기.md)    |
-|Lv.1| [성격 유형 검사 ](https://programmers.co.kr/learn/courses/30/lessons/118666)        | 딕셔너리                                                   | [코드](programmers/level01/성격유형검사.md)    |
-|Lv.1| [숫자 짝꿍 ](https://programmers.co.kr/learn/courses/30/lessons/131128)           | count , 문자열                                            | [코드](programmers/level01/숫자짝꿍.md)      |
-|Lv.1| [삼총사](https://programmers.co.kr/learn/courses/30/lessons/131705)              | Combinations 조합                                        | [코드](programmers/level01/삼총사.md)       |
-|Lv.1| [콜라 문제 ](https://programmers.co.kr/learn/courses/30/lessons/132267)           | 수학                                                     | [코드](programmers/level01/콜라문제.md)      |
-|Lv.1| [옹알이 (2) ](https://programmers.co.kr/learn/courses/30/lessons/133499)         | not in , replace , strip()                             | [코드](programmers/level01/옹알이.md)       |
-|Lv.1| [햄버거 만들기](https://programmers.co.kr/learn/courses/30/lessons/133502)          | 스택 , 슬라이싱 이용하기                                         | [코드](programmers/level01/햄버거.md)       |
-|Lv.1| [푸드 파이트 대회](https://programmers.co.kr/learn/courses/30/lessons/134240)        | 문자열 구현                                                 | [코드](programmers/level01/푸드파이터.md)     |
-|Lv.1| [과일 장수](https://programmers.co.kr/learn/courses/30/lessons/135808)            | 정렬                                                     | [코드](programmers/level01/과일장수.md)      |
-|Lv.1| [기사단원의 무기](https://programmers.co.kr/learn/courses/30/lessons/136798)         | 구현, 수학 (약수의 개수)                                        | [코드](programmers/level01/기사단원의무기.md)   |
-|Lv.1| [명예의 전당(1)](https://programmers.co.kr/learn/courses/30/lessons/138477)        | 우선순위 큐                                                 | [코드](programmers/level01/명예의전당.md)     |
-|Lv.1| [문자열 나누가](https://programmers.co.kr/learn/courses/30/lessons/140108)          | 구현 , deque 활용                                          | [코드](programmers/level01/문자열나누기.md)    |
-|Lv.1| [가장 가까운 같은 글자](https://programmers.co.kr/learn/courses/30/lessons/142086)     | 룩업 배열 , 딕셔너리                                           | [코드](programmers/level01/가장가까운글자.md)   |
-|Lv.1| [크기가 작은 부분 문자열](https://programmers.co.kr/learn/courses/30/lessons/147355)    | 이중 for 문 , 문자열 인덱싱                                     | [코드](programmers/level01/부분문자열.md)     |
-|Lv.1| [개인정보 수집 유효기간](https://programmers.co.kr/learn/courses/30/lessons/150370)    | 문자열 구현                                    | [코드](programmers/level01/개인정보수집.md)     |
-|Lv.1| [둘만의 암호](https://programmers.co.kr/learn/courses/30/lessons/155652)           |    ascii_lower ,set() , pythonic                                                    | [코드](programmers/level01/둘만의암호.md)      |
-|Lv.1| [카드 뭉치](https://programmers.co.kr/learn/courses/30/lessons/159994)    | pop()                                  | [코드](programmers/level01/카드뭉치.md)     |
-|Lv.1| [대충 만든 자판](https://programmers.co.kr/learn/courses/30/lessons/160586)              | for문,  find()                                       | [코드](programmers/level01/대충만든자판.md)       |
-|Lv.1| [바탕화면 정리](https://programmers.co.kr/learn/courses/30/lessons/161990)              | 구현                                     | [코드](programmers/level01/바탕화면정리.md)       |
-|Lv.1| [공원 산책](https://programmers.co.kr/learn/courses/30/lessons/172928)              | 구현                                     | [코드](programmers/level01/공원산책.md)       |
-|Lv.1| [추억 점수](https://programmers.co.kr/learn/courses/30/lessons/176963)              | defaultdict  ,  list comprehension                                   | [코드](programmers/level01/추억점수.md)       |
-|Lv.1| [달리기 경주](https://programmers.co.kr/learn/courses/30/lessons/178871)              | defaultdict  , swap                                    | [코드](programmers/level01/달리기경주.md)       |
-|Lv.2| [가장 큰 정사각형 만들기](https://programmers.co.kr/learn/courses/30/lessons/12905)          | DP                                    | [코드](programmers/level02/가장큰정사각형.md)      |
-|Lv.2| [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)          | 2진법 1의 개수 , bin                                     | [코드](programmers/level02/다음큰숫자.md)      |
-|Lv.2| [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)          | split , min , max                                      | [코드](programmers/level02/최대최소.md)      |
-|Lv.2| [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | split() , split(" ") 구분하기                              | [코드](programmers/level02/JadenCase.md) |
-|Lv.2| [[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)              | Counter and 연산 , or 연산 , isalpha              | [코드](programmers/level02/뉴스클러스터링.md)      |
-|Lv.2| [[1차] 프렌즈 4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)                | 구현 , 문자열을 중첩리스트로 표현                            | [코드](programmers/level02/프렌즈4블록.md)        |
+|레벨 | 문제                                                                                 | 코멘트                                                    | 코드                                     |
+  |:------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------|:-------------------------------------------------------|:---------------------------------------
+|Lv.0| [중복된 숫자 개수](https://programmers.co.kr/learn/courses/30/lessons/120583)             | count 함수                                               | [코드](programmers/level00/중복된숫자개수.md)   |
+|Lv.0| [머쓱이 보다 키 큰 사람](https://programmers.co.kr/learn/courses/30/lessons/120585)         | for 문 or sort(reverse = True) , index                  | [코드](programmers/level00/머쓱이보다키큰사람.md) |
+|Lv.0| [두 수의 합](https://programmers.co.kr/learn/courses/30/lessons/120802)                | 덧셈 연산                                                  | [코드](programmers/level00/두수의합.md)      |
+|Lv.0| [두 수의 곱](https://programmers.co.kr/learn/courses/30/lessons/120804)                | 곱셈 연산                                                  | [코드](programmers/level00/두수의곱.md)      |
+|Lv.0| [몫 구하기](https://programmers.co.kr/learn/courses/30/lessons/120805)                 | 몫 연산                                                   | [코드](programmers/level00/몫구하기.md)      |
+|Lv.0| [두 수의 나눗셈](https://programmers.co.kr/learn/courses/30/lessons/120806)              | 사칙 연산                                                  | [코드](programmers/level00/두수의나눗셈.md)    |
+|Lv.0| [숫자 비교하기](https://programmers.co.kr/learn/courses/30/lessons/120807)               | 삼항 연산자                                                 | [코드](programmers/level00/숫자비교하기.md)    |
+|Lv.0| [분수의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/120808)                | 최대공약수 ,최소 공배수 , 유클리드 호제법                               | [코드](programmers/level00/분수의덧셈.md)     |
+|Lv.0| [로그인 성공?](https://programmers.co.kr/learn/courses/30/lessons/120883)               | 파이썬 스러운 코드 , dict() , :=                               | [코드](programmers/level00/로그인성공.md)     |
+|Lv.0| [배열 두 배 만들기](https://programmers.co.kr/learn/courses/30/lessons/120809)            | for 문 탐색                                               | [코드](programmers/level00/배열두배.md)      |
+|Lv.0| [나머지 구하기](https://programmers.co.kr/learn/courses/30/lessons/120810)               | 나머지 연산                                                 | [코드](programmers/level00/나머지.md)       |
+|Lv.0| [최빈값 구하기](https://programmers.co.kr/learn/courses/30/lessons/120812)               | remove , set                                           | [코드](programmers/level00/최빈값.md)       |
+|Lv.0| [피자 나눠먹기 (1)](https://programmers.co.kr/learn/courses/30/lessons/120814)           | 삼항 연산자 , ceil 쓰지 않고 수학적으로 접근                           | [코드](programmers/level00/피자나눠먹기.md)    |
+|Lv.0| [배열의 평균 값](https://programmers.co.kr/learn/courses/30/lessons/120817)              | sum , len 함수                                           | [코드](programmers/level00/배열의평균값.md)    |
+|Lv.0| [아이스 아메리카노](https://programmers.co.kr/learn/courses/30/lessons/120819)             | 몫 ,나미저 연산                                              | [코드](programmers/level00/아이스아메리카노.md)  |
+|Lv.0| [나이 출력](https://programmers.co.kr/learn/courses/30/lessons/120820)                 | 덧셈 연산                                                  | [코드](programmers/level00/나이출력.md)      |
+|Lv.0| [배열 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/120821)                | [::-1] ,list(reversed(str) , append & pop , .reverse() | [코드](programmers/level00/배열뒤집기.md)     |
+|Lv.0| [문자열 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/120822)               | [::-1]  , join(list(reversed(str))                     | [코드](programmers/level00/문자열뒤집기.md)    |
+|Lv.0| [짝수 홀수 개수](https://programmers.co.kr/learn/courses/30/lessons/120824)              | 짝수 홀수 개수                                               | [코드](programmers/level00/짝수홀수.md)      |
+|Lv.0| [특정 문자 제거하기](https://programmers.co.kr/learn/courses/30/lessons/120826)            | replace                                                | [코드](programmers/level00/특정문자제거하기.md)  |
+|Lv.0| [각도기](https://programmers.co.kr/learn/courses/30/lessons/120829)                   | 조건문                                                    | [코드](programmers/level00/각도기.md)       |
+|Lv.0| [양꼬치](https://programmers.co.kr/learn/courses/30/lessons/120830)                   | 수학                                                     | [코드](programmers/level00/양꼬치.md)       |
+|Lv.0| [짝수의합](https://programmers.co.kr/learn/courses/30/lessons/120831)                  | for 문 , sum 함수                                         | [코드](programmers/level00/짝수의합.md)      |
+|Lv.0| [순서쌍의 개수](https://programmers.co.kr/learn/courses/30/lessons/120836)               | filter                                                 | [코드](programmers/level00/순서쌍의개수.md)    |
+|Lv.0| [개미 군단](https://programmers.co.kr/learn/courses/30/lessons/120837)                 | divmod                                                 | [코드](programmers/level00/개미군단.md)      |
+|Lv.0| [모스 부호(1)](https://programmers.co.kr/learn/courses/30/lessons/120838)              | split                                                  | [코드](programmers/level00/모스부호.md)      |
+|Lv.0| [가위 바위 보 ](https://programmers.co.kr/learn/courses/30/lessons/120839)              | dictionary                                             | [코드](programmers/level00/가위바위보.md)     |
+|Lv.0| [점의 위치 구하기](https://programmers.co.kr/learn/courses/30/lessons/120841)             | 조건문                                                    | [코드](programmers/level00/점의위치.md)      |
+|Lv.0| [컨트롤제트](https://programmers.co.kr/learn/courses/30/lessons/120853)                 | 구현                                                     | [코드](programmers/level00/컨트롤제트.md)     |
+|Lv.0| [직사각형 넓이 구하기 ](https://programmers.co.kr/learn/courses/30/lessons/120860)          | 수학                                                     | [코드](programmers/level00/직사각형넓이.md)    |
+|Lv.0| [캐릭터의 좌표](https://programmers.co.kr/learn/courses/30/lessons/120861)               | dict ,dx,dy                                            | [코드](programmers/level00/캐릭터의좌표.md)    |
+|Lv.0| [다항식 더하기](https://programmers.co.kr/learn/courses/30/lessons/120863)               | 삼항 연산자                                                 | [코드](programmers/level00/다항식.md)       |
+|Lv.0| [숨어있는 숫자의 덧셈(2) ](https://programmers.co.kr/learn/courses/30/lessons/120864)       | isdigit , split , join                                 | [코드](programmers/level00/숨어있는숫자2.md)   |
+|Lv.0| [안전지대](https://programmers.co.kr/learn/courses/30/lessons/120866)                  | 반복문                                                    | [코드](programmers/level00/안전지대.md)      |
+|Lv.0| [저주의 숫자 3 ](https://programmers.co.kr/learn/courses/30/lessons/120871)             | str()                                                  | [코드](programmers/level00/저주의숫자3.md)    |
+|Lv.0| [평행](https://programmers.co.kr/learn/courses/30/lessons/120875)                    | 직선의 기울기 , 반복문                                          | [코드](programmers/level00/평행.md)        |
+|Lv.0| [겹치는 선분의 길이](https://programmers.co.kr/learn/courses/30/lessons/120876)            | 겹치는 선 배열로 체크                                           | [코드](programmers/level00/겹치는선분의길이.md)  |
+|Lv.0| [유한소수 판별하기](https://programmers.co.kr/learn/courses/30/lessons/120878)             | 최대공약수, 소인수                                             | [코드](programmers/level00/유한소수판별.md)    |
+|Lv.0| [구슬을 나누는 경우의 수](https://programmers.co.kr/learn/courses/30/lessons/120840)         | DP ,  조합    , math.comb                                | [코드](programmers/level00/구슬.md)        |
+|Lv.0| [2차원으로 만들기](https://programmers.co.kr/learn/courses/30/lessons/120842)             | 인덱싱                                                    | [코드](programmers/level00/2차원으로만들기.md)  |
+|Lv.0| [공 던지기](https://programmers.co.kr/learn/courses/30/lessons/12083)                  | 수학                                                     | [코드](programmers/level00/공던지기.md)      |
+|Lv.0| [특이한 정렬](https://programmers.co.kr/learn/courses/30/lessons/120880)                | 람다 정렬 조건 2                                             | [코드](programmers/level00/특이한정렬.md)     |
+|Lv.0| [등수 매기기](https://programmers.co.kr/learn/courses/30/lessons/120882)                | sort  ,dictionary                                      | [코드](programmers/level00/등수매기기.md)     |
+|Lv.0| [치킨 쿠폰](https://programmers.co.kr/learn/courses/30/lessons/120884)                 | 수학      ,divmod                                        | [코드](programmers/level00/치킨쿠폰.md)      |
+|Lv.0| [한 번만 등장한 문자 ](https://programmers.co.kr/learn/courses/30/lessons/120896)          | Sorted , count , 파이썬 스러운 코드                            | [코드](programmers/level00/한번만.md)       |
+|Lv.0| [편지](https://programmers.co.kr/learn/courses/30/lessons/120898)                    | 문자열의 길이                                                | [코드](programmers/level00/편지.md)        |
+|Lv.0| [가장 큰 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/120899)             | sorted , enumerate 활용                                  | [코드](programmers/level00/가장큰수.md)      |
+|Lv.0| [문자열 계산하기](https://programmers.co.kr/learn/courses/30/lessons/120902)              | eval                                                   | [코드](programmers/level00/문자열계산.md)     |
+|Lv.0| [배열의 유사도 ](https://programmers.co.kr/learn/courses/30/lessons/120903)              | list 컴프리핸션                                             | [코드](programmers/level00/배열의유사도.md)    |
+|Lv.0| [n의 배수 구하기](https://programmers.co.kr/learn/courses/30/lessons/120905)             | list , 조건문                                             | [코드](programmers/level00/배수고르기.md)     |
+|Lv.0| [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/120906)               | 나머지 연산                                                 | [코드](programmers/level00/자릿수더하기.md)    |
+|Lv.0| [OX퀴즈](https://programmers.co.kr/learn/courses/30/lessons/120907)                  | eval , split()                                         | [코드](programmers/level00/OX퀴즈.md)      |
+|Lv.0| [문자열 안에 문자열](https://programmers.co.kr/learn/courses/30/lessons/120908)            | count , in , 삼항 연산자                                    | [코드](programmers/level00/문자열안에문자열.md)  |
+|Lv.0| [제곱 수 판별하기](https://programmers.co.kr/learn/courses/30/lessons/120909)             | math.sqrt                                              | [코드](programmers/level00/제곱수판별.md)     |
+|Lv.0| [7의 개수 ](https://programmers.co.kr/learn/courses/30/lessons/120912)                | 구현                                                     | [코드](programmers/level00/7의개수.md)      |
+|Lv.0| [문자열 밀기 ](https://programmers.co.kr/learn/courses/30/lessons/120921)               | 문자열 슬라이스 인덱싱                                           | [코드](programmers/level00/문자열밀기.md)     |
+|Lv.0| [종이 자르기 ](https://programmers.co.kr/learn/courses/30/lessons/120922)               | 수학                                                     | [코드](programmers/level00/종이자르기.md)     |
+|Lv.0| [연속된 수의 합 ](https://programmers.co.kr/learn/courses/30/lessons/120923)             | 수학                                                     | [코드](programmers/level00/연속된수의합.md)    |
+|Lv.0| [다음에 올 숫자 ](https://programmers.co.kr/learn/courses/30/lessons/120924)             | 구현                                                     | [코드](programmers/level00/다음에올숫자.md)    |
+|Lv.0| [옹알이(1)](https://programmers.co.kr/learn/courses/30/lessons/120956)                | replace() , strip()                                    | [코드](programmers/level00/옹알이.md)       |
+|Lv.0| [전국 대회 선발 고사](https://programmers.co.kr/learn/courses/30/lessons/181851)           | sorted , lambda                                        | [코드](programmers/level00/전국대회선발고사.md)  |
+|Lv.0| [뒤에서 5등 위로](https://programmers.co.kr/learn/courses/30/lessons/181852)             | sorted()  , 슬라이싱 연산                                    | [코드](programmers/level00/뒤에서5등위로.md)   |
+|Lv.1| [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)                     | unordered_set                                          | [코드](programmers/level01/폰켓몬.md)       |
+|Lv.1| [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)            | substr 활용하기                                            | [코드](programmers/level01/가운데글자.md)     |
+|Lv.1| [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928)                  | sum() , for in range                                   | [코드](programmers/level01/약수의합.md)      |
+|Lv.1| [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)                | sum() ,int() , str()                                   | [코드](programmers/level01/자릿수더하기.md)    |
+|Lv.1| [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)                 | 삼항 연산자                                                 | [코드](programmers/level01/짝수와홀수.md)     |
+|Lv.1| [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)                 | sum() , len()                                          | [코드](programmers/level01/평균구하기.md)     |
+|Lv.1| [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)                   | 이진법 연산                                                 | [코드](programmers/level01/비밀지도.md)      |
+|Lv.1| [1차 다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682)                | 구현, 스택                                                 | [코드](programmers/level01/다트게임.md)      |
+|Lv.1| [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)                    | 정렬,람다, 예외처리                                            | [코드](programmers/level01/실패율.md)       |
+|Lv.1| [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)            | 반복문 ,구현                                                | [코드](programmers/level01/크레인.md)       |
+|Lv.1| [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)                | 딕셔너리, 구현                                               | [코드](programmers/level01/키패드.md)       |
+|Lv.1| [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)              | 문자열 구현 , 정규 표현식                                        | [코드](programmers/level01/신규아이디추천.md)   |
+|Lv.1| [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)              | look up 테이블  , 수학                                      | [코드](programmers/level01/없는숫자더하기.md)   |
+|Lv.1| [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)                 | min ,max , swap                                        | [코드](programmers/level01/최소직사각형.md)    |
+|Lv.1| [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)        | 나머지 연산                                                 | [코드](programmers/level01/나머지1.md)      |
+|Lv.1| [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)               | 딕셔너리 , 리스트 , Set , index                               | [코드](programmers/level01/신고결과받기.md)    |
+|Lv.1| [성격 유형 검사 ](https://programmers.co.kr/learn/courses/30/lessons/118666)             | 딕셔너리                                                   | [코드](programmers/level01/성격유형검사.md)    |
+|Lv.1| [숫자 짝꿍 ](https://programmers.co.kr/learn/courses/30/lessons/131128)                | count , 문자열                                            | [코드](programmers/level01/숫자짝꿍.md)      |
+|Lv.1| [삼총사](https://programmers.co.kr/learn/courses/30/lessons/131705)                   | Combinations 조합                                        | [코드](programmers/level01/삼총사.md)       |
+|Lv.1| [콜라 문제 ](https://programmers.co.kr/learn/courses/30/lessons/132267)                | 수학                                                     | [코드](programmers/level01/콜라문제.md)      |
+|Lv.1| [옹알이 (2) ](https://programmers.co.kr/learn/courses/30/lessons/133499)              | not in , replace , strip()                             | [코드](programmers/level01/옹알이.md)       |
+|Lv.1| [햄버거 만들기](https://programmers.co.kr/learn/courses/30/lessons/133502)               | 스택 , 슬라이싱 이용하기                                         | [코드](programmers/level01/햄버거.md)       |
+|Lv.1| [푸드 파이트 대회](https://programmers.co.kr/learn/courses/30/lessons/134240)             | 문자열 구현                                                 | [코드](programmers/level01/푸드파이터.md)     |
+|Lv.1| [과일 장수](https://programmers.co.kr/learn/courses/30/lessons/135808)                 | 정렬                                                     | [코드](programmers/level01/과일장수.md)      |
+|Lv.1| [기사단원의 무기](https://programmers.co.kr/learn/courses/30/lessons/136798)              | 구현, 수학 (약수의 개수)                                        | [코드](programmers/level01/기사단원의무기.md)   |
+|Lv.1| [명예의 전당(1)](https://programmers.co.kr/learn/courses/30/lessons/138477)             | 우선순위 큐                                                 | [코드](programmers/level01/명예의전당.md)     |
+|Lv.1| [문자열 나누가](https://programmers.co.kr/learn/courses/30/lessons/140108)               | 구현 , deque 활용                                          | [코드](programmers/level01/문자열나누기.md)    |
+|Lv.1| [가장 가까운 같은 글자](https://programmers.co.kr/learn/courses/30/lessons/142086)          | 룩업 배열 , 딕셔너리                                           | [코드](programmers/level01/가장가까운글자.md)   |
+|Lv.1| [크기가 작은 부분 문자열](https://programmers.co.kr/learn/courses/30/lessons/147355)         | 이중 for 문 , 문자열 인덱싱                                     | [코드](programmers/level01/부분문자열.md)     |
+|Lv.1| [개인정보 수집 유효기간](https://programmers.co.kr/learn/courses/30/lessons/150370)          | 문자열 구현                                                 | [코드](programmers/level01/개인정보수집.md)    |
+|Lv.1| [둘만의 암호](https://programmers.co.kr/learn/courses/30/lessons/155652)                | ascii_lower ,set() , pythonic                          | [코드](programmers/level01/둘만의암호.md)     |
+|Lv.1| [카드 뭉치](https://programmers.co.kr/learn/courses/30/lessons/159994)                 | pop()                                                  | [코드](programmers/level01/카드뭉치.md)      |
+|Lv.1| [대충 만든 자판](https://programmers.co.kr/learn/courses/30/lessons/160586)              | for문,  find()                                          | [코드](programmers/level01/대충만든자판.md)    |
+|Lv.1| [바탕화면 정리](https://programmers.co.kr/learn/courses/30/lessons/161990)               | 구현                                                     | [코드](programmers/level01/바탕화면정리.md)    |
+|Lv.1| [공원 산책](https://programmers.co.kr/learn/courses/30/lessons/172928)                 | 구현                                                     | [코드](programmers/level01/공원산책.md)      |
+|Lv.1| [추억 점수](https://programmers.co.kr/learn/courses/30/lessons/176963)                 | defaultdict  ,  list comprehension                     | [코드](programmers/level01/추억점수.md)      |
+|Lv.1| [달리기 경주](https://programmers.co.kr/learn/courses/30/lessons/178871)                | defaultdict  , swap                                    | [코드](programmers/level01/달리기경주.md)     |
+|Lv.2| [가장 큰 정사각형 만들기](https://programmers.co.kr/learn/courses/30/lessons/12905)          | DP                                                     | [코드](programmers/level02/가장큰정사각형.md)   |
+|Lv.2| [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)                | 2진법 1의 개수 , bin                                        | [코드](programmers/level02/다음큰숫자.md)     |
+|Lv.2| [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)               | split , min , max                                      | [코드](programmers/level02/최대최소.md)      |
+|Lv.2| [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)      | split() , split(" ") 구분하기                              | [코드](programmers/level02/JadenCase.md) |
+|Lv.2| [[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)          | Counter and 연산 , or 연산 , isalpha                       | [코드](programmers/level02/뉴스클러스터링.md)   |
+|Lv.2| [[1차] 프렌즈 4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)           | 구현 , 문자열을 중첩리스트로 표현                                    | [코드](programmers/level02/프렌즈4블록.md)    |
 |Lv.2| [[1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)                | deque ( maxlen) , LRU 알고리즘                             | [코드](programmers/level02/캐시.md)        |
-|Lv.2| [[3차] 방금 그곡](https://programmers.co.kr/learn/courses/30/lessons/17683)              | sort , replace , 인덱싱     | [코드](programmers/level02/방금그곡.md)      |
-|Lv.2| [n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)            | 수학, 구현                                                 | [코드](programmers/level02/n진수.md)       |
-|Lv.2| [타켓 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)              | global 키워드 , DFS  , itertools product      | [코드](programmers/level02/타켓넘버.md)      |
-|Lv.2| [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)              | 구현 다양한 풀이 , ord , 슬라이싱 , for-else ... etc              | [코드](programmers/level02/스킬트리.md)      |
-|Lv.2| [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)                | rstrip(),lstrip(), sort 조건 ,람다                         | [코드](programmers/level02/튜플.md)        |
-|Lv.2| [삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)               | 재귀                                  | [코드](programmers/level02/삼각달팽이.md)       |
-|Lv.2| [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)           | 스택, deque , 인덱스 슬라이싱                                   | [코드](programmers/level02/괄호회전.md)      |
-|Lv.2| [전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971)       | DFS , 그래프                                              | [코드](programmers/level02/전력망.md)       |
-|Lv.2| [피로도](https://programmers.co.kr/learn/courses/30/lessons/87946)               | DFS, 완탐 , global  키워드                                  | [코드](programmers/level02/피로도.md)       |
-|Lv.2| [k진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335)   | 소수 구하기 , split()                                       | [코드](programmers/level02/k진수.md)       |
-|Lv.2| [두 큐 합 같게 만들기](https://programmers.co.kr/learn/courses/30/lessons/118667)     | deque 사용                                               | [코드](programmers/level02/두큐합.md)       |
-|Lv.2| [할인 행사](https://programmers.co.kr/learn/courses/30/lessons/131127)            | 딕셔너리 , Counter                                         | [코드](programmers/level02/할인행사.md)      |
-|Lv.2| [혼자 놀기의 달인](https://programmers.co.kr/learn/courses/30/lessons/131130)        | union & find , 딕셔너리                                    | [코드](programmers/level02/혼자놀기의달인.md)   |
-|Lv.2| [연속 부분 수열 합의 개수](https://programmers.co.kr/learn/courses/30/lessons/131701)   | for 문                                                  | [코드](programmers/level02/연속부분.md)      |
-|Lv.2| [택배상자](https://programmers.co.kr/learn/courses/30/lessons/131704)             | 스택 ⭐                                                   | [코드](programmers/level02/택배상자.md)      |
-|Lv.2| [롤케이크 자르기](https://programmers.co.kr/learn/courses/30/lessons/132265)         | dictionary 문법 익히기 ⭐                                    | [코드](programmers/level02/롤케이크.md)      |
-|Lv.2| [야간 전술 보행](https://programmers.co.kr/learn/courses/30/lessons/133501)         | 다시 풀기                                                  | [코드](programmers/level02/야간전술보행.md)    |
-|Lv.2| [숫자 카드 나누기](https://programmers.co.kr/learn/courses/30/lessons/135807)        | 최대공약수                                                  | [코드](programmers/level02/숫자카드.md)      |
-|Lv.2| [귤 고르기](https://programmers.co.kr/learn/courses/30/lessons/138476)            | Counter , most_common()                                | [코드](programmers/level02/귤고르기.md)      |
-|Lv.2| [점 찍기](https://programmers.co.kr/learn/courses/30/lessons/140107)             | 원의 방정식, 피타고라스 정리                                       | [코드](programmers/level02/점찍기.md)       |
-|Lv.2| [디펜스 게임](https://programmers.co.kr/learn/courses/30/lessons/142085)           | 최소 힙                                                   | [코드](programmers/level02/디펜스게임.md)     |
-|Lv.2| [마법의 엘리베이터](https://programmers.co.kr/learn/courses/30/lessons/148653)   | 백트래킹 ,재귀                                       | [코드](programmers/level02/마법의엘리베이터.md)       |
-|Lv.2| [이모티콘 할인 행사](https://programmers.co.kr/learn/courses/30/lessons/150368)            | 브루트 포스  , itertools / product                                     | [코드](programmers/level02/이모티콘할인행사.md)      |
-|Lv.2| [택배 배달과 수거하기](https://programmers.co.kr/learn/courses/30/lessons/150369)            | 그리디                                        | [코드](programmers/level02/택배배달.md)      |
-|Lv.2| [숫자 변환하기](https://programmers.co.kr/learn/courses/30/lessons/154538)          | BFS                                                    | [코드](programmers/level02/숫자변환하기.md)    |
-|Lv.2| [뒤에 있는 큰 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/154539)     | 스택                                                     | [코드](programmers/level02/뒤에큰수찾기.md)    |
-|Lv.2| [무인도 여행](https://programmers.co.kr/learn/courses/30/lessons/154540)     | deque , BFS                                                   | [코드](programmers/level02/무인도여행.md)    |
-|Lv.2| [호텔 대실](https://programmers.co.kr/learn/courses/30/lessons/155651)     | 우선순위 큐 , 그리디                                                     | [코드](programmers/level02/호텔대실.md)    |
-|Lv.2| [미로 탈출](https://programmers.co.kr/learn/courses/30/lessons/159993)            | BFS 두번                                        | [코드](programmers/level02/미로탈출.md)      |
-|Lv.2| [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)  | 구현  , all 함수                                    | [코드](programmers/level02/틱택토.md)     |
-|Lv.2| [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)  | 그리디                                      | [코드](programmers/level02/덧칠하기.md)     |
-|Lv.2| [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)  | 그리디   ,정렬                                   | [코드](programmers/level02/광물캐기.md)     |
-|Lv.3| [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)  | 문자열 슬라이스 인덱싱                                           | [코드](programmers/level03/긴팰린드롬.md)     |
-|Lv.3| [스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971) | DP                                                     | [코드](programmers/level03/스티커모으기.md)    |
-|Lv.3| [기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)     | 그리디 ,구현                                                | [코드](programmers/level03/기지국설치.md)     |
-|Lv.3| [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)     | deque , bfs ,  그리디                                                 | [코드](programmers/level03/숫자게임.md)     |
-|Lv.3| [[1차] 추석 트래픽 ](https://school.programmers.co.kr/learn/courses/30/lessons/17676)     | datetime.strptime()                                       | [코드](programmers/level03/추석트래픽.md)     |
-|Lv.3| [[1차] 셔틀버스 ](https://school.programmers.co.kr/learn/courses/30/lessons/17678)     | divmode , zfill                                        | [코드](programmers/level03/셔틀버스.md)     |
-|Lv.3| [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)      | 딕셔너리 , sort , 람다 (내림차순, 오름차순)                          | [코드](programmers/level03/베스트앨범.md)     |
-|Lv.3| [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)    | 우선순위큐, heapq , remove, 예외처리                            | [코드](programmers/level03/이중우선순위큐.md)   |
-|Lv.3| [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)        | DP                                                     | [코드](programmers/level03/등굣길.md)       |
-|Lv.3| [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)     | DP                                                     | [코드](programmers/level03/정수삼각형.md)     |
-|Lv.3| [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)       | DFS , 플로이드 와샬                                          | [코드](programmers/level03/네트워크.md)      |
-|Lv.3| [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)       | DFS                                                    | [코드](programmers/level03/여행경로.md)      |
-|Lv.3| [블록 이동하기](https://school.programmers.co.kr/learn/courses/30/lessons/60063)    | 3차원 배열 , BFS , 구현                                              | [코드](programmers/level03/블록이동하기..md)     |
-|Lv.3| [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)    | 이분 탐색                                                | [코드](programmers/level03/징검다리.md)     |
-|Lv.3| [카드 짝 맞추기](https://school.programmers.co.kr/learn/courses/30/lessons/72415)    | brute force , bfs , dp                                                 | [코드](programmers/level03/짝맞추기.md)     |
-|Lv.3| [모두 0으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/76503)    | global , sys.setrecursionlimit 재귀 깊이 , 위상 정렬                                               | [코드](programmers/level03/모두0으로만들기.md)     |
-|Lv.3| [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)     | BFS 응용                                                 | [코드](programmers/level03/아이템줍기.md)     |
-|Lv.3| [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/129388)    | 수학, 구현                                                 | [코드](programmers/level03/최고의집합.md)     |
-|Lv.3| [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/131129)     | DP                                                 | [코드](programmers/level03/카운트다운.md)     |
-|Lv.3| [부대 복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)     | 다익스트라 , heapq                                                 | [코드](programmers/level03/부대복귀..md)     |
-|Lv.3| [미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)     | deque , bfs ,  그리디                                                 | [코드](programmers/level03/미로탈출.md)     |
-|Lv.4| [단어 퍼즐](https://school.programmers.co.kr/learn/courses/30/lessons/12983)     | 정렬 , 그리디                                               | [코드](programmers/level04/단어퍼즐.md)     |
-|Lv.?| [체육대회](https://school.programmers.co.kr/learn/courses/30/lessons/121684)    | DFS , 백트래킹 , permutations , enumerate                                               | [코드](programmers/level_기타/체육대회.md)     |
+|Lv.2| [[3차] 방금 그곡](https://programmers.co.kr/learn/courses/30/lessons/17683)             | sort , replace , 인덱싱                                   | [코드](programmers/level02/방금그곡.md)      |
+|Lv.2| [n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)                 | 수학, 구현                                                 | [코드](programmers/level02/n진수.md)       |
+|Lv.2| [타켓 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)                  | global 키워드 , DFS  , itertools product                  | [코드](programmers/level02/타켓넘버.md)      |
+|Lv.2| [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)                   | 구현 다양한 풀이 , ord , 슬라이싱 , for-else ... etc              | [코드](programmers/level02/스킬트리.md)      |
+|Lv.2| [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)                     | rstrip(),lstrip(), sort 조건 ,람다                         | [코드](programmers/level02/튜플.md)        |
+|Lv.2| [삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)                 | 재귀                                                     | [코드](programmers/level02/삼각달팽이.md)     |
+|Lv.2| [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)                | 스택, deque , 인덱스 슬라이싱                                   | [코드](programmers/level02/괄호회전.md)      |
+|Lv.2| [전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971)            | DFS , 그래프                                              | [코드](programmers/level02/전력망.md)       |
+|Lv.2| [피로도](https://programmers.co.kr/learn/courses/30/lessons/87946)                    | DFS, 완탐 , global  키워드                                  | [코드](programmers/level02/피로도.md)       |
+|Lv.2| [k진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335)        | 소수 구하기 , split()                                       | [코드](programmers/level02/k진수.md)       |
+|Lv.2| [두 큐 합 같게 만들기](https://programmers.co.kr/learn/courses/30/lessons/118667)          | deque 사용                                               | [코드](programmers/level02/두큐합.md)       |
+|Lv.2| [할인 행사](https://programmers.co.kr/learn/courses/30/lessons/131127)                 | 딕셔너리 , Counter                                         | [코드](programmers/level02/할인행사.md)      |
+|Lv.2| [혼자 놀기의 달인](https://programmers.co.kr/learn/courses/30/lessons/131130)             | union & find , 딕셔너리                                    | [코드](programmers/level02/혼자놀기의달인.md)   |
+|Lv.2| [연속 부분 수열 합의 개수](https://programmers.co.kr/learn/courses/30/lessons/131701)        | for 문                                                  | [코드](programmers/level02/연속부분.md)      |
+|Lv.2| [택배상자](https://programmers.co.kr/learn/courses/30/lessons/131704)                  | 스택 ⭐                                                   | [코드](programmers/level02/택배상자.md)      |
+|Lv.2| [롤케이크 자르기](https://programmers.co.kr/learn/courses/30/lessons/132265)              | dictionary 문법 익히기 ⭐                                    | [코드](programmers/level02/롤케이크.md)      |
+|Lv.2| [야간 전술 보행](https://programmers.co.kr/learn/courses/30/lessons/133501)              | 다시 풀기                                                  | [코드](programmers/level02/야간전술보행.md)    |
+|Lv.2| [숫자 카드 나누기](https://programmers.co.kr/learn/courses/30/lessons/135807)             | 최대공약수                                                  | [코드](programmers/level02/숫자카드.md)      |
+|Lv.2| [귤 고르기](https://programmers.co.kr/learn/courses/30/lessons/138476)                 | Counter , most_common()                                | [코드](programmers/level02/귤고르기.md)      |
+|Lv.2| [점 찍기](https://programmers.co.kr/learn/courses/30/lessons/140107)                  | 원의 방정식, 피타고라스 정리                                       | [코드](programmers/level02/점찍기.md)       |
+|Lv.2| [디펜스 게임](https://programmers.co.kr/learn/courses/30/lessons/142085)                | 최소 힙                                                   | [코드](programmers/level02/디펜스게임.md)     |
+|Lv.2| [마법의 엘리베이터](https://programmers.co.kr/learn/courses/30/lessons/148653)             | 백트래킹 ,재귀                                               | [코드](programmers/level02/마법의엘리베이터.md)  |
+|Lv.2| [이모티콘 할인 행사](https://programmers.co.kr/learn/courses/30/lessons/150368)            | 브루트 포스  , itertools / product                          | [코드](programmers/level02/이모티콘할인행사.md)  |
+|Lv.2| [택배 배달과 수거하기](https://programmers.co.kr/learn/courses/30/lessons/150369)           | 그리디                                                    | [코드](programmers/level02/택배배달.md)      |
+|Lv.2| [숫자 변환하기](https://programmers.co.kr/learn/courses/30/lessons/154538)               | BFS                                                    | [코드](programmers/level02/숫자변환하기.md)    |
+|Lv.2| [뒤에 있는 큰 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/154539)          | 스택                                                     | [코드](programmers/level02/뒤에큰수찾기.md)    |
+|Lv.2| [무인도 여행](https://programmers.co.kr/learn/courses/30/lessons/154540)                | deque , BFS                                            | [코드](programmers/level02/무인도여행.md)     |
+|Lv.2| [호텔 대실](https://programmers.co.kr/learn/courses/30/lessons/155651)                 | 우선순위 큐 , 그리디                                           | [코드](programmers/level02/호텔대실.md)      |
+|Lv.2| [미로 탈출](https://programmers.co.kr/learn/courses/30/lessons/159993)                 | BFS 두번                                                 | [코드](programmers/level02/미로탈출.md)      |
+|Lv.2| [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)     | 구현  , all 함수                                           | [코드](programmers/level02/틱택토.md)       |
+|Lv.2| [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)           | 그리디                                                    | [코드](programmers/level02/덧칠하기.md)      |
+|Lv.2| [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)         | 구현 , BFS , enumerate , set() , 코드 참고                   | [코드](programmers/level02/리코챗로봇.md)     |
+|Lv.2| [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)          | 구현   ,정렬                                               | [코드](programmers/level02/광물캐기.md)      |
+|Lv.3| [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)       | 문자열 슬라이스 인덱싱                                           | [코드](programmers/level03/긴팰린드롬.md)     |
+|Lv.3| [스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971)      | DP                                                     | [코드](programmers/level03/스티커모으기.md)    |
+|Lv.3| [기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)          | 그리디 ,구현                                                | [코드](programmers/level03/기지국설치.md)     |
+|Lv.3| [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)           | deque , bfs ,  그리디                                     | [코드](programmers/level03/숫자게임.md)      |
+|Lv.3| [[1차] 추석 트래픽 ](https://school.programmers.co.kr/learn/courses/30/lessons/17676)    | datetime.strptime()                                    | [코드](programmers/level03/추석트래픽.md)     |
+|Lv.3| [[1차] 셔틀버스 ](https://school.programmers.co.kr/learn/courses/30/lessons/17678)      | divmode , zfill                                        | [코드](programmers/level03/셔틀버스.md)      |
+|Lv.3| [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)           | 딕셔너리 , sort , 람다 (내림차순, 오름차순)                          | [코드](programmers/level03/베스트앨범.md)     |
+|Lv.3| [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)         | 우선순위큐, heapq , remove, 예외처리                            | [코드](programmers/level03/이중우선순위큐.md)   |
+|Lv.3| [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)             | DP                                                     | [코드](programmers/level03/등굣길.md)       |
+|Lv.3| [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)          | DP                                                     | [코드](programmers/level03/정수삼각형.md)     |
+|Lv.3| [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)            | DFS , 플로이드 와샬                                          | [코드](programmers/level03/네트워크.md)      |
+|Lv.3| [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)            | DFS                                                    | [코드](programmers/level03/여행경로.md)      |
+|Lv.3| [블록 이동하기](https://school.programmers.co.kr/learn/courses/30/lessons/60063)         | 3차원 배열 , BFS , 구현                                      | [코드](programmers/level03/블록이동하기..md)   |
+|Lv.3| [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)        | 이분 탐색                                                  | [코드](programmers/level03/징검다리.md)      |
+|Lv.3| [풍선 터트리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646)         | Stack , 구현                                             | [코드](programmers/level03/풍선.md)        |
+|Lv.3| [카드 짝 맞추기](https://school.programmers.co.kr/learn/courses/30/lessons/72415)        | brute force , bfs , dp                                 | [코드](programmers/level03/짝맞추기.md)      |
+|Lv.3| [모두 0으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/76503)      | global , sys.setrecursionlimit 재귀 깊이 , 위상 정렬           | [코드](programmers/level03/모두0으로만들기.md)  |
+|Lv.3| [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)          | BFS 응용                                                 | [코드](programmers/level03/아이템줍기.md)     |
+|Lv.3| [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/129388)         | 수학, 구현                                                 | [코드](programmers/level03/최고의집합.md)     |
+|Lv.3| [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/131129)         | DP                                                     | [코드](programmers/level03/카운트다운.md)     |
+|Lv.3| [부대 복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)          | 다익스트라 , heapq                                          | [코드](programmers/level03/부대복귀..md)     |
+|Lv.3| [미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)      | deque , bfs ,  그리디                                     | [코드](programmers/level03/미로탈출.md)      |
+|Lv.3| [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995)           | 정렬 , 그리디                                               | [코드](programmers/level03/인사고과.md)      |
+|Lv.3| [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988) | DP , 부분합                                               | [코드](programmers/level03/연속펄스.md)      |
+|Lv.4| [단어 퍼즐](https://school.programmers.co.kr/learn/courses/30/lessons/12983)           | 정렬 람다 sorted 다중 요소, 그리디                                | [코드](programmers/level04/단어퍼즐.md)      |
+|Lv.?| [체육대회](https://school.programmers.co.kr/learn/courses/30/lessons/121684)           | DFS , 백트래킹 , permutations , enumerate                  | [코드](programmers/level_기타/체육대회.md)     |
 
 ## 🎃 LeetCode
 
@@ -305,93 +309,37 @@
 
 ## 🤡 SQL
 
-|레벨 | 문제 | 코멘트 |코드|
-|:-----|:----|:----|:-----
-|Lv.1| [ 강원도에 위치한 생산공장 목록 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131112) | like 패턴 매칭 | [코드](SQL/lv_1/강원도.md) |
-|Lv.1| [ 경기도에 위치한 식품창고 목록 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131114) | case when , coalesce() 함수  | [코드](SQL/lv_1/경기도에위치한.md) |
-|Lv.1| [ 나이 정보가 없는 회원 수 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131528) | is not null | [코드](SQL/lv_1/나이정보.md) |
-|Lv.1| [ 가장 비싼 상품 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131697) |  max | [코드](SQL/lv_1/가장비싼상품구하기.md) |
-|Lv.1| [ 12세 이하인 여자 환자 목록 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/132201) | coalesce , order by   | [코드](SQL/lv_1/12세이하.md) |
-|Lv.1| [ 과일로 마든 아이스크림 고르기 ️](https://programmers.co.kr/learn/courses/30/lessons/133025) | inner join| [코드](SQL/lv_1/과일로만든.md) |
-|Lv.1| [ 조건에  맞는 도서 리스트 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/144853) | year , date_format , order by  | [코드](SQL/lv_1/조건에맞는.md) |
-|Lv.1| [ 평균 일일 대여 요금 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/151136) | round , avg  | [코드](SQL/lv_1/일일대여.md) |
-|Lv.1| [ 특정 옵션이 포함된 자동차 리스트 ️](https://programmers.co.kr/learn/courses/30/lessons/157343) | like 키워드 , order by desc| [코드](SQL/lv_1/특정옵션.md) |
-|Lv.1| [ 조건에  부합하는 중고거래 댓글 조회하기️](https://programmers.co.kr/learn/courses/30/lessons/164673) | inner join , where  | [코드](SQL/lv_1/조건에.md) |
-|Lv.2| [ 가격이 제일 비싼 식품의 정보 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131115) | set 변수 , max , subquery| [코드](SQL/lv_2/가격이제일비싼.md) |
-|Lv.2| [ 3월에  태어난 여성 회원 목록 출력하기️](https://programmers.co.kr/learn/courses/30/lessons/131120) |Month , date_format| [코드](SQL/lv_2/3월에.md) |
-|Lv.2| [ 카테고리 별 상품 개수 구하기️](https://programmers.co.kr/learn/courses/30/lessons/131529) | substr() , left() | [코드](SQL/lv_2/카테고리별.md) |
-|Lv.2| [ 가격대 별 상품 개수 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131530) |truncate | [코드](SQL/lv_2/가격대별.md) |
-|Lv.2| [ 상품 별 오프라인 매출 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131533) |order by , grouo by|  [코드](SQL/lv_2/상품별.md) |
-|Lv.2| [ 재구매가 일어난 상품과 회원 리스트 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131536) |group by 복수 컬럼| [코드](SQL/lv_2/재구매.md) |
-|Lv.2| [ 성분으로 구분한 아이스크림 총 주문량 ️](https://programmers.co.kr/learn/courses/30/lessons/133026) |inner join , group by| [코드](SQL/lv_2/성분으로.md) |
-|Lv.2| [ 조건에 맞는 도서와 저자 리스트 출력하기️](https://programmers.co.kr/learn/courses/30/lessons/144854) | inner join | [코드](SQL/lv_2/조건에맞는도서..md) |
-|Lv.2| [ 자동차 평균 대여 기간 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/157342) |datediff 날짜 일수 구하기 , group by , having ,round| [코드](SQL/lv_2/자동차평균대여.md) |
-|Lv.3| [ 조건별로 분류하여 주문상태 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131113) |date_format , case when| [코드](SQL/lv_3/조건별로주문상태.md) |
-|Lv.3| [ 즐겨찾기가 가장 많은 식당 정보 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131123) |inner join , group by 주의하기 !!| [코드](SQL/lv_3/즐겨찾기.md) |
-|Lv.3| [ 카테고리 별 도서 판매량 집계하기 ️](https://programmers.co.kr/learn/courses/30/lessons/144855) |inner join , group by , date_format| [코드](SQL/lv_3/카테고리별.md) |
-|Lv.3| [ 대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/151139) |between , month , group by| [코드](SQL/lv_3/대여횟수.md) |
-|Lv.3| [ 자동차 대여 기록에서 대여중/ 대여 가능 여부 구분하기 ️](https://programmers.co.kr/learn/courses/30/lessons/157340) |서브쿼리 , case when| [코드](SQL/lv_3/대여중.md) |
-|Lv.3| [ 대여 기록이 존재하는 자동차 리스트 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/157341) |inner join , distinct| [코드](SQL/lv_3/대여기록이존재하는.md) |
-|Lv.3| [ 조건에 맞는 사용자 정보 조회하기 ️](https://programmers.co.kr/learn/courses/30/lessons/164668) |inner join , group by ,having| [코드](SQL/lv_3/조건에맞는사용자.md) |
-|Lv.3| [ 조건에 맞는 사용자와 총 거래금액 조회하기️ ](https://programmers.co.kr/learn/courses/30/lessons/164670) |문자열 , concat , left() , right() , mid()| [코드](SQL/lv_3/조건에맞는.md) |
-|Lv.3| [ 조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기  ](https://programmers.co.kr/learn/courses/30/lessons/164671) |문자열 , concat , concat| [코드](SQL/lv_3/조회수.md) |
-|Lv.4| [ 주문량이 많은 아이스크림들 조회하기️](https://programmers.co.kr/learn/courses/30/lessons/133027) |with table as , union distinct | [코드](SQL/lv_4/주문량이많은.md) |
-|Lv.4| [ 식품 분류별 가장 비싼 식품의 정보 조회하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131116) |self inner join , group by , in , max| [코드](SQL/lv_4/식품분류별.md) |
-|Lv.4| [ 5월 식품들의 총매출 조회하기  ️](https://programmers.co.kr/learn/courses/30/lessons/131117) | inner join , date_format , group by| [코드](SQL/lv_4/5월.md) |
-|Lv.4| [  서울에 위치한  식당 목록 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131118) |Round , inner join , Like 패턴 주의!!| [코드](SQL/lv_4/서울에.md) |
-|Lv.4| [ 그룹별 조건에  맞는 식당 목록 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131124) | inner join 3개 테이블 , with (CTE) ,  rank()| [코드](SQL/lv_4/그룹별.md) |
-|Lv.4| [ 취소 되지 않은 진료 예약 조회하기 ️](https://programmers.co.kr/learn/courses/30/lessons/132204) | inner join 3개 테이블| [코드](SQL/lv_4/취소.md) |
-|Lv.4| [ 저자 별 카테고리 별 매출액 집계하기️](https://programmers.co.kr/learn/courses/30/lessons/144586) |3개 테이블 inner join , group by , date_format| [코드](SQL/lv_4/저자별카테고리별.md) |
-|Lv.4| [ 자동차 대여 기록 별 대여 금액 구하기️](https://programmers.co.kr/learn/courses/30/lessons/151141) |Round , inner join , case when , order by| [코드](SQL/lv_4/자동차대여.md) |
-|Lv.4| [ 특정 기간동안 대여 가능한 자동차들의 대여비용 구하기️](https://programmers.co.kr/learn/courses/30/lessons/157339) |Round , inner join 3개 테이블| [코드](SQL/lv_4/특정기간동안.md) |
-
-## ✍️문법 정리
-
-- [시간 복잡도](study/시간복잡도.md)
-
-
-## 👨‍🎓 동빈북
-
-|번호|문제 | 설명 |
-|:---- |:---- | :----
-|charter03 그리디|[거스름돈](동빈북/chapter03_그리디/거스름돈.py) | 그리디 알고리즘 |
-|charter03 그리디|[큰 수의 법칙](동빈북/chapter03_그리디/큰수의법칙.py)| 그리디 알고리즘|
-|charter03 그리디|[숫자 카드 게임](동빈북/chapter03_그리디/숫자카드게임.py)|그리디 알고리즘|
-|charter03 그리디|[1이 될 때까지](동빈북/chapter03_그리디/1이될때까지.py)| 그리디 알고리즘|
-|charter04 구현|[상하좌우](동빈북/chapter04_구현/상하좌우.py) | 구현 |
-|charter04 구현|[시각](동빈북/chapter04_구현/시각.py) |구현 |
-|charter04 구현|[왕실의 나이트](동빈북/chapter04_구현/왕실의나이트.py) | 구현|
-|charter04 구현|[게임 개발](동빈북/chapter04_구현/게임개발.py) | 구현|
-|charter05 BFS & DFS|[스택 예제](동빈북/chapter05_dfs_bfs/스택예제.py)| 리스트로 스택 자료 구조 구현 |
-|charter05 BFS & DFS|[큐 예제](동빈북/chapter05_dfs_bfs/큐예제.py)| collections 모듈 deque 자료구조 |
-|charter05 BFS & DFS|[인접리스트 예제](동빈북/chapter05_dfs_bfs/인접리스트방식.py)| 인접리스트 예제 |
-|charter05 BFS & DFS|[DFS 예제](동빈북/chapter05_dfs_bfs/DFS예제.py)| DFS 예제 |
-|charter05 BFS & DFS|[BFS 예제](동빈북/chapter05_dfs_bfs/BFS예제.py)| BFS 예제 |
-|charter05 BFS & DFS|[음료수 얼려먹기](동빈북/chapter05_dfs_bfs/음료수얼려먹기.py)| DFS 사용 |
-|charter05 BFS & DFS|[미로탈출](동빈북/chapter05_dfs_bfs/미로탈출.py)| BFS 사용 |
-|charter06 정렬|[선택 정렬](동빈북/chapter06_정렬/선택정렬.py)| 선택 정렬 소스코드 |
-|charter06 정렬|[삽입 정렬](동빈북/chapter06_정렬/삽입정렬.py)| 삽입 정렬 소스코드 |
-|charter06 정렬|[계수 정렬](동빈북/chapter06_정렬/계수정렬.py)| 계수 정렬 소스코드 |
-|charter06 정렬|[sorted](동빈북/chapter06_정렬/sorted.py)| sorted |
-|charter06 정렬|[sort](동빈북/chapter06_정렬/sort.py)| sort() |
-|charter06 정렬|[key를 활용한 정렬 라이브러리](동빈북/chapter06_정렬/key_sort.md)| key를 활용한 정렬  |
-|charter06 정렬|[위에서 아래로](동빈북/chapter06_정렬/위에서아래로.py)| sort(reverse = True) |
-|charter06 정렬|[성적이 낮은 순서로 학생 출력하기](동빈북/chapter06_정렬/성적.py)| sort() 람다 |
-|charter06 정렬|[두 배열의 원소 교체](동빈북/chapter06_정렬/원소교체.py)| sort() |
-|charter07 이진 탐색|[재귀 함수로 구현한 이진 탐색](동빈북/chapter07_이진탐색/재귀함수로구현한이진탐색.py)| 이진 탐색 |
-|charter07 이진 탐색|[반복문으로 구현한 이진 탐색](동빈북/chapter07_이진탐색/반복문으로구현.py)| 이진 탐색 |
-|charter07 이진 탐색|[부품 찾기 - 이진 탐색](동빈북/chapter07_이진탐색/부품찾기.py)| 이진 탐색 |
-|charter07 이진 탐색|[부품 찾기 - 계수 정렬](동빈북/chapter07_이진탐색/부품찾기_계수정렬.py)| 계수 정렬 |
-|charter07 이진 탐색|[부품 찾기 - 집합 자료형](동빈북/chapter07_이진탐색/부품_집합.py)| 집합 set |
-|charter07 이진 탐색|[떡볶이 떡 만들기](동빈북/chapter07_이진탐색/떡볶이떡만들기.py)| 파마메트릭 서치 |
-|charter09 최단 경로|[간단한 다익스트라 알고리즘](동빈북/chapter09_최단경로/간단한다익스트라알고리즘.py)| 다익스트라 알고리즘 |
-|charter09 최단 경로|[개선된 다익스트라 알고리즘](동빈북/chapter09_최단경로/개선된다익스트라알고리즘.py)| 다익스트라 알고리즘 |
-|charter09 최단 경로|[플로이드 와샬](동빈북/chapter09_최단경로/플로이드.py)| 플로이드 와샬 |
-|charter09 최단 경로|[미래 도시](동빈북/chapter09_최단경로/미래도시.py)| 플로이드 와샬 |
-|charter10 그래프 이론|[기본적인 서로소 집합](동빈북/chapter10_그래프이론/기본적인서로소집합.py)| Union & find |
-|charter10 그래프 이론|[개선돤 서로소 집합](동빈북/chapter10_그래프이론/개선된서로소집합.py)| Union & find |
-|charter10 그래프 이론|[개선돤 서로소 집합](동빈북/chapter10_그래프이론/개선된서로소집합.py)| Union & find |
-|charter11 그리디|[모험가 길드](동빈북/chapter11_그리디/모험가.py)| 그리디 |
-|charter11 그리디|[곱하기 혹은 더하기](동빈북/chapter11_그리디/곱하기혹은더하기.py)| 그리디 |
-|charter11 그리디|[만들 수 없는 금액](동빈북/chapter11_그리디/만들수없는금액.py)| 그리디 |
-|charter11 그리디|[볼링공 고르기](동빈북/chapter11_그리디/볼링공.py)| 그리디 |
+|레벨 | 문제                                                                                             | 코멘트                                                      | 코드                          |
+|:-----|:-----------------------------------------------------------------------------------------------|:---------------------------------------------------------|:----------------------------
+|Lv.1| [ 강원도에 위치한 생산공장 목록 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131112)          | like 패턴 매칭                                               | [코드](SQL/lv_1/강원도.md)       |
+|Lv.1| [ 경기도에 위치한 식품창고 목록 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131114)          | case when , coalesce() 함수                                | [코드](SQL/lv_1/경기도에위치한.md)   |
+|Lv.1| [ 나이 정보가 없는 회원 수 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131528)             | is not null                                              | [코드](SQL/lv_1/나이정보.md)      |
+|Lv.1| [ 조건에 맞는 회원 수 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131535)                | where between , count                                    | [코드](SQL/lv_1/조건에맞는회원.md)   |
+|Lv.1| [ 가장 비싼 상품 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131697)                   | max                                                      | [코드](SQL/lv_1/가장비싼상품구하기.md) |
+|Lv.1| [ 12세 이하인 여자 환자 목록 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/132201)          | coalesce , order by                                      | [코드](SQL/lv_1/12세이하.md)     |
+|Lv.1| [ 과일로 마든 아이스크림 고르기 ️](https://programmers.co.kr/learn/courses/30/lessons/133025)               | inner join                                               | [코드](SQL/lv_1/과일로만든.md)     |
+|Lv.1| [ 조건에  맞는 도서 리스트 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/144853)            | year , date_format , order by                            | [코드](SQL/lv_1/조건에맞는.md)     |
+|Lv.1| [ 평균 일일 대여 요금 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/151136)                | round , avg                                              | [코드](SQL/lv_1/일일대여.md)      |
+|Lv.1| [ 특정 옵션이 포함된 자동차 리스트 ️](https://programmers.co.kr/learn/courses/30/lessons/157343)             | like 키워드 , order by desc                                 | [코드](SQL/lv_1/특정옵션.md)      |
+|Lv.1| [ 조건에  부합하는 중고거래 댓글 조회하기️](https://programmers.co.kr/learn/courses/30/lessons/164673)          | inner join , where                                       | [코드](SQL/lv_1/조건에.md)       |
+|Lv.2| [ 가격이 제일 비싼 식품의 정보 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131115)          | set 변수 , max , subquery                                  | [코드](SQL/lv_2/가격이제일비싼.md)   |
+|Lv.2| [ 3월에  태어난 여성 회원 목록 출력하기️](https://programmers.co.kr/learn/courses/30/lessons/131120)          | Month , date_format                                      | [코드](SQL/lv_2/3월에.md)       |
+|Lv.2| [ 카테고리 별 상품 개수 구하기️](https://programmers.co.kr/learn/courses/30/lessons/131529)                | substr() , left()                                        | [코드](SQL/lv_2/카테고리별.md)     |
+|Lv.2| [ 가격대 별 상품 개수 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131530)                | truncate                                                 | [코드](SQL/lv_2/가격대별.md)      |
+|Lv.2| [ 상품 별 오프라인 매출 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131533)               | order by , grouo by                                      | [코드](SQL/lv_2/상품별.md)       |
+|Lv.2| [ 재구매가 일어난 상품과 회원 리스트 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131536)        | group by 복수 컬럼                                           | [코드](SQL/lv_2/재구매.md)       |
+|Lv.2| [ 진료과별 총 예약 횟수 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/132202)              | group by ,date_format ('%Y-%m') [코드](SQL/lv_2/진료과별예약.md) |
+|Lv.2| [ 성분으로 구분한 아이스크림 총 주문량 ️](https://programmers.co.kr/learn/courses/30/lessons/133026)           | inner join , group by                                    | [코드](SQL/lv_2/성분으로.md)      |
+|Lv.2| [ 조건에 맞는 도서와 저자 리스트 출력하기️](https://programmers.co.kr/learn/courses/30/lessons/144854)          | inner join                                               | [코드](SQL/lv_2/조건에맞는도서..md)  |
+|Lv.2| [ 자동차 평균 대여 기간 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/157342)               | datediff 날짜 일수 구하기 , group by , having ,round            | [코드](SQL/lv_2/자동차평균대여.md)   |
+|Lv.3| [ 조건별로 분류하여 주문상태 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131113)            | date_format , case when                                  | [코드](SQL/lv_3/조건별로주문상태.md)  |
+|Lv.3| [ 즐겨찾기가 가장 많은 식당 정보 출력하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131123)         | inner join , group by 주의하기 !!                            | [코드](SQL/lv_3/즐겨찾기.md)      |
+|Lv.3| [ 카테고리 별 도서 판매량 집계하기 ️](https://programmers.co.kr/learn/courses/30/lessons/144855)             | inner join , group by , date_format                      | [코드](SQL/lv_3/카테고리별.md)     |
+|Lv.3| [ 대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/151139)   | between , month , group by                               | [코드](SQL/lv_3/대여횟수.md)      |
+|Lv.3| [ 자동차 대여 기록에서 대여중/ 대여 가능 여부 구분하기 ️](https://programmers.co.kr/learn/courses/30/lessons/157340) | 서브쿼리 , case when                                         | [코드](SQL/lv_3/대여중.md)       |
+|Lv.3| [ 대여 기록이 존재하는 자동차 리스트 구하기 ️](https://programmers.co.kr/learn/courses/30/lessons/157341)        | inner join , distinct                                    | [코드](SQL/lv_3/대여기록이존재하는.md) |
+|Lv.3| [ 조건에 맞는 사용자 정보 조회하기 ️](https://programmers.co.kr/learn/courses/30/lessons/164668)             | inner join , group by ,having                            | [코드](SQL/lv_3/조건에맞는사용자.md)  |
+|Lv.3| [ 조건에 맞는 사용자와 총 거래금액 조회하기️ ](https://programmers.co.kr/learn/courses/30/lessons/164670)        | 문자열 , concat , left() , right() , mid()                  | [코드](SQL/lv_3/조건에맞는.md)     |
+|Lv.3| [ 조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기  ](https://programmers.co.kr/learn/courses/30/lessons/164671) | 문자열 , concat , concat                                    | [코드](SQL/lv_3/조회수.md)       |
+|Lv.4| [ 주문량이 많은 아이스크림들 조회하기️](https://programmers.co.kr/learn/courses/30/lessons/133027)             | with table as , union distinct                           | [코드](SQL/lv_4/주문량이많은.md)    |
+|Lv.4| [ 식품 분류별 가장 비싼 식품의 정보 조회하기 ️]👨
