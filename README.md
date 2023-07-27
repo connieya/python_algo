@@ -44,6 +44,8 @@
 | 10807 |           [개수 세기](https://www.acmicpc.net/problem/10807)           | 🥉 브론즈 5 |           배열 , count()           |[코드](baekjoon/bronze5/10807.md)
 | 10809 |          [알파벳 찾기](https://www.acmicpc.net/problem/10809)           | 🥉 브론즈 5 |     문자열 find() 함수 ,chr() 함수      |[코드](baekjoon/bronze3/10809.md)
 | 10810 |           [공 넣기](https://www.acmicpc.net/problem/10810)            | 🥉 브론즈 3 |   asterisk(*) list ,     join    |[코드](baekjoon/bronze5/10810.md)
+| 10811 |          [바구니 뒤집기](https://www.acmicpc.net/problem/10811)          | 🥉 브론즈 2 |      슬라이싱 인덱싱 , 뒤집기 [::-1]       |[코드](baekjoon/bronze2/10811.md)
+| 10813 |           [공 바꾸기](https://www.acmicpc.net/problem/10813)           | 🥉 브론즈 2 |                배열                |[코드](baekjoon/bronze5/10813.md)
 | 10869 |           [사칙연산](https://www.acmicpc.net/problem/10869)            | 🥉 브론즈 5 |               사칙연산               |[코드](baekjoon/bronze5/10869.md)
 | 10926 |            [??!](https://www.acmicpc.net/problem/10926)            | 🥉 브론즈 5 |                구현                |[코드](baekjoon/bronze5/10926.md)
 | 10950 |           [A+B-3](https://www.acmicpc.net/problem/10950)           | 🥉 브론즈 5 |             반복문 , 덧셈             |[코드](baekjoon/bronze5/10950.md)
