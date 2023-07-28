@@ -25,6 +25,7 @@
 | 2437  |             [저울](https://www.acmicpc.net/problem/2437)             | 🥇  골드 2 |             그리디 ,정렬              |[코드](baekjoon/gold2/2437.md)
 | 2476  |           [주사위 게임](https://www.acmicpc.net/problem/2476)           | 🥉 브론즈 3 |                구현                |[코드](baekjoon/bronze3/2476.md)
 | 2557  |        [Hello World](https://www.acmicpc.net/problem/2557)         | 🥉 브론즈 5 |                출력                |[코드](baekjoon/bronze5/2557.md)
+| 2559  |             [수열](https://www.acmicpc.net/problem/2559)             | 🥈 실버 3  |        누적 합 , Prefix sum         |[코드](baekjoon/silver3/2559.md)
 | 2609  |        [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)        | 🥉 브론즈 1 |             유클리드 호제법             |[코드](baekjoon/bronze1/2609.md)
 | 2739  |            [구구단](https://www.acmicpc.net/problem/2739)             | 🥉 브론즈 5 |           반복문, 문자열 포매팅           |[코드](baekjoon/bronze5/2739.md)
 | 2754  |            [학점계산](https://www.acmicpc.net/problem/2754)            | 🥉 브론즈 5 |               조건문                |[코드](baekjoon/bronze5/2754.md)
