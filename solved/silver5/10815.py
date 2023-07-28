@@ -1,0 +1,27 @@
+import sys
+
+num = int(sys.stdin.readline())
+arr = list(map(int, sys.stdin.readline().split()))
+arr.sort()
+
+m = int(sys.stdin.readline())
+numbers = list(map(int, sys.stdin.readline().split()))
+
+
+def isExist(arr , target):
+    n,m = 0,len(arr)-1
+    while n<=m:
+        mid = (n+m)//2
+        if arr[mid] == target: return True
+        elif arr[mid] > target: m = mid-1
+        else:
+            n = mid+1
+    return False
+
+
+
+for number in numbers:
+    res = 1 if isExist(arr, number) else 0
+    print(res , end= " ")
+
+

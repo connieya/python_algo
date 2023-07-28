@@ -47,6 +47,7 @@
 | 10810 |           [공 넣기](https://www.acmicpc.net/problem/10810)            | 🥉 브론즈 3 |   asterisk(*) list ,     join    |[코드](baekjoon/bronze5/10810.md)
 | 10811 |          [바구니 뒤집기](https://www.acmicpc.net/problem/10811)          | 🥉 브론즈 2 |      슬라이싱 인덱싱 , 뒤집기 [::-1]       |[코드](baekjoon/bronze2/10811.md)
 | 10813 |           [공 바꾸기](https://www.acmicpc.net/problem/10813)           | 🥉 브론즈 2 |                배열                |[코드](baekjoon/bronze5/10813.md)
+| 10815 |           [숫자 카드](https://www.acmicpc.net/problem/10815)           | 🥈 실버 5  |              이분 탐색               |[코드](baekjoon/silver5/10815.md)
 | 10869 |           [사칙연산](https://www.acmicpc.net/problem/10869)            | 🥉 브론즈 5 |               사칙연산               |[코드](baekjoon/bronze5/10869.md)
 | 10926 |            [??!](https://www.acmicpc.net/problem/10926)            | 🥉 브론즈 5 |                구현                |[코드](baekjoon/bronze5/10926.md)
 | 10950 |           [A+B-3](https://www.acmicpc.net/problem/10950)           | 🥉 브론즈 5 |             반복문 , 덧셈             |[코드](baekjoon/bronze5/10950.md)
@@ -62,6 +63,7 @@
 | 17425 |           [약수의 합](https://www.acmicpc.net/problem/17425)           | 🥇 골드 4  |         수학 , 에라토스테네스의 체          |[코드](baekjoon/gold4/17425.md)
 | 17427 |          [약수의 합2](https://www.acmicpc.net/problem/17427)           | 🥈 실버 2  |              수학,정수론              |[코드](baekjoon/silver2/17427.md)
 | 18108 | [1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108) | 🥉 브론즈 5 |               사칙연산               |[코드](baekjoon/bronze5/18108.md)
+| 19637 |        [IF 문좀 대신 써줘](https://www.acmicpc.net/problem/19637)        | 🥈 실버 3  |    이분탐색 lower bound  , bisect    |[코드](baekjoon/silver3/19637.md)
 | 25304 |            [영수증](https://www.acmicpc.net/problem/25304)            | 🥉 브론즈 5 |            반복문, 삼항연산자            |[코드](baekjoon/bronze5/25304.md)
 
 ## 👻 프로그래머스
