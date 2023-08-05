@@ -18,6 +18,7 @@
 | 1543  |           [문서 검색](https://www.acmicpc.net/problem/1543)            | 🥈 실버 4  |              정규 표현식              |[코드](baekjoon/silver4/1543.md)
 | 1748  |          [수 이어 쓰기1](https://www.acmicpc.net/problem/1748)          | 🥈 실버 4  |             수학 , 구현              |[코드](baekjoon/silver4/1748.md)
 | 1759  |           [암호 만들기](https://www.acmicpc.net/problem/1759)           | 🥇 골드 5  |               백트래킹               |[코드](baekjoon/gold5/1759.md)
+| 1924  |           [2007년](https://www.acmicpc.net/problem/1924)           | 🥉 브론즈 1  |                       |[코드](baekjoon/bronze1/1924.md)
 | 1929  |           [소수 구하기](https://www.acmicpc.net/problem/1929)           | 🥈 실버 3  |            에라토스테네스의 체            |[코드](baekjoon/silver3/1929.md)
 | 1978  |           [소수 찾기](https://www.acmicpc.net/problem/1978)            | 🥈 실버 5  |            에라토스테네스의 체            |[코드](baekjoon/silver5/1978.md)
 | 2217  |             [로프](https://www.acmicpc.net/problem/2217)             | 🥈 실버 4  |                정렬                |[코드](baekjoon/silver4/2217.md)
