@@ -21,6 +21,7 @@
 | 1672  |           [DNA 해독](https://www.acmicpc.net/problem/1672)           | 🥉 브론즈 1 |                         구현, dict                         |[코드](baekjoon/bronze1/1672.md)
 | 1748  |          [수 이어 쓰기1](https://www.acmicpc.net/problem/1748)          | 🥈 실버 4  |                         수학 , 구현                          |[코드](baekjoon/silver4/1748.md)
 | 1759  |           [암호 만들기](https://www.acmicpc.net/problem/1759)           | 🥇 골드 5  |                           백트래킹                           |[코드](baekjoon/gold5/1759.md)
+| 1813  |           [논리학 교수](https://www.acmicpc.net/problem/1813)           | 🥉 브론즈 1 |                    lookup 배열 , count                     |[코드](baekjoon/bronze1/1813.md)
 | 1924  |           [2007년](https://www.acmicpc.net/problem/1924)            | 🥉 브론즈 1 |                     날짜 계산 , 수학 , 구현                      |[코드](baekjoon/bronze1/1924.md)
 | 1929  |           [소수 구하기](https://www.acmicpc.net/problem/1929)           | 🥈 실버 3  |                        에라토스테네스의 체                        |[코드](baekjoon/silver3/1929.md)
 | 1978  |           [소수 찾기](https://www.acmicpc.net/problem/1978)            | 🥈 실버 5  |                        에라토스테네스의 체                        |[코드](baekjoon/silver5/1978.md)
