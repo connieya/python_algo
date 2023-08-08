@@ -16,6 +16,7 @@
 | 1439  |            [뒤집기](https://www.acmicpc.net/problem/1439)             | 🥈 실버 5  |                            구현                            |[코드](baekjoon/silver5/1439.md)
 | 1476  |           [날짜 계산](https://www.acmicpc.net/problem/1476)            | 🥈 실버 5  |                          브루트포스                           |[코드](baekjoon/silver5/1476.md)
 | 1543  |           [문서 검색](https://www.acmicpc.net/problem/1543)            | 🥈 실버 4  |                          정규 표현식                          |[코드](baekjoon/silver4/1543.md)
+| 1551  |           [수열의 변화](https://www.acmicpc.net/problem/1551)           | 🥉 브론즈 1 |                            구현                            |[코드](baekjoon/bronze1/1551.md)
 | 1652  |         [누울 자리를 찾아라](https://www.acmicpc.net/problem/1652)         | 🥈 실버 5  |                    copy.deepcopy , 구현                    |[코드](baekjoon/silver5/1652.md)
 | 1748  |          [수 이어 쓰기1](https://www.acmicpc.net/problem/1748)          | 🥈 실버 4  |                         수학 , 구현                          |[코드](baekjoon/silver4/1748.md)
 | 1759  |           [암호 만들기](https://www.acmicpc.net/problem/1759)           | 🥇 골드 5  |                           백트래킹                           |[코드](baekjoon/gold5/1759.md)
@@ -134,6 +135,7 @@
 |Lv.0| [옹알이(1)](https://programmers.co.kr/learn/courses/30/lessons/120956)                | replace() , strip()                                    | [코드](programmers/level00/옹알이.md)       |
 |Lv.0| [전국 대회 선발 고사](https://programmers.co.kr/learn/courses/30/lessons/181851)           | sorted , lambda                                        | [코드](programmers/level00/전국대회선발고사.md)  |
 |Lv.0| [뒤에서 5등 위로](https://programmers.co.kr/learn/courses/30/lessons/181852)             | sorted()  , 슬라이싱 연산                                    | [코드](programmers/level00/뒤에서5등위로.md)   |
+|Lv.0| [A 강조하기](https://programmers.co.kr/learn/courses/30/lessons/181874)                | lower() , replace                                      | [코드](programmers/level00/A강조하기.md)     |
 |Lv.1| [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)                     | unordered_set                                          | [코드](programmers/level01/폰켓몬.md)       |
 |Lv.1| [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)            | substr 활용하기                                            | [코드](programmers/level01/가운데글자.md)     |
 |Lv.1| [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928)                  | sum() , for in range                                   | [코드](programmers/level01/약수의합.md)      |

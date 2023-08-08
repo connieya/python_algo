@@ -1,0 +1,16 @@
+import sys
+
+n ,k = map(int , sys.stdin.readline().split())
+arr = list(map(int, sys.stdin.readline().split(",")))
+
+tmp = arr
+while k > 0:
+    tmp = []
+    for idx in range(len(arr)-1):
+        tmp.append(arr[idx+1]-arr[idx])
+
+    arr = tmp
+    k -=1
+
+result_str = ",".join(map(str, tmp))
+print(result_str)
