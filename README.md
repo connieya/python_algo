@@ -36,6 +36,7 @@
 | 2609  |        [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)        | 🥉 브론즈 1 |                         유클리드 호제법                         |[코드](baekjoon/bronze1/2609.md)
 | 2739  |            [구구단](https://www.acmicpc.net/problem/2739)             | 🥉 브론즈 5 |                       반복문, 문자열 포매팅                       |[코드](baekjoon/bronze5/2739.md)
 | 2754  |            [학점계산](https://www.acmicpc.net/problem/2754)            | 🥉 브론즈 5 |                           조건문                            |[코드](baekjoon/bronze5/2754.md)
+| 2846  |            [오르막길](https://www.acmicpc.net/problem/2846)             | 🥉 브론즈 1 |            구현             |[코드](baekjoon/bronze1/2846.md)
 | 2857  |            [FBI](https://www.acmicpc.net/problem/2857)             | 🥉 브론즈 3 |             split() , *(asterlisk) unpacking             |[코드](baekjoon/bronze3/2857.md)
 | 3003  |       [킹,퀸,룩,비숍,나이트,폰](https://www.acmicpc.net/problem/3003)       | 🥉 브론즈 5 |                         사칙연산 ,구현                         |[코드](baekjoon/bronze5/3003.md)
 | 3085  |            [사탕게임](https://www.acmicpc.net/problem/3085)            | 🥈 실버 3  |                          브루트포스                           |[코드](baekjoon/silver3/3085.md)
