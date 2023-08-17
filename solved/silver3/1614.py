@@ -1,0 +1,28 @@
+import sys
+
+n = int(sys.stdin.readline())
+m = int(sys.stdin.readline())
+ans = 0
+if n == 1:
+    ans = max(0, 1 + (m - 1) * 8 + 7)
+elif n == 2:
+    if m == 0:
+        ans = n - 1
+    elif m % 2 == 1:
+        ans = 2 + (m // 2) * 8 + 5
+    else:
+        ans = 8 + ((m - 1) // 2) * 8 + 1
+elif n == 3:
+    ans = max(2, 3 + (m - 1) * 4 + 3)
+elif n == 4:
+    if m == 0:
+        ans = 3
+    elif m % 2 == 1:
+        ans = 4 + (m // 2) * 8 + 1
+    else:
+        ans = 6 + ((m - 1) // 2) * 8 + 5
+
+else:
+    ans = max(4, 5 + (m - 1) * 8 + 7)
+
+print(ans)
