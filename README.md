@@ -41,6 +41,7 @@
 | 2754  |            [학점계산](https://www.acmicpc.net/problem/2754)            | 🥉 브론즈 5 |                           조건문                            |[코드](baekjoon/bronze5/2754.md)
 | 2846  |            [오르막길](https://www.acmicpc.net/problem/2846)            | 🥉 브론즈 1 |                            구현                            |[코드](baekjoon/bronze1/2846.md)
 | 2857  |            [FBI](https://www.acmicpc.net/problem/2857)             | 🥉 브론즈 3 |             split() , *(asterlisk) unpacking             |[코드](baekjoon/bronze3/2857.md)
+| 2992  |          [크면서 작은 수](https://www.acmicpc.net/problem/2992)          | 🥈 실버 3 |         itertools permutation , join , 리스트 컴프리핸션         |[코드](baekjoon/silver3/2992.md)
 | 3003  |       [킹,퀸,룩,비숍,나이트,폰](https://www.acmicpc.net/problem/3003)       | 🥉 브론즈 5 |                         사칙연산 ,구현                         |[코드](baekjoon/bronze5/3003.md)
 | 3085  |            [사탕게임](https://www.acmicpc.net/problem/3085)            | 🥈 실버 3  |                          브루트포스                           |[코드](baekjoon/silver3/3085.md)
 | 4101  |            [크냐?](https://www.acmicpc.net/problem/4101)             | 🥉 브론즈 5 |                        사칙연산 ,입출력                         |[코드](solved/bronze5/4101.py)
