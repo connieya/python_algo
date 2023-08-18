@@ -30,6 +30,8 @@
 | 2037  |           [문자메시지](https://www.acmicpc.net/problem/2037)            | 🥉 브론즈 1 |                    구현 , dict  ,2차원 배열                    |[코드](baekjoon/bronze1/2037.md)
 | 2217  |             [로프](https://www.acmicpc.net/problem/2217)             | 🥈 실버 4  |                            정렬                            |[코드](baekjoon/silver4/2217.md)
 | 2309  |            [난쟁이](https://www.acmicpc.net/problem/2309)             | 🥉 브론즈 1 |                        조합 , 브루트포스                        |[코드](baekjoon/bronze1/2309.md)
+| 2407  |             [조합](https://www.acmicpc.net/problem/2407)             | 🥈 실버 3  |                    DP   , 파이썬만 가능한 풀이                    |[코드](baekjoon/silver3/2407.md)
+| 2428  |             [표절](https://www.acmicpc.net/problem/2428)             | 🥈 실버 3  |                    lower bound   ,구현                     |[코드](baekjoon/silver3/2428.md)
 | 2437  |             [저울](https://www.acmicpc.net/problem/2437)             | 🥇  골드 2 |                         그리디 ,정렬                          |[코드](baekjoon/gold2/2437.md)
 | 2476  |           [주사위 게임](https://www.acmicpc.net/problem/2476)           | 🥉 브론즈 3 |                            구현                            |[코드](baekjoon/bronze3/2476.md)
 | 2557  |        [Hello World](https://www.acmicpc.net/problem/2557)         | 🥉 브론즈 5 |                            출력                            |[코드](baekjoon/bronze5/2557.md)
