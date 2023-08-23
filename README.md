@@ -10,6 +10,7 @@
 | 1037  |             [약수](https://www.acmicpc.net/problem/1037)             | 🥉 브론즈 1 |                            수학                            |[코드](baekjoon/bronze1/1037.md)
 | 1107  |            [리모컨](https://www.acmicpc.net/problem/1107)             | 🥇 골드 5  |                          브루트포스                           |[코드](baekjoon/gold5/1107.md)
 | 1110  |          [더하기 사이클](https://www.acmicpc.net/problem/1110)           | 🥉 브론즈 1 |                          수학,구현                           |[코드](baekjoon/bronze1/1110.md)
+| 1138  |          [한 줄로 서기](https://www.acmicpc.net/problem/1138)           | 🥈 실버 2 |                          insert                          |[코드](baekjoon/silver2/1138.md)
 | 1157  |           [단어 공부](https://www.acmicpc.net/problem/1157)            | 🥉 브론즈 1 |             upper() , map(chr ,range(65,91 )             |[코드](baekjoon/bronze1/1157.md)
 | 1182  |          [부분집합의 합](https://www.acmicpc.net/problem/1182)           | 🥈 실버 2  |                          비트마스킹                           |[코드](baekjoon/silver2/1182.md)
 | 1264  |           [모음의 개수](https://www.acmicpc.net/problem/1264)           | 🥉 브론즈 4 |                         input()                          |[코드](baekjoon/bronze4/1264.md)
