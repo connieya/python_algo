@@ -338,6 +338,7 @@
 | 819 |                                           [ Most Common Word ](https://leetcode.com/problems/most-common-word/)                                           |    Easy    |            정규식 , Counter 모듈             |[Solution](leetcode/easy/819.md)
 | 937 |                                  [ Reorder Data in Log Files ](https://leetcode.com/problems/reorder-data-in-log-files/)                                  |   Medium   |                 람다 표현식                  | [Solution](leetcode/medium/937.md)
 | 973 |                                     [ K. Closet Points to Origin ](https://leetcode.com/problems/k-closet-to-origin/)                                     |   Medium   |        정렬 람다식 정의       , 우선순위 큐         | [Solution](leetcode/medium/973.md)
+| 1018 |                                     [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/)                                     |   Easy   |  시프트 연산 (<<)         | [Solution](leetcode/easy/1018.md)
 
 ## 🤡 SQL
 
