@@ -48,6 +48,7 @@
 | 2754  |            [학점계산](https://www.acmicpc.net/problem/2754)            | 🥉 브론즈 5 |                           조건문                            |[코드](baekjoon/bronze5/2754.md)
 | 2846  |            [오르막길](https://www.acmicpc.net/problem/2846)            | 🥉 브론즈 1 |                            구현                            |[코드](baekjoon/bronze1/2846.md)
 | 2857  |            [FBI](https://www.acmicpc.net/problem/2857)             | 🥉 브론즈 3 |             split() , *(asterlisk) unpacking             |[코드](baekjoon/bronze3/2857.md)
+| 2903  |         [중앙 이동 알고리즘](https://www.acmicpc.net/problem/2903)         | 🥉 브론즈 3  |                         수학 ,반복문                          |[코드](baekjoon/bronze3/2903.md)
 | 2992  |          [크면서 작은 수](https://www.acmicpc.net/problem/2992)          | 🥈 실버 3  |         itertools permutation , join , 리스트 컴프리핸션         |[코드](baekjoon/silver3/2992.md)
 | 3003  |       [킹,퀸,룩,비숍,나이트,폰](https://www.acmicpc.net/problem/3003)       | 🥉 브론즈 5 |                         사칙연산 ,구현                         |[코드](baekjoon/bronze5/3003.md)
 | 3077  |            [임진왜란](https://www.acmicpc.net/problem/3077)            | 🥈 실버 3  |               defaultdict , index , remove               |[코드](baekjoon/silver3/3077.md)
