@@ -249,6 +249,7 @@
 |Lv.3| [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)          | DP                                                     | [코드](programmers/level03/정수삼각형.md)     |
 |Lv.3| [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)            | DFS , 플로이드 와샬                                          | [코드](programmers/level03/네트워크.md)      |
 |Lv.3| [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)            | DFS                                                    | [코드](programmers/level03/여행경로.md)      |
+|Lv.3| [외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062)         | 완전탐색 ,백트래킹                                | [코드](programmers/level03/외벽점검.md)   |
 |Lv.3| [블록 이동하기](https://school.programmers.co.kr/learn/courses/30/lessons/60063)         | 3차원 배열 , BFS , 구현                                      | [코드](programmers/level03/블록이동하기..md)   |
 |Lv.3| [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)        | 이분 탐색                                                  | [코드](programmers/level03/징검다리.md)      |
 |Lv.3| [풍선 터트리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646)         | Stack , 구현                                             | [코드](programmers/level03/풍선.md)        |
@@ -260,6 +261,7 @@
 |Lv.3| [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/131129)         | DP                                                     | [코드](programmers/level03/카운트다운.md)     |
 |Lv.3| [부대 복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)          | 다익스트라 , heapq                                          | [코드](programmers/level03/부대복귀..md)     |
 |Lv.3| [미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)      | deque , bfs ,  그리디                                     | [코드](programmers/level03/미로탈출.md)      |
+|Lv.3| [표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367)      | 포화 이진 트리 개념, 노드 수 , 높이 , DFS                                   | [코드](programmers/level03/표현가능한이진트리.md)      |
 |Lv.3| [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995)           | 정렬 , 그리디                                               | [코드](programmers/level03/인사고과.md)      |
 |Lv.3| [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988) | DP , 부분합                                               | [코드](programmers/level03/연속펄스.md)      |
 |Lv.4| [단어 퍼즐](https://school.programmers.co.kr/learn/courses/30/lessons/12983)           | 정렬 람다 sorted 다중 요소, 그리디                                | [코드](programmers/level04/단어퍼즐.md)      |
