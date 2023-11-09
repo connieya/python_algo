@@ -15,6 +15,7 @@
 | 1157  |           [단어 공부](https://www.acmicpc.net/problem/1157)            | 🥉 브론즈 1 |             upper() , map(chr ,range(65,91 )             |[코드](baekjoon/bronze1/1157.md)
 | 1182  |          [부분집합의 합](https://www.acmicpc.net/problem/1182)           | 🥈 실버 2  |                          비트마스킹                           |[코드](baekjoon/silver2/1182.md)
 | 1183  |             [약속](https://www.acmicpc.net/problem/1183)             | 🥈 실버 2  |                          수학, 정렬                          |[코드](baekjoon/silver2/1183.md)
+| 1197  |             [최소스패닝트리](https://www.acmicpc.net/problem/1197)             |🥇 골드 4  |                          최소 신장 트리, 크루스칼 알고리즘                         |[코드](solved/gold4/1197.py)
 | 1264  |           [모음의 개수](https://www.acmicpc.net/problem/1264)           | 🥉 브론즈 4 |                         input()                          |[코드](baekjoon/bronze4/1264.md)
 | 1283  |           [단축키 지정](https://www.acmicpc.net/problem/1283)           | 🥈 실버 2  |                       구현 , lower()                       |[코드](baekjoon/silver2/1283.md)
 | 1439  |            [뒤집기](https://www.acmicpc.net/problem/1439)             | 🥈 실버 5  |                            구현                            |[코드](baekjoon/silver5/1439.md)
@@ -26,7 +27,9 @@
 | 1614  |          [영식이의 손가락](https://www.acmicpc.net/problem/1614)          | 🥈 실버 3  |                          수학, 구현                          |[코드](baekjoon/silver3/1614.md)
 | 1652  |         [누울 자리를 찾아라](https://www.acmicpc.net/problem/1652)         | 🥈 실버 5  |                    copy.deepcopy , 구현                    |[코드](baekjoon/silver5/1652.md)
 | 1672  |           [DNA 해독](https://www.acmicpc.net/problem/1672)           | 🥉 브론즈 1 |                         구현, dict                         |[코드](baekjoon/bronze1/1672.md)
+| 1717  |          [집합](https://www.acmicpc.net/problem/1717)          | 🥇  골드 5  |                        서로소 , 유니온 파인드                       |[코드](solved/gold5/1717.py)
 | 1748  |          [수 이어 쓰기1](https://www.acmicpc.net/problem/1748)          | 🥈 실버 4  |                         수학 , 구현                          |[코드](baekjoon/silver4/1748.md)
+| 1753  |          [최단경로](https://www.acmicpc.net/problem/1753)          | 🥇  골드 4   |                        다익스트라                         |[코드](baekjoon/gold4/1753.md)
 | 1759  |           [암호 만들기](https://www.acmicpc.net/problem/1759)           | 🥇 골드 5  |                           백트래킹                           |[코드](baekjoon/gold5/1759.md)
 | 1813  |           [논리학 교수](https://www.acmicpc.net/problem/1813)           | 🥉 브론즈 1 |                    lookup 배열 , count                     |[코드](baekjoon/bronze1/1813.md)
 | 1816  |            [암호 키](https://www.acmicpc.net/problem/1816)            | 🥉 브론즈 1 |                        에라토스테네스의 체                        |[코드](baekjoon/bronze1/1816.md)
@@ -35,6 +38,7 @@
 | 1978  |           [소수 찾기](https://www.acmicpc.net/problem/1978)            | 🥈 실버 5  |                        에라토스테네스의 체                        |[코드](baekjoon/silver5/1978.md)
 | 2037  |           [문자메시지](https://www.acmicpc.net/problem/2037)            | 🥉 브론즈 1 |                    구현 , dict  ,2차원 배열                    |[코드](baekjoon/bronze1/2037.md)
 | 2217  |             [로프](https://www.acmicpc.net/problem/2217)             | 🥈 실버 4  |                            정렬                            |[코드](baekjoon/silver4/2217.md)
+| 2252  |             [줄 세우기](https://www.acmicpc.net/problem/2252)             | 🥇 골드 3   |                            위상 정렬                            |[코드](solved/gold3/2252.py)
 | 2309  |            [난쟁이](https://www.acmicpc.net/problem/2309)             | 🥉 브론즈 1 |                        조합 , 브루트포스                        |[코드](baekjoon/bronze1/2309.md)
 | 2407  |             [조합](https://www.acmicpc.net/problem/2407)             | 🥈 실버 3  |                    DP   , 파이썬만 가능한 풀이                    |[코드](baekjoon/silver3/2407.md)
 | 2428  |             [표절](https://www.acmicpc.net/problem/2428)             | 🥈 실버 3  |                    lower bound   ,구현                     |[코드](baekjoon/silver3/2428.md)
@@ -384,3 +388,6 @@
 |Lv.3| [ 조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기  ](https://programmers.co.kr/learn/courses/30/lessons/164671) | 문자열 , concat , concat                                    | [코드](SQL/lv_3/조회수.md)       |
 |Lv.4| [ 식품분류별 가장 비싼 식품의 정보 조회하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131116)             | inner join                          | [코드](SQL/lv_4/식품분류별.md)    |
 |Lv.4| [ 주문량이 많은 아이스크림들 조회하기️](https://programmers.co.kr/learn/courses/30/lessons/133027)             | with table as , union distinct                           | [코드](SQL/lv_4/주문량이많은.md)    |
+
+
+- [노트](note/index.md)
