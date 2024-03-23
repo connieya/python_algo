@@ -242,6 +242,7 @@
 |Lv.2| [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)           | 그리디                                                    | [코드](programmers/level02/덧칠하기.md)      |
 |Lv.2| [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)         | 구현 , BFS , enumerate , set() , 코드 참고                   | [코드](programmers/level02/리코쳇로봇.md)     |
 |Lv.2| [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)          | 구현   ,정렬                                               | [코드](programmers/level02/광물캐기.md)      |
+|Lv.2| [석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)          |                                              | [코드](programmers/level02/석유시추.md)      |
 |Lv.3| [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)       | 문자열 슬라이스 인덱싱                                           | [코드](programmers/level03/긴팰린드롬.md)     |
 |Lv.3| [스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971)      | DP                                                     | [코드](programmers/level03/스티커모으기.md)    |
 |Lv.3| [기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)          | 그리디 ,구현                                                | [코드](programmers/level03/기지국설치.md)     |
