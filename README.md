@@ -388,7 +388,8 @@
 |Lv.3| [ 조건에 맞는 사용자 정보 조회하기 ️](https://programmers.co.kr/learn/courses/30/lessons/164668)             | inner join , group by ,having                            | [코드](SQL/lv_3/조건에맞는사용자.md)  |
 |Lv.3| [ 조건에 맞는 사용자와 총 거래금액 조회하기️ ](https://programmers.co.kr/learn/courses/30/lessons/164670)        | 문자열 , concat , left() , right() , mid()                  | [코드](SQL/lv_3/조건에맞는.md)     |
 |Lv.3| [ 조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기  ](https://programmers.co.kr/learn/courses/30/lessons/164671) | 문자열 , concat , concat                                    | [코드](SQL/lv_3/조회수.md)       |
-|Lv.4| [ 식품분류별 가장 비싼 식품의 정보 조회하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131116)             | inner join                          | [코드](SQL/lv_4/식품분류별.md)    |
+|Lv.3| [ 특정 조건을 만족하는 물고기별 수와 최대 길이 구하기  ](https://programmers.co.kr/learn/courses/30/lessons/298519)  | case when 집계 함수, 특정 조건 일 때 집계                            | [코드](SQL/lv_3/특정조건.md)      |
+|Lv.4| [ 식품분류별 가장 비싼 식품의 정보 조회하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131116)        | inner join                                               | [코드](SQL/lv_4/식품분류별.md)     |
 |Lv.4| [ 주문량이 많은 아이스크림들 조회하기️](https://programmers.co.kr/learn/courses/30/lessons/133027)             | with table as , union distinct                           | [코드](SQL/lv_4/주문량이많은.md)    |
 
 
