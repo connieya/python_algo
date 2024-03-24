@@ -393,6 +393,7 @@
 |Lv.3| [ 특정 조건을 만족하는 물고기별 수와 최대 길이 구하기  ](https://programmers.co.kr/learn/courses/30/lessons/298519)  | case when 집계 함수, 특정 조건 일 때 집계                            | [코드](SQL/lv_3/특정조건.md)      |
 |Lv.4| [ 식품분류별 가장 비싼 식품의 정보 조회하기 ️](https://programmers.co.kr/learn/courses/30/lessons/131116)        | inner join                                               | [코드](SQL/lv_4/식품분류별.md)     |
 |Lv.4| [ 주문량이 많은 아이스크림들 조회하기️](https://programmers.co.kr/learn/courses/30/lessons/133027)             | with table as , union distinct                           | [코드](SQL/lv_4/주문량이많은.md)    |
+|Lv.4| [ 연간 평가점수에 해당하는 평가 등급 및 성과금 조회하기️](https://programmers.co.kr/learn/courses/30/lessons/284528)  | case when , join                                         | [코드](SQL/lv_4/연간평가점수.md)    |
 
 
 - [노트](note/index.md)
